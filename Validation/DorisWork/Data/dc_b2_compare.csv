@@ -1,0 +1,20 @@
+taxa,Microbial density change,DR,QMD,ANCOM-BC,shortname
+D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Bacteroidaceae;D_5__Bacteroides,0.00509547,6.196166996,-0.439680948,-2.767526644,Bacteroides
+D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Barnesiellaceae;D_5__Barnesiella,2.257644834,0.010542745,0.806507645,4.912437753,Barnesiella
+D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Marinifilaceae;D_5__Odoribacter,-2.264021242,-0.095389071,-1.332624094,2.863233958,Odoribacter
+D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Prevotellaceae;D_5__Prevotella 9,5.838026942,0.5797754,5.669541551,-1.972578533,Prevotella 9
+D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Rikenellaceae;D_5__Alistipes,0.667887631,0.381196062,0.290356458,0.586272029,Alistipes
+D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Tannerellaceae;D_5__Parabacteroides,1.05818069,0.343429425,0.425340167,-0.916829051,Parabacteroides
+D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Lactobacillales;D_4__Streptococcaceae;D_5__Streptococcus,2.65432408,0.082617896,1.838910519,3.791637268,Streptococcus
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;__,0.936662443,1.044145584,0.104446274,-0.375777471,Lachnospiraceae__
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;D_5__Agathobacter,1.109184035,0.853582357,0.072147223,2.677693512,Agathobacter
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;D_5__Anaerostipes,-0.261216006,0.366378725,-1.24419322,0.799082854,Anaerostipes
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;D_5__Blautia,-0.803567912,1.364692954,-1.449426759,1.301265,Blautia
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;D_5__Coprococcus 3,1.234920815,0.066304159,-0.453030689,6.179850403,Coprococcus 3
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;D_5__Lachnoclostridium,0.632243023,0.894441652,0.412180937,-0.535618318,Lachnoclostridium
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Lachnospiraceae;D_5__Roseburia,-0.484160276,0.146959669,-0.629134804,-2.13091183,Roseburia
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Ruminococcaceae;D_5__Faecalibacterium,0.827021866,1.82102656,-0.343977012,1.422482984,Faecalibacterium
+D_0__Bacteria;D_1__Firmicutes;D_2__Clostridia;D_3__Clostridiales;D_4__Ruminococcaceae;D_5__Subdoligranulum,1.242212581,0.897337495,0.001059815,1.080188664,Subdoligranulum
+D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Betaproteobacteriales;D_4__Burkholderiaceae;D_5__Parasutterella,-0.949822654,0.125515367,-1.002331283,5.170546549,Parasutterella
+D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Betaproteobacteriales;D_4__Burkholderiaceae;D_5__Sutterella,-0.490431549,0.196512643,-0.12968119,-2.881151796,Sutterella
+D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Escherichia-Shigella,1.938678162,0.572463773,1.768072888,-1.710588448,Escherichia-Shigella

@@ -1,0 +1,22 @@
+"","taxon","mean.difference (Keto - Control)","se (Keto - Control)","W","p.val","q.val","diff.abn","ANCOM_BC_diff"
+"1","D_0__Bacteria.D_1__Bacteroidetes.D_2__Bacteroidia.D_3__Bacteroidales.D_4__Muribaculaceae.__",6.16827866273949,0,Inf,0,0,TRUE,8.89894503755547
+"2","D_0__Bacteria.D_1__Firmicutes.D_2__Bacilli.D_3__Lactobacillales.D_4__Streptococcaceae.D_5__Streptococcus",10.5378175804955,0,Inf,0,0,TRUE,15.2028571651734
+"3","D_0__Bacteria.D_1__Firmicutes.D_2__Clostridia.D_3__Clostridiales.D_4__Lachnospiraceae.D_5__Blautia",6.12101504244805,0,Inf,0,0,TRUE,8.83075804694655
+"4","D_0__Bacteria.D_1__Firmicutes.D_2__Clostridia.D_3__Clostridiales.D_4__Ruminococcaceae.D_5__Ruminococcaceae.UCG.014",-8.4275474873892,0,Inf,0,0,TRUE,-12.1583809669126
+"5","D_0__Bacteria.D_1__Proteobacteria.D_2__Deltaproteobacteria.D_3__Desulfovibrionales.D_4__Desulfovibrionaceae.D_5__uncultured",14.2568482485443,0,Inf,0,0,TRUE,20.5682842668814
+"6","D_0__Bacteria.D_1__Proteobacteria.D_2__Gammaproteobacteria.D_3__Pseudomonadales.D_4__Moraxellaceae.D_5__Acinetobacter",6.28758098935485,0,Inf,0,0,TRUE,9.07106191252996
+"7","D_0__Bacteria.D_1__Bacteroidetes.D_2__Bacteroidia.D_3__Bacteroidales.D_4__Bacteroidaceae.D_5__Bacteroides",5.56675360289606,3.09958306691225,1.79596851664362,0.0724995242857833,1,FALSE,8.03112781674892
+"8","D_0__Bacteria.D_1__Firmicutes.D_2__Bacilli.D_3__Lactobacillales.D_4__Enterococcaceae.D_5__Enterococcus",2.85198783538576,3.80713116213192,0.749117304849749,0.453786505798937,1,FALSE,4.11454870678668
+"9","D_0__Bacteria.D_1__Firmicutes.D_2__Clostridia.D_3__Clostridiales.D_4__Clostridiaceae.1.D_5__Candidatus.Arthromitus",3.55114884317883,4.81296926981431,0.737829112155507,0.460618300128313,1,FALSE,5.12322482551268
+"10","D_0__Bacteria.D_1__Firmicutes.D_2__Clostridia.D_3__Clostridiales.D_4__Lachnospiraceae.D_5__Lachnoclostridium",6.30793618661747,3.89452348819816,1.61969396403253,0.105298033450682,1,FALSE,9.10042825467706
+"11","D_0__Bacteria.D_1__Firmicutes.D_2__Erysipelotrichia.D_3__Erysipelotrichales.D_4__Erysipelotrichaceae.D_5__Erysipelatoclostridium",0.242846693961623,3.8813761072079,0.0625671636177295,0.950111177803673,1,FALSE,0.350353721074713
+"12","D_0__Bacteria.D_1__Firmicutes.D_2__Clostridia.D_3__Clostridiales.D_4__Lachnospiraceae.D_5__A2",3.58159504348299,2.59509608601527,1.38013966526476,0.167543646517548,1,FALSE,5.1671494077054
+"13","D_0__Bacteria.D_1__Firmicutes.D_2__Clostridia.D_3__Clostridiales.D_4__Peptostreptococcaceae.D_5__Romboutsia",2.19673462284421,3.67868528149782,0.597152095041354,0.550405839436506,1,FALSE,3.16921814652644
+"14","D_0__Bacteria.D_1__Actinobacteria.D_2__Coriobacteriia.D_3__Coriobacteriales.D_4__Eggerthellaceae.D_5__Enterorhabdus",0.0183061350072471,1.30143197516248,0.0140661481787872,0.988777207623183,1,FALSE,0.0264101701927992
+"15","D_0__Bacteria.D_1__Bacteroidetes.D_2__Bacteroidia.D_3__Bacteroidales.D_4__Muribaculaceae.D_5__uncultured.Bacteroidales.bacterium",-0.251827110833972,1.20480254103373,-0.209019405468635,0.834433089821029,1,FALSE,-0.363309723961566
+"16","D_0__Bacteria.D_1__Bacteroidetes.D_2__Bacteroidia.D_3__Bacteroidales.D_4__Muribaculaceae.D_5__uncultured.bacterium",-2.87730009800751,1.13740016133977,-2.52971662551749,0.0114154681618257,0.171232022427386,FALSE,-4.15106658254476
+"17","D_0__Bacteria.D_1__Firmicutes.D_2__Bacilli.D_3__Lactobacillales.D_4__Lactobacillaceae.D_5__Lactobacillus",-3.26415396778565,1.18946697702266,-2.74421571244973,0.00606556658494186,0.0909834987741279,FALSE,-4.70917874202239
+"18","D_0__Bacteria.D_1__Firmicutes.D_2__Bacilli.D_3__Lactobacillales.D_4__Streptococcaceae.D_5__Lactococcus",-2.8718450588663,1.1284071800994,-2.54504323396217,0.0109264209015753,0.163896313523629,FALSE,-4.14319662462789
+"19","D_0__Bacteria.D_1__Firmicutes.D_2__Erysipelotrichia.D_3__Erysipelotrichales.D_4__Erysipelotrichaceae.D_5__Faecalibaculum",-2.20250937751859,1.43694339512636,-1.53277393179772,0.125331565717531,1,FALSE,-3.1775493564575
+"20","D_0__Bacteria.D_1__Proteobacteria.D_2__Gammaproteobacteria.D_3__Betaproteobacteriales.D_4__Burkholderiaceae.D_5__Parasutterella",-3.40581793407019,2.64834596944294,-1.2860169982952,0.19843712937449,1,FALSE,-4.91355664365375
+"21","D_0__Bacteria.D_1__Verrucomicrobia.D_2__Verrucomicrobiae.D_3__Verrucomicrobiales.D_4__Akkermansiaceae.D_5__Akkermansia",-0.117109479704574,1.18710641387726,-0.0986512062739827,0.921415211550979,1,FALSE,-0.168953265610876
