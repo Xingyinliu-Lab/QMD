@@ -1,0 +1,423 @@
+﻿projectID,runID,sampleID,experimenttype,readsseqeunced,instrumentmodel,country,collectiondate,gender,hostageinyears,diet,BMI,recentantibioticsuse,QCstatus
+PRJEB4336,ERR321067,ERS328718,Metagenomics,4477312,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321068,ERS328718,Metagenomics,10856019,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321069,ERS328718,Metagenomics,9857500,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321092,ERS328727,Metagenomics,5074119,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321093,ERS328727,Metagenomics,10687883,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321094,ERS328727,Metagenomics,13150141,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321095,ERS328727,Metagenomics,15824363,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321096,ERS328727,Metagenomics,16560727,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321097,ERS328727,Metagenomics,15771599,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321098,ERS328727,Metagenomics,15956567,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321101,ERS328729,Metagenomics,4778196,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,38.5,N,1
+PRJEB4336,ERR321102,ERS328729,Metagenomics,10029059,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,38.5,N,1
+PRJEB4336,ERR321103,ERS328729,Metagenomics,13340573,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,38.5,N,1
+PRJEB4336,ERR321106,ERS328731,Metagenomics,4840022,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.5,N,1
+PRJEB4336,ERR321107,ERS328731,Metagenomics,9033892,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.5,N,1
+PRJEB4336,ERR321108,ERS328731,Metagenomics,13321829,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.5,N,1
+PRJEB4336,ERR321115,ERS328735,Metagenomics,10094227,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321116,ERS328735,Metagenomics,12803061,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321125,ERS328740,Metagenomics,11437582,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,34.2,N,1
+PRJEB4336,ERR321127,ERS328741,Metagenomics,10893200,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,37.3,N,1
+PRJEB4336,ERR321128,ERS328741,Metagenomics,7847511,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,37.3,N,1
+PRJEB4336,ERR321133,ERS328744,Metagenomics,10126724,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,35.2,N,1
+PRJEB4336,ERR321137,ERS328746,Metagenomics,9133455,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,35.3,N,1
+PRJEB4336,ERR321139,ERS328747,Metagenomics,9129898,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321145,ERS328750,Metagenomics,10483020,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321167,ERS328761,Metagenomics,10769772,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.4,N,1
+PRJEB4336,ERR321168,ERS328761,Metagenomics,2694802,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.4,N,1
+PRJEB4336,ERR321171,ERS328763,Metagenomics,10935278,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321172,ERS328763,Metagenomics,4391268,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321177,ERS328766,Metagenomics,10592713,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321178,ERS328766,Metagenomics,3693580,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.2,N,1
+PRJEB4336,ERR321179,ERS328767,Metagenomics,8624377,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.7,N,1
+PRJEB4336,ERR321180,ERS328767,Metagenomics,13016035,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.7,N,1
+PRJEB4336,ERR321183,ERS328769,Metagenomics,10018598,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.3,N,1
+PRJEB4336,ERR321184,ERS328769,Metagenomics,13535415,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.3,N,1
+PRJEB4336,ERR321187,ERS328771,Metagenomics,8046008,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33,N,1
+PRJEB4336,ERR321192,ERS328773,Metagenomics,10494611,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,33.3,N,1
+PRJEB4336,ERR321197,ERS328776,Metagenomics,9350300,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,37.5,N,1
+PRJEB4336,ERR321198,ERS328776,Metagenomics,8905846,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,37.5,N,1
+PRJEB4336,ERR321199,ERS328777,Metagenomics,11837789,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321211,ERS328783,Metagenomics,10853791,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,36.7,N,1
+PRJEB4336,ERR321212,ERS328783,Metagenomics,11959007,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,36.7,N,1
+PRJEB4336,ERR321220,ERS328787,Metagenomics,11027848,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,32.5,N,1
+PRJEB4336,ERR321224,ERS328789,Metagenomics,11673692,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.6,N,1
+PRJEB4336,ERR321225,ERS328789,Metagenomics,11858110,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.6,N,1
+PRJEB4336,ERR321226,ERS328790,Metagenomics,11202008,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,34.8,N,1
+PRJEB4336,ERR321227,ERS328790,Metagenomics,4119175,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,34.8,N,1
+PRJEB4336,ERR321230,ERS328792,Metagenomics,8559662,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,36.9,N,1
+PRJEB4336,ERR321231,ERS328792,Metagenomics,4446341,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,36.9,N,1
+PRJEB4336,ERR321236,ERS328795,Metagenomics,10866009,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,38,N,1
+PRJEB4336,ERR321240,ERS328797,Metagenomics,11683722,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.6,N,1
+PRJEB4336,ERR321241,ERS328797,Metagenomics,12267365,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,30.6,N,1
+PRJEB4336,ERR321244,ERS328799,Metagenomics,11429041,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,36.5,N,1
+PRJEB4336,ERR321245,ERS328799,Metagenomics,13287131,Illumina Genome Analyzer II,Denmark,2009/1/1,,,,36.5,N,1
+PRJEB4336,ERR321252,ERS328802,Metagenomics,31957940,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321261,ERS328805,Metagenomics,31231455,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321262,ERS328806,Metagenomics,17582316,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321263,ERS328806,Metagenomics,9776024,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321264,ERS328806,Metagenomics,3865488,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321265,ERS328806,Metagenomics,1506572,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321266,ERS328806,Metagenomics,1514303,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321267,ERS328806,Metagenomics,3774806,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321268,ERS328806,Metagenomics,3904978,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.5,N,1
+PRJEB4336,ERR321269,ERS328807,Metagenomics,17218795,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321270,ERS328807,Metagenomics,3647631,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321271,ERS328807,Metagenomics,1694440,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321272,ERS328807,Metagenomics,1660557,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321273,ERS328807,Metagenomics,1678157,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321274,ERS328807,Metagenomics,3491447,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321275,ERS328808,Metagenomics,17923670,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321276,ERS328808,Metagenomics,4169395,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321277,ERS328808,Metagenomics,1895032,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321278,ERS328808,Metagenomics,1913965,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321279,ERS328808,Metagenomics,4042523,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321280,ERS328808,Metagenomics,4213100,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321281,ERS328809,Metagenomics,15505163,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.7,N,1
+PRJEB4336,ERR321282,ERS328809,Metagenomics,3775619,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.7,N,1
+PRJEB4336,ERR321283,ERS328809,Metagenomics,1607503,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.7,N,1
+PRJEB4336,ERR321284,ERS328809,Metagenomics,1568062,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.7,N,1
+PRJEB4336,ERR321285,ERS328809,Metagenomics,1598760,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.7,N,1
+PRJEB4336,ERR321286,ERS328809,Metagenomics,3571690,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.7,N,1
+PRJEB4336,ERR321287,ERS328810,Metagenomics,17867580,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321288,ERS328810,Metagenomics,4093163,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321289,ERS328810,Metagenomics,1581271,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321290,ERS328810,Metagenomics,1592710,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321291,ERS328810,Metagenomics,3992207,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321292,ERS328810,Metagenomics,4131611,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321293,ERS328811,Metagenomics,16962115,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.7,N,1
+PRJEB4336,ERR321294,ERS328811,Metagenomics,3693505,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.7,N,1
+PRJEB4336,ERR321295,ERS328811,Metagenomics,1451615,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.7,N,1
+PRJEB4336,ERR321296,ERS328811,Metagenomics,1420293,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.7,N,1
+PRJEB4336,ERR321297,ERS328811,Metagenomics,1469710,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.7,N,1
+PRJEB4336,ERR321298,ERS328811,Metagenomics,3545607,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.7,N,1
+PRJEB4336,ERR321303,ERS328813,Metagenomics,17891751,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321304,ERS328813,Metagenomics,2289227,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321305,ERS328813,Metagenomics,2320535,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321306,ERS328813,Metagenomics,2315098,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321307,ERS328813,Metagenomics,4702970,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321308,ERS328814,Metagenomics,19165095,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321309,ERS328814,Metagenomics,8289474,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321310,ERS328814,Metagenomics,5556515,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321311,ERS328814,Metagenomics,2643402,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321312,ERS328815,Metagenomics,18259159,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321313,ERS328815,Metagenomics,2205150,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321314,ERS328815,Metagenomics,2235964,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321315,ERS328815,Metagenomics,2109566,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321316,ERS328815,Metagenomics,4432149,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321334,ERS328819,Metagenomics,18887188,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.5,N,1
+PRJEB4336,ERR321335,ERS328819,Metagenomics,2662873,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.5,N,1
+PRJEB4336,ERR321336,ERS328819,Metagenomics,2695690,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.5,N,1
+PRJEB4336,ERR321337,ERS328819,Metagenomics,2667547,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.5,N,1
+PRJEB4336,ERR321338,ERS328819,Metagenomics,4978957,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.5,N,1
+PRJEB4336,ERR321339,ERS328820,Metagenomics,17726255,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321340,ERS328820,Metagenomics,8287928,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321341,ERS328820,Metagenomics,4301903,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321342,ERS328820,Metagenomics,2163073,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321343,ERS328820,Metagenomics,2120071,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321344,ERS328820,Metagenomics,2151732,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321345,ERS328820,Metagenomics,4102054,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321352,ERS328822,Metagenomics,23069320,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321353,ERS328822,Metagenomics,9533521,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321359,ERS328824,Metagenomics,17400574,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321360,ERS328824,Metagenomics,4013060,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321361,ERS328824,Metagenomics,1748116,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321362,ERS328824,Metagenomics,1738343,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321363,ERS328824,Metagenomics,3962701,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321364,ERS328824,Metagenomics,4178247,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321365,ERS328825,Metagenomics,20623902,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321366,ERS328825,Metagenomics,4688081,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321367,ERS328825,Metagenomics,5649783,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321372,ERS328827,Metagenomics,19181825,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321373,ERS328827,Metagenomics,2447804,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321374,ERS328827,Metagenomics,2470847,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321375,ERS328827,Metagenomics,2442262,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321376,ERS328827,Metagenomics,4292012,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321380,ERS328829,Metagenomics,17419959,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321381,ERS328829,Metagenomics,3600802,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321382,ERS328829,Metagenomics,1496771,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321383,ERS328829,Metagenomics,1512326,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321384,ERS328829,Metagenomics,3510425,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321385,ERS328829,Metagenomics,3677971,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321386,ERS328830,Metagenomics,20249298,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321387,ERS328830,Metagenomics,3132666,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321388,ERS328830,Metagenomics,3131346,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321389,ERS328830,Metagenomics,3172974,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321390,ERS328831,Metagenomics,19868466,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321391,ERS328831,Metagenomics,4475663,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321392,ERS328831,Metagenomics,5301421,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321393,ERS328832,Metagenomics,31681595,Illumina HiSeq 2000,Denmark,2009/1/1,,,,42.9,N,1
+PRJEB4336,ERR321394,ERS328833,Metagenomics,20007131,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321395,ERS328833,Metagenomics,3257084,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321396,ERS328833,Metagenomics,3305365,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321397,ERS328833,Metagenomics,3407781,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321398,ERS328834,Metagenomics,29697354,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,35.1,N,1
+PRJEB4336,ERR321401,ERS328835,Metagenomics,4324041,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.5,N,1
+PRJEB4336,ERR321403,ERS328835,Metagenomics,4141465,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.5,N,1
+PRJEB4336,ERR321404,ERS328836,Metagenomics,14911261,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321405,ERS328836,Metagenomics,4612957,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321406,ERS328836,Metagenomics,4812295,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321407,ERS328836,Metagenomics,4718090,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.5,N,1
+PRJEB4336,ERR321408,ERS328837,Metagenomics,12322172,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.7,N,1
+PRJEB4336,ERR321409,ERS328837,Metagenomics,3539585,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.7,N,1
+PRJEB4336,ERR321410,ERS328837,Metagenomics,3773500,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.7,N,1
+PRJEB4336,ERR321411,ERS328837,Metagenomics,3629934,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.7,N,1
+PRJEB4336,ERR321412,ERS328837,Metagenomics,4486518,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.7,N,1
+PRJEB4336,ERR321421,ERS328840,Metagenomics,15948245,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321422,ERS328840,Metagenomics,3486140,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321423,ERS328840,Metagenomics,3433248,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321424,ERS328840,Metagenomics,3470569,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321425,ERS328841,Metagenomics,15593363,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,36.5,N,1
+PRJEB4336,ERR321426,ERS328841,Metagenomics,4922985,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,36.5,N,1
+PRJEB4336,ERR321427,ERS328841,Metagenomics,5099984,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,36.5,N,1
+PRJEB4336,ERR321428,ERS328841,Metagenomics,4993573,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,36.5,N,1
+PRJEB4336,ERR321433,ERS328843,Metagenomics,18487130,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.3,N,1
+PRJEB4336,ERR321434,ERS328843,Metagenomics,3653017,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.3,N,1
+PRJEB4336,ERR321435,ERS328843,Metagenomics,3992714,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.3,N,1
+PRJEB4336,ERR321436,ERS328843,Metagenomics,3856494,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.3,N,1
+PRJEB4336,ERR321437,ERS328844,Metagenomics,30580215,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.2,N,1
+PRJEB4336,ERR321446,ERS328847,Metagenomics,18630847,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321447,ERS328847,Metagenomics,3148119,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321448,ERS328847,Metagenomics,3193015,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321449,ERS328847,Metagenomics,3294826,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321454,ERS328849,Metagenomics,17290734,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321455,ERS328849,Metagenomics,3769695,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321456,ERS328849,Metagenomics,4103548,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321457,ERS328849,Metagenomics,3956301,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321458,ERS328850,Metagenomics,13040562,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321459,ERS328850,Metagenomics,4452201,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321460,ERS328850,Metagenomics,4540382,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321461,ERS328850,Metagenomics,4424249,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321462,ERS328851,Metagenomics,30212546,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321464,ERS328853,Metagenomics,35213514,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.3,N,1
+PRJEB4336,ERR321465,ERS328854,Metagenomics,35379933,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.5,N,1
+PRJEB4336,ERR321468,ERS328857,Metagenomics,35169143,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321476,ERS328861,Metagenomics,20820087,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,42,N,1
+PRJEB4336,ERR321477,ERS328861,Metagenomics,3880408,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,42,N,1
+PRJEB4336,ERR321478,ERS328861,Metagenomics,3826978,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,42,N,1
+PRJEB4336,ERR321479,ERS328861,Metagenomics,3874657,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,42,N,1
+PRJEB4336,ERR321481,ERS328863,Metagenomics,26970140,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.6,N,1
+PRJEB4336,ERR321482,ERS328863,Metagenomics,6823991,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.6,N,1
+PRJEB4336,ERR321484,ERS328865,Metagenomics,30449273,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.6,N,1
+PRJEB4336,ERR321485,ERS328866,Metagenomics,30578998,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.3,N,1
+PRJEB4336,ERR321487,ERS328868,Metagenomics,29733201,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.8,N,1
+PRJEB4336,ERR321488,ERS328869,Metagenomics,29844475,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,36.1,N,1
+PRJEB4336,ERR321489,ERS328870,Metagenomics,29214862,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,38.6,N,1
+PRJEB4336,ERR321490,ERS328871,Metagenomics,29704572,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.4,N,1
+PRJEB4336,ERR321491,ERS328872,Metagenomics,29418312,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321492,ERS328873,Metagenomics,28197773,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.8,N,1
+PRJEB4336,ERR321494,ERS328875,Metagenomics,34273643,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321495,ERS328876,Metagenomics,27501502,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.7,N,1
+PRJEB4336,ERR321496,ERS328876,Metagenomics,3172393,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.7,N,1
+PRJEB4336,ERR321499,ERS328878,Metagenomics,2707333,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,37.2,N,1
+PRJEB4336,ERR321500,ERS328878,Metagenomics,2789274,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,37.2,N,1
+PRJEB4336,ERR321501,ERS328878,Metagenomics,2868979,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,37.2,N,1
+PRJEB4336,ERR321502,ERS328878,Metagenomics,4046020,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,37.2,N,1
+PRJEB4336,ERR321503,ERS328879,Metagenomics,19936811,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321504,ERS328879,Metagenomics,3663831,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321505,ERS328879,Metagenomics,4191766,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321510,ERS328881,Metagenomics,20197557,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.2,N,1
+PRJEB4336,ERR321511,ERS328881,Metagenomics,3052239,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.2,N,1
+PRJEB4336,ERR321512,ERS328881,Metagenomics,3107070,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.2,N,1
+PRJEB4336,ERR321513,ERS328881,Metagenomics,3198795,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.2,N,1
+PRJEB4336,ERR321516,ERS328883,Metagenomics,22869714,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.6,N,1
+PRJEB4336,ERR321517,ERS328883,Metagenomics,3989003,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.6,N,1
+PRJEB4336,ERR321518,ERS328883,Metagenomics,4008875,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.6,N,1
+PRJEB4336,ERR321519,ERS328883,Metagenomics,4128919,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,32.6,N,1
+PRJEB4336,ERR321520,ERS328884,Metagenomics,33090647,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.3,N,1
+PRJEB4336,ERR321522,ERS328886,Metagenomics,32813386,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,36.2,N,1
+PRJEB4336,ERR321524,ERS328888,Metagenomics,30950602,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321525,ERS328889,Metagenomics,19077865,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.9,N,1
+PRJEB4336,ERR321526,ERS328889,Metagenomics,2743969,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.9,N,1
+PRJEB4336,ERR321527,ERS328889,Metagenomics,2682957,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.9,N,1
+PRJEB4336,ERR321528,ERS328889,Metagenomics,2768394,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,33.9,N,1
+PRJEB4336,ERR321531,ERS328892,Metagenomics,29829073,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,30.1,N,1
+PRJEB4336,ERR321533,ERS328894,Metagenomics,37186014,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,37.7,N,1
+PRJEB4336,ERR321538,ERS328896,Metagenomics,20776909,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.3,N,1
+PRJEB4336,ERR321539,ERS328896,Metagenomics,4176559,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.3,N,1
+PRJEB4336,ERR321540,ERS328896,Metagenomics,4543597,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.3,N,1
+PRJEB4336,ERR321541,ERS328896,Metagenomics,4383984,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,41.3,N,1
+PRJEB4336,ERR321542,ERS328897,Metagenomics,36904022,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,31.3,N,1
+PRJEB4336,ERR321543,ERS328898,Metagenomics,37194352,Illumina Genome Analyzer IIx,Denmark,2009/1/1,,,,34.8,N,1
+PRJEB4336,ERR321544,ERS328899,Metagenomics,33641796,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.7,N,1
+PRJEB4336,ERR321545,ERS328900,Metagenomics,22946014,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321546,ERS328900,Metagenomics,22495483,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321547,ERS328901,Metagenomics,35509452,Illumina HiSeq 2000,Denmark,2009/1/1,,,,43.5,N,1
+PRJEB4336,ERR321548,ERS328902,Metagenomics,38025060,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321551,ERS328904,Metagenomics,44427195,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.9,N,1
+PRJEB4336,ERR321552,ERS328905,Metagenomics,47809980,Illumina HiSeq 2000,Denmark,2009/1/1,,,,46.6,N,1
+PRJEB4336,ERR321554,ERS328907,Metagenomics,48408539,Illumina HiSeq 2000,Denmark,2009/1/1,,,,35.4,N,1
+PRJEB4336,ERR321555,ERS328908,Metagenomics,53426062,Illumina HiSeq 2000,Denmark,2009/1/1,,,,45.7,N,1
+PRJEB4336,ERR321558,ERS328911,Metagenomics,51913644,Illumina HiSeq 2000,Denmark,2009/1/1,,,,37.2,N,1
+PRJEB4336,ERR321559,ERS328912,Metagenomics,43192858,Illumina HiSeq 2000,Denmark,2009/1/1,,,,41.2,N,1
+PRJEB4336,ERR321561,ERS328914,Metagenomics,58533367,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.7,N,1
+PRJEB4336,ERR321563,ERS328916,Metagenomics,37936593,Illumina HiSeq 2000,Denmark,2009/1/1,,,,33.4,N,1
+PRJEB4336,ERR321564,ERS328917,Metagenomics,46373966,Illumina HiSeq 2000,Denmark,2009/1/1,,,,37.2,N,1
+PRJEB4336,ERR321566,ERS328919,Metagenomics,29799342,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321567,ERS328919,Metagenomics,29137165,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321568,ERS328920,Metagenomics,53669437,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321569,ERS328921,Metagenomics,38582052,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321570,ERS328922,Metagenomics,36776581,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321571,ERS328923,Metagenomics,44625196,Illumina HiSeq 2000,Denmark,2009/1/1,,,,37.5,N,1
+PRJEB4336,ERR321572,ERS328924,Metagenomics,51852692,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.3,N,1
+PRJEB4336,ERR321573,ERS328925,Metagenomics,44486812,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.4,N,1
+PRJEB4336,ERR321574,ERS328926,Metagenomics,46094465,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.7,N,1
+PRJEB4336,ERR321578,ERS328930,Metagenomics,37683974,Illumina HiSeq 2000,Denmark,2009/1/1,,,,33.8,N,1
+PRJEB4336,ERR321579,ERS328931,Metagenomics,47666326,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321580,ERS328932,Metagenomics,47656902,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321584,ERS328936,Metagenomics,46710328,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.2,N,1
+PRJEB4336,ERR321588,ERS328939,Metagenomics,47217787,Illumina HiSeq 2000,Denmark,2009/1/1,,,,35.1,N,1
+PRJEB4336,ERR321590,ERS328941,Metagenomics,53912811,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.6,N,1
+PRJEB4336,ERR321595,ERS328946,Metagenomics,35782200,Illumina HiSeq 2000,Denmark,2009/1/1,,,,33.5,N,1
+PRJEB4336,ERR321596,ERS328947,Metagenomics,44074275,Illumina HiSeq 2000,Denmark,2009/1/1,,,,37,N,1
+PRJEB4336,ERR321598,ERS328949,Metagenomics,45067560,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.9,N,1
+PRJEB4336,ERR321600,ERS328951,Metagenomics,40070372,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.4,N,1
+PRJEB4336,ERR321601,ERS328952,Metagenomics,43812936,Illumina HiSeq 2000,Denmark,2009/1/1,,,,35.4,N,1
+PRJEB4336,ERR321604,ERS328955,Metagenomics,46387812,Illumina HiSeq 2000,Denmark,2009/1/1,,,,33.7,N,1
+PRJEB4336,ERR321605,ERS328956,Metagenomics,46728789,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.6,N,1
+PRJEB4336,ERR321608,ERS328959,Metagenomics,40619953,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.2,N,1
+PRJEB4336,ERR321609,ERS328960,Metagenomics,46739045,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.6,N,1
+PRJEB4336,ERR321610,ERS328961,Metagenomics,43534468,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.7,N,1
+PRJEB4336,ERR321611,ERS328962,Metagenomics,40424075,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.3,N,1
+PRJEB4336,ERR321612,ERS328963,Metagenomics,38736150,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.9,N,1
+PRJEB4336,ERR321615,ERS328966,Metagenomics,49442487,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32,N,1
+PRJEB4336,ERR321616,ERS328967,Metagenomics,44271885,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.5,N,1
+PRJEB4336,ERR321619,ERS328970,Metagenomics,44291562,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.4,N,1
+PRJEB4336,ERR321620,ERS328971,Metagenomics,39741160,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.1,N,1
+PRJEB4336,ERR321621,ERS328972,Metagenomics,41197728,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.7,N,1
+PRJEB4336,ERR321624,ERS328975,Metagenomics,45647261,Illumina HiSeq 2000,Denmark,2009/1/1,,,,40.2,N,1
+PRJEB4336,ERR321625,ERS328976,Metagenomics,46210848,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.4,N,1
+PRJEB4336,ERR321627,ERS328978,Metagenomics,32430161,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.9,N,1
+PRJEB4336,ERR321628,ERS328979,Metagenomics,32412558,Illumina HiSeq 2000,Denmark,2009/1/1,,,,30.3,N,1
+PRJEB4336,ERR321629,ERS328980,Metagenomics,44534551,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.9,N,1
+PRJEB4336,ERR321631,ERS328982,Metagenomics,42334046,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34,N,1
+PRJEB4336,ERR321634,ERS328985,Metagenomics,51157803,Illumina HiSeq 2000,Denmark,2009/1/1,,,,38.3,N,1
+PRJEB4336,ERR321638,ERS328989,Metagenomics,48397323,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.1,N,1
+PRJEB4336,ERR321639,ERS328990,Metagenomics,45146448,Illumina HiSeq 2000,Denmark,2009/1/1,,,,34.9,N,1
+PRJEB4336,ERR321640,ERS328991,Metagenomics,49448776,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.4,N,1
+PRJEB4336,ERR321641,ERS328992,Metagenomics,48733462,Illumina HiSeq 2000,Denmark,2009/1/1,,,,39.1,N,1
+PRJEB4336,ERR321642,ERS328993,Metagenomics,49356390,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.9,N,1
+PRJEB4336,ERR321644,ERS328995,Metagenomics,58537173,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.4,N,1
+PRJEB4336,ERR321647,ERS328998,Metagenomics,45982409,Illumina HiSeq 2000,Denmark,2009/1/1,,,,40.7,N,1
+PRJEB4336,ERR321649,ERS329000,Metagenomics,49900968,Illumina HiSeq 2000,Denmark,2009/1/1,,,,35.4,N,1
+PRJEB4336,ERR321650,ERS329001,Metagenomics,43368945,Illumina HiSeq 2000,Denmark,2009/1/1,,,,32.9,N,1
+PRJEB4336,ERR321652,ERS329003,Metagenomics,49049383,Illumina HiSeq 2000,Denmark,2009/1/1,,,,31.3,N,1
+PRJEB4336,ERR321656,ERS329007,Metagenomics,52266862,Illumina HiSeq 2000,Denmark,2009/1/1,,,,36.2,N,1
+PRJNA401981,SRR6024804,SRS2505456,Amplicon,,Illumina MiSeq,Italy,,Female,51,,31.9,,1
+PRJNA401981,SRR6024806,SRS2505454,Amplicon,,Illumina MiSeq,Italy,,Female,64,,35.7,,1
+PRJNA433269,SRR6683552,SRS2923797,Amplicon,84090,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+PRJNA433269,SRR6683553,SRS2923793,Amplicon,136309,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+PRJNA433269,SRR6683562,SRS2923784,Amplicon,352780,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+PRJNA433269,SRR6683608,SRS2923739,Amplicon,62700,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+PRJNA433269,SRR6683635,SRS2923712,Amplicon,426853,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+PRJNA433269,SRR6683640,SRS2923707,Amplicon,195876,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+PRJNA433269,SRR6683643,SRS2923705,Amplicon,151388,Ion Torrent PGM,Mexico,2015/9/22,,,,,,1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
