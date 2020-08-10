@@ -1,0 +1,291 @@
+project ID,runID,sample ID,experiment type,nr. reads seqeunced,instrument model,country,collection  date,gender,host age in years,diet,BMI,recent antibiotics use,QC status
+PRJNA422434,SRR413633,SRS294889,metagenomics,23468754,Illumina Genome Analyzer II,China,,Male,50,,,N,1
+PRJNA422434,SRR413632,SRS294888,metagenomics,15846945,Illumina Genome Analyzer II,China,,Male,50,,,N,1
+PRJNA422434,SRR413624,SRS294880,metagenomics,17532349,Illumina Genome Analyzer II,China,,Female,50,,,N,1
+PRJNA422434,SRR413622,SRS294878,metagenomics,23599993,Illumina Genome Analyzer II,China,,Male,50,,,N,1
+PRJNA422434,SRR413604,SRS294860,metagenomics,8729294,Illumina Genome Analyzer II,China,,Male,50,,,N,1
+PRJNA422434,SRR413588,SRS294844,metagenomics,23366050,Illumina Genome Analyzer II,China,,Female,50,,,N,1
+PRJNA422434,SRR341636,SRS259489,metagenomics,15791284,Illumina Genome Analyzer II,China,,Female,51,,26.56,N,1
+PRJNA389280,SRR5983315,SRS2472225,Metagenomics,14661253,Illumina HiSeq 2000,United States of America,2014/1/1,Male,51,,,N,1
+PRJNA353587,SRR5020892,SRS1798914,Amplicon,48113,Illumina MiSeq,,2015/2/12,Female,51,,,N,1
+PRJNA422434,SRR413670,SRS294926,metagenomics,21910603,Illumina Genome Analyzer II,China,,Male,52,,,N,1
+PRJNA422434,SRR413642,SRS294898,metagenomics,7974060,Illumina Genome Analyzer II,China,,Male,52,,,N,1
+PRJNA422434,SRR413614,SRS294870,metagenomics,20820445,Illumina Genome Analyzer II,China,,Female,52,,,N,1
+PRJNA422434,SRR413601,SRS294857,metagenomics,22381860,Illumina Genome Analyzer II,China,,Female,52,,,N,1
+PRJNA422434,SRR413599,SRS294855,metagenomics,22301973,Illumina Genome Analyzer II,China,,Female,52,,,N,1
+PRJNA422434,SRR413575,SRS294831,metagenomics,18036999,Illumina Genome Analyzer II,China,,Male,52,,,N,1
+PRJNA422434,SRR341652,SRS259505,metagenomics,17550018,Illumina Genome Analyzer II,China,,Male,52,,25.71,N,1
+PRJNA388263,SRR5813175,SRS2343963,Metagenomics,2623693,Illumina HiSeq 4000,United States of America,2013/7/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5813174,SRS2343962,Metagenomics,3047480,Illumina HiSeq 4000,United States of America,2013/7/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5813479,SRS2343961,Metagenomics,2803482,Illumina HiSeq 4000,United States of America,2013/7/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5813239,SRS2343898,Metagenomics,3393453,Illumina HiSeq 4000,United States of America,2014/1/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5813240,SRS2343896,Metagenomics,2636806,Illumina HiSeq 4000,United States of America,2014/1/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5813241,SRS2343895,Metagenomics,3028882,Illumina HiSeq 4000,United States of America,2014/1/27,Male,52,,25.8,N,1
+PRJNA388263,SRR5813243,SRS2343894,Metagenomics,3274290,Illumina HiSeq 4000,United States of America,2014/2/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5813242,SRS2343893,Metagenomics,2944886,Illumina HiSeq 4000,United States of America,2014/1/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5813244,SRS2343892,Metagenomics,3330555,Illumina HiSeq 4000,United States of America,2014/2/3,Male,52,,25.8,N,1
+PRJNA388263,SRR5813245,SRS2343891,Metagenomics,5204587,Illumina HiSeq 4000,United States of America,2014/2/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5813246,SRS2343890,Metagenomics,3198401,Illumina HiSeq 4000,United States of America,2014/2/17,Male,52,,25.8,N,1
+PRJNA388263,SRR5813247,SRS2343889,Metagenomics,4029605,Illumina HiSeq 4000,United States of America,2014/4/1,Male,52,,25.8,N,1
+PRJNA388263,SRR5813248,SRS2343888,Metagenomics,3284545,Illumina HiSeq 4000,United States of America,2014/4/1,Male,52,,25.8,N,1
+PRJNA388263,SRR5813295,SRS2343841,Metagenomics,2559050,Illumina HiSeq 4000,United States of America,2013/7/29,Male,52,,25.8,N,1
+PRJNA388263,SRR5813296,SRS2343840,Metagenomics,2746323,Illumina HiSeq 4000,United States of America,2013/7/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5813297,SRS2343839,Metagenomics,3024670,Illumina HiSeq 4000,United States of America,2013/8/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5813298,SRS2343838,Metagenomics,2842074,Illumina HiSeq 4000,United States of America,2013/8/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5813299,SRS2343837,Metagenomics,3409486,Illumina HiSeq 4000,United States of America,2013/8/8,Male,52,,25.8,N,1
+PRJNA388263,SRR5813300,SRS2343836,Metagenomics,2154084,Illumina HiSeq 4000,United States of America,2013/8/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5813301,SRS2343835,Metagenomics,2907154,Illumina HiSeq 4000,United States of America,2013/8/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5813304,SRS2343834,Metagenomics,2596683,Illumina HiSeq 4000,United States of America,2013/8/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5813303,SRS2343833,Metagenomics,2660902,Illumina HiSeq 4000,United States of America,2013/8/19,Male,52,,25.8,N,1
+PRJNA388263,SRR5813302,SRS2343832,Metagenomics,3025402,Illumina HiSeq 4000,United States of America,2013/8/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5813305,SRS2343831,Metagenomics,2480009,Illumina HiSeq 4000,United States of America,2013/11/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5813306,SRS2343830,Metagenomics,2085277,Illumina HiSeq 4000,United States of America,2013/11/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5813307,SRS2343829,Metagenomics,3242860,Illumina HiSeq 4000,United States of America,2013/11/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5813308,SRS2343828,Metagenomics,3045859,Illumina HiSeq 4000,United States of America,2013/11/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5813309,SRS2343827,Metagenomics,4071244,Illumina HiSeq 4000,United States of America,2013/10/28,Male,52,,25.8,N,1
+PRJNA388263,SRR5813311,SRS2343826,Metagenomics,5444489,Illumina HiSeq 4000,United States of America,2013/10/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5813310,SRS2343825,Metagenomics,3267097,Illumina HiSeq 4000,United States of America,2013/10/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5813312,SRS2343824,Metagenomics,3425378,Illumina HiSeq 4000,United States of America,2013/10/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5813313,SRS2343823,Metagenomics,3200472,Illumina HiSeq 4000,United States of America,2013/10/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5813314,SRS2343822,Metagenomics,2213353,Illumina HiSeq 4000,United States of America,2013/10/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5813315,SRS2343821,Metagenomics,2766927,Illumina HiSeq 4000,United States of America,2014/1/20,Male,52,,25.8,N,1
+PRJNA388263,SRR5813316,SRS2343820,Metagenomics,3099297,Illumina HiSeq 4000,United States of America,2014/1/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5813317,SRS2343819,Metagenomics,1856864,Illumina HiSeq 4000,United States of America,2013/12/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5813318,SRS2343818,Metagenomics,2648286,Illumina HiSeq 4000,United States of America,2013/12/26,Male,52,,25.8,N,1
+PRJNA388263,SRR5813319,SRS2343817,Metagenomics,2738134,Illumina HiSeq 4000,United States of America,2013/12/27,Male,52,,25.8,N,1
+PRJNA388263,SRR5813320,SRS2343816,Metagenomics,3058610,Illumina HiSeq 4000,United States of America,2013/12/28,Male,52,,25.8,N,1
+PRJNA388263,SRR5813321,SRS2343815,Metagenomics,2217888,Illumina HiSeq 4000,United States of America,2013/12/29,Male,52,,25.8,N,1
+PRJNA388263,SRR5813322,SRS2343814,Metagenomics,2995961,Illumina HiSeq 4000,United States of America,2013/12/30,Male,52,,25.8,N,1
+PRJNA388263,SRR5813324,SRS2343813,Metagenomics,3323836,Illumina HiSeq 4000,United States of America,2014/1/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5813323,SRS2343812,Metagenomics,2810711,Illumina HiSeq 4000,United States of America,2014/1/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5813361,SRS2343776,Metagenomics,4270904,Illumina HiSeq 4000,United States of America,2015/1/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5813362,SRS2343775,Metagenomics,7616251,Illumina HiSeq 4000,United States of America,2013/5/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5813364,SRS2343772,Metagenomics,3826181,Illumina HiSeq 4000,United States of America,2015/1/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5813409,SRS2343727,Metagenomics,3653327,Illumina HiSeq 4000,United States of America,2013/9/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5813410,SRS2343726,Metagenomics,3604170,Illumina HiSeq 4000,United States of America,2013/9/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5813411,SRS2343725,Metagenomics,3299616,Illumina HiSeq 4000,United States of America,2013/8/26,Male,52,,25.8,N,1
+PRJNA388263,SRR5813412,SRS2343724,Metagenomics,3385837,Illumina HiSeq 4000,United States of America,2013/9/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5813413,SRS2343723,Metagenomics,5287984,Illumina HiSeq 4000,United States of America,2013/9/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5813414,SRS2343722,Metagenomics,2948177,Illumina HiSeq 4000,United States of America,2013/10/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5813415,SRS2343721,Metagenomics,3613864,Illumina HiSeq 4000,United States of America,2013/9/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5813417,SRS2343720,Metagenomics,2839132,Illumina HiSeq 4000,United States of America,2013/10/3,Male,52,,25.8,N,1
+PRJNA388263,SRR5813416,SRS2343719,Metagenomics,3480730,Illumina HiSeq 4000,United States of America,2013/9/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5813419,SRS2343718,Metagenomics,3405744,Illumina HiSeq 4000,United States of America,2013/11/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5813418,SRS2343717,Metagenomics,2960594,Illumina HiSeq 4000,United States of America,2013/10/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5813422,SRS2343716,Metagenomics,2807625,Illumina HiSeq 4000,United States of America,2013/11/15,Male,52,,25.8,N,1
+PRJNA388263,SRR5813421,SRS2343715,Metagenomics,2391351,Illumina HiSeq 4000,United States of America,2013/11/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5813420,SRS2343714,Metagenomics,4872574,Illumina HiSeq 4000,United States of America,2013/11/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5813423,SRS2343713,Metagenomics,2460776,Illumina HiSeq 4000,United States of America,2013/11/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5813424,SRS2343712,Metagenomics,2939829,Illumina HiSeq 4000,United States of America,2013/11/17,Male,52,,25.8,N,1
+PRJNA388263,SRR5813425,SRS2343711,Metagenomics,3545984,Illumina HiSeq 4000,United States of America,2013/11/18,Male,52,,25.8,N,1
+PRJNA388263,SRR5813427,SRS2343710,Metagenomics,3177827,Illumina HiSeq 4000,United States of America,2013/11/20,Male,52,,25.8,N,1
+PRJNA388263,SRR5813426,SRS2343709,Metagenomics,3140255,Illumina HiSeq 4000,United States of America,2013/11/19,Male,52,,25.8,N,1
+PRJNA388263,SRR5813432,SRS2343708,Metagenomics,3354284,Illumina HiSeq 4000,United States of America,2013/12/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5813431,SRS2343707,Metagenomics,2376964,Illumina HiSeq 4000,United States of America,2013/12/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5813430,SRS2343706,Metagenomics,2883603,Illumina HiSeq 4000,United States of America,2013/12/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5813429,SRS2343705,Metagenomics,3217788,Illumina HiSeq 4000,United States of America,2013/12/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5813428,SRS2343704,Metagenomics,4337616,Illumina HiSeq 4000,United States of America,2013/11/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5813433,SRS2343703,Metagenomics,3242869,Illumina HiSeq 4000,United States of America,2013/11/29,Male,52,,25.8,N,1
+PRJNA388263,SRR5813435,SRS2343702,Metagenomics,3034848,Illumina HiSeq 4000,United States of America,2013/11/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5813434,SRS2343701,Metagenomics,2585038,Illumina HiSeq 4000,United States of America,2013/11/27,Male,52,,25.8,N,1
+PRJNA388263,SRR5813436,SRS2343700,Metagenomics,3964262,Illumina HiSeq 4000,United States of America,2013/11/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5813437,SRS2343699,Metagenomics,3526106,Illumina HiSeq 4000,United States of America,2013/12/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5813438,SRS2343698,Metagenomics,3751873,Illumina HiSeq 4000,United States of America,2013/12/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5813459,SRS2343677,Metagenomics,5816845,Illumina HiSeq 4000,United States of America,2013/6/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5813461,SRS2343675,Metagenomics,3872422,Illumina HiSeq 4000,United States of America,2013/5/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5813462,SRS2343674,Metagenomics,2772883,Illumina HiSeq 4000,United States of America,2013/5/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5813463,SRS2343673,Metagenomics,6542392,Illumina HiSeq 4000,United States of America,2013/5/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5813464,SRS2343672,Metagenomics,4129343,Illumina HiSeq 4000,United States of America,2013/5/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5813465,SRS2343671,Metagenomics,3161017,Illumina HiSeq 4000,United States of America,2013/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5813466,SRS2343670,Metagenomics,2694665,Illumina HiSeq 4000,United States of America,2013/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5813467,SRS2343669,Metagenomics,3378549,Illumina HiSeq 4000,United States of America,2013/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5813468,SRS2343668,Metagenomics,4705475,Illumina HiSeq 4000,United States of America,2013/5/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5649148,SRS2254576,Amplicon,144356,Illumina HiSeq 2000,United States of America,2013/10/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5649151,SRS2254574,Amplicon,114256,Illumina HiSeq 2000,United States of America,2013/10/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5649150,SRS2254573,Amplicon,130402,Illumina HiSeq 2000,United States of America,2013/10/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5649149,SRS2254572,Amplicon,111640,Illumina HiSeq 2000,United States of America,2013/10/28,Male,52,,25.8,N,1
+PRJNA388263,SRR5649153,SRS2254571,Amplicon,139453,Illumina HiSeq 2000,United States of America,2013/10/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5649152,SRS2254570,Amplicon,115834,Illumina HiSeq 2000,United States of America,2013/10/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5649154,SRS2254569,Amplicon,646142,Illumina HiSeq 2000,United States of America,2014/5/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5649155,SRS2254568,Amplicon,594470,Illumina HiSeq 2000,United States of America,2014/5/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5649156,SRS2254567,Amplicon,586840,Illumina HiSeq 2000,United States of America,2014/6/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5649157,SRS2254566,Amplicon,760632,Illumina HiSeq 2000,United States of America,2014/5/26,Male,52,,25.8,N,1
+PRJNA388263,SRR5649173,SRS2254551,Amplicon,135217,Illumina HiSeq 2000,United States of America,2013/12/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5649172,SRS2254550,Amplicon,146575,Illumina HiSeq 2000,United States of America,2013/12/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5649174,SRS2254549,Amplicon,109901,Illumina HiSeq 2000,United States of America,2013/12/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5649175,SRS2254548,Amplicon,109608,Illumina HiSeq 2000,United States of America,2013/12/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5649176,SRS2254547,Amplicon,117580,Illumina HiSeq 2000,United States of America,2013/12/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5649177,SRS2254546,Amplicon,114522,Illumina HiSeq 2000,United States of America,2013/12/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5649178,SRS2254545,Amplicon,88614,Illumina HiSeq 2000,United States of America,2013/11/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5649179,SRS2254544,Amplicon,134796,Illumina HiSeq 2000,United States of America,2013/11/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5649180,SRS2254543,Amplicon,117730,Illumina HiSeq 2000,United States of America,2013/11/27,Male,52,,25.8,N,1
+PRJNA388263,SRR5649181,SRS2254542,Amplicon,148899,Illumina HiSeq 2000,United States of America,2013/11/29,Male,52,,25.8,N,1
+PRJNA388263,SRR5649204,SRS2254519,Amplicon,177535,Illumina HiSeq 2000,United States of America,2013/7/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5649205,SRS2254518,Amplicon,116072,Illumina HiSeq 2000,United States of America,2013/6/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5649206,SRS2254517,Amplicon,134474,Illumina HiSeq 2000,United States of America,2013/7/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5649207,SRS2254516,Amplicon,135167,Illumina HiSeq 2000,United States of America,2013/7/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5649208,SRS2254515,Amplicon,103932,Illumina HiSeq 2000,United States of America,2013/7/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5648766,SRS2254514,Amplicon,139012,Illumina HiSeq 2000,United States of America,2013/7/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5648767,SRS2254513,Amplicon,119752,Illumina HiSeq 2000,United States of America,2013/7/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5648770,SRS2254512,Amplicon,130736,Illumina HiSeq 2000,United States of America,2013/7/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5648768,SRS2254511,Amplicon,116824,Illumina HiSeq 2000,United States of America,2013/7/8,Male,52,,25.8,N,1
+PRJNA388263,SRR5648769,SRS2254510,Amplicon,127140,Illumina HiSeq 2000,United States of America,2013/7/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5648771,SRS2254509,Amplicon,724074,Illumina HiSeq 2000,United States of America,2014/3/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5648772,SRS2254508,Amplicon,649936,Illumina HiSeq 2000,United States of America,2014/3/31,Male,52,,25.8,N,1
+PRJNA388263,SRR5648773,SRS2254507,Amplicon,92179,Illumina HiSeq 2000,United States of America,2014/4/1,Male,52,,25.8,N,1
+PRJNA388263,SRR5648774,SRS2254506,Amplicon,160192,Illumina HiSeq 2000,United States of America,2014/4/1,Male,52,,25.8,N,1
+PRJNA388263,SRR5648775,SRS2254505,Amplicon,186429,Illumina HiSeq 2000,United States of America,2014/4/1,Male,52,,25.8,N,1
+PRJNA388263,SRR5648776,SRS2254504,Amplicon,145084,Illumina HiSeq 2000,United States of America,2014/4/1,Male,52,,25.8,N,1
+PRJNA388263,SRR5648778,SRS2254503,Amplicon,446229,Illumina HiSeq 2000,United States of America,2014/4/15,Male,52,,25.8,N,1
+PRJNA388263,SRR5648777,SRS2254502,Amplicon,627373,Illumina HiSeq 2000,United States of America,2014/4/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5648779,SRS2254501,Amplicon,498892,Illumina HiSeq 2000,United States of America,2014/4/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5648780,SRS2254499,Amplicon,666337,Illumina HiSeq 2000,United States of America,2014/4/28,Male,52,,25.8,N,1
+PRJNA388263,SRR5648842,SRS2254439,Amplicon,118154,Illumina HiSeq 2000,United States of America,2014/1/20,Male,52,,25.8,N,1
+PRJNA388263,SRR5648841,SRS2254438,Amplicon,128192,Illumina HiSeq 2000,United States of America,2014/1/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5648843,SRS2254437,Amplicon,125251,Illumina HiSeq 2000,United States of America,2013/12/28,Male,52,,25.8,N,1
+PRJNA388263,SRR5648844,SRS2254436,Amplicon,127052,Illumina HiSeq 2000,United States of America,2013/12/27,Male,52,,25.8,N,1
+PRJNA388263,SRR5648846,SRS2254435,Amplicon,127618,Illumina HiSeq 2000,United States of America,2013/12/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5648845,SRS2254434,Amplicon,117594,Illumina HiSeq 2000,United States of America,2013/12/26,Male,52,,25.8,N,1
+PRJNA388263,SRR5648847,SRS2254433,Amplicon,128782,Illumina HiSeq 2000,United States of America,2014/1/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5648848,SRS2254432,Amplicon,127982,Illumina HiSeq 2000,United States of America,2014/1/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5648849,SRS2254431,Amplicon,94021,Illumina HiSeq 2000,United States of America,2013/12/30,Male,52,,25.8,N,1
+PRJNA388263,SRR5648850,SRS2254430,Amplicon,119416,Illumina HiSeq 2000,United States of America,2013/12/29,Male,52,,25.8,N,1
+PRJNA388263,SRR5648870,SRS2254410,Amplicon,135280,Illumina HiSeq 2000,United States of America,2013/11/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5648871,SRS2254409,Amplicon,622330,Illumina HiSeq 2000,United States of America,2015/1/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5648879,SRS2254402,Amplicon,114543,Illumina HiSeq 2000,United States of America,2013/5/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5648880,SRS2254400,Amplicon,509687,Illumina HiSeq 2000,United States of America,2015/1/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5648881,SRS2254399,Amplicon,93987,Illumina HiSeq 2000,United States of America,2013/5/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5648882,SRS2254398,Amplicon,133512,Illumina HiSeq 2000,United States of America,2013/5/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5648883,SRS2254397,Amplicon,117837,Illumina HiSeq 2000,United States of America,2013/5/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5648885,SRS2254396,Amplicon,106793,Illumina HiSeq 2000,United States of America,2013/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5648884,SRS2254395,Amplicon,134658,Illumina HiSeq 2000,United States of America,2013/5/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5648886,SRS2254394,Amplicon,95361,Illumina HiSeq 2000,United States of America,2013/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5648889,SRS2254393,Amplicon,142572,Illumina HiSeq 2000,United States of America,2013/5/28,Male,52,,25.8,N,1
+PRJNA388263,SRR5648887,SRS2254392,Amplicon,125396,Illumina HiSeq 2000,United States of America,2013/5/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5648888,SRS2254391,Amplicon,88586,Illumina HiSeq 2000,United States of America,2013/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5648890,SRS2254390,Amplicon,147473,Illumina HiSeq 2000,United States of America,2013/6/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5648891,SRS2254389,Amplicon,792603,Illumina HiSeq 2000,United States of America,2014/5/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5648892,SRS2254388,Amplicon,688832,Illumina HiSeq 2000,United States of America,2014/5/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5648893,SRS2254387,Amplicon,596212,Illumina HiSeq 2000,United States of America,2014/5/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5648894,SRS2254386,Amplicon,769885,Illumina HiSeq 2000,United States of America,2014/5/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5648895,SRS2254385,Amplicon,697571,Illumina HiSeq 2000,United States of America,2014/5/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5648896,SRS2254384,Amplicon,574649,Illumina HiSeq 2000,United States of America,2014/5/8,Male,52,,25.8,N,1
+PRJNA388263,SRR5648897,SRS2254383,Amplicon,592876,Illumina HiSeq 2000,United States of America,2014/5/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5648898,SRS2254382,Amplicon,560727,Illumina HiSeq 2000,United States of America,2014/5/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5648899,SRS2254381,Amplicon,576958,Illumina HiSeq 2000,United States of America,2014/5/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5648900,SRS2254380,Amplicon,734998,Illumina HiSeq 2000,United States of America,2014/5/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5648932,SRS2254348,Amplicon,155352,Illumina HiSeq 2000,United States of America,2013/11/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5648933,SRS2254347,Amplicon,93629,Illumina HiSeq 2000,United States of America,2013/11/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5648942,SRS2254337,Amplicon,100034,Illumina HiSeq 2000,United States of America,2013/11/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5648945,SRS2254335,Amplicon,131075,Illumina HiSeq 2000,United States of America,2013/11/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5648956,SRS2254324,Amplicon,130928,Illumina HiSeq 2000,United States of America,2013/10/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5648957,SRS2254323,Amplicon,127717,Illumina HiSeq 2000,United States of America,2013/10/3,Male,52,,25.8,N,1
+PRJNA388263,SRR5648958,SRS2254322,Amplicon,112772,Illumina HiSeq 2000,United States of America,2013/9/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5648959,SRS2254321,Amplicon,102939,Illumina HiSeq 2000,United States of America,2013/9/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5648960,SRS2254320,Amplicon,139555,Illumina HiSeq 2000,United States of America,2013/9/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5648961,SRS2254319,Amplicon,163164,Illumina HiSeq 2000,United States of America,2013/8/26,Male,52,,25.8,N,1
+PRJNA388263,SRR5648962,SRS2254318,Amplicon,105791,Illumina HiSeq 2000,United States of America,2013/10/2,Male,52,,25.8,N,1
+PRJNA388263,SRR5648963,SRS2254317,Amplicon,116977,Illumina HiSeq 2000,United States of America,2013/9/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5648964,SRS2254316,Amplicon,138779,Illumina HiSeq 2000,United States of America,2013/9/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5648965,SRS2254315,Amplicon,137222,Illumina HiSeq 2000,United States of America,2013/9/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5648968,SRS2254312,Amplicon,603986,Illumina HiSeq 2000,United States of America,2014/2/8,Male,52,,25.8,N,1
+PRJNA388263,SRR5648969,SRS2254311,Amplicon,643193,Illumina HiSeq 2000,United States of America,2014/2/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5648970,SRS2254310,Amplicon,143912,Illumina HiSeq 2000,United States of America,2014/2/3,Male,52,,25.8,N,1
+PRJNA388263,SRR5648971,SRS2254309,Amplicon,607709,Illumina HiSeq 2000,United States of America,2014/2/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5648972,SRS2254308,Amplicon,135220,Illumina HiSeq 2000,United States of America,2014/1/24,Male,52,,25.8,N,1
+PRJNA388263,SRR5648973,SRS2254307,Amplicon,118365,Illumina HiSeq 2000,United States of America,2014/1/27,Male,52,,25.8,N,1
+PRJNA388263,SRR5648975,SRS2254306,Amplicon,144998,Illumina HiSeq 2000,United States of America,2014/1/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5648974,SRS2254305,Amplicon,104210,Illumina HiSeq 2000,United States of America,2014/1/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5648976,SRS2254304,Amplicon,141655,Illumina HiSeq 2000,United States of America,2014/2/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5648977,SRS2254303,Amplicon,753968,Illumina HiSeq 2000,United States of America,2014/2/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5649026,SRS2254254,Amplicon,152701,Illumina HiSeq 2000,United States of America,2013/11/19,Male,52,,25.8,N,1
+PRJNA388263,SRR5649027,SRS2254253,Amplicon,140139,Illumina HiSeq 2000,United States of America,2013/11/18,Male,52,,25.8,N,1
+PRJNA388263,SRR5649028,SRS2254252,Amplicon,631998,Illumina HiSeq 2000,United States of America,2014/5/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5649029,SRS2254251,Amplicon,591382,Illumina HiSeq 2000,United States of America,2014/5/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5649030,SRS2254250,Amplicon,148418,Illumina HiSeq 2000,United States of America,2013/11/15,Male,52,,25.8,N,1
+PRJNA388263,SRR5649031,SRS2254249,Amplicon,137181,Illumina HiSeq 2000,United States of America,2013/11/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5649032,SRS2254248,Amplicon,129847,Illumina HiSeq 2000,United States of America,2013/11/17,Male,52,,25.8,N,1
+PRJNA388263,SRR5649033,SRS2254247,Amplicon,143161,Illumina HiSeq 2000,United States of America,2013/11/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5649034,SRS2254246,Amplicon,783365,Illumina HiSeq 2000,United States of America,2014/5/16,Male,52,,25.8,N,1
+PRJNA388263,SRR5649035,SRS2254245,Amplicon,925407,Illumina HiSeq 2000,United States of America,2014/5/17,Male,52,,25.8,N,1
+PRJNA388263,SRR5649036,SRS2254244,Amplicon,689877,Illumina HiSeq 2000,United States of America,2014/5/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5649037,SRS2254243,Amplicon,649827,Illumina HiSeq 2000,United States of America,2014/5/15,Male,52,,25.8,N,1
+PRJNA388263,SRR5649038,SRS2254242,Amplicon,780261,Illumina HiSeq 2000,United States of America,2014/5/20,Male,52,,25.8,N,1
+PRJNA388263,SRR5649039,SRS2254241,Amplicon,762289,Illumina HiSeq 2000,United States of America,2014/5/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5649040,SRS2254240,Amplicon,747878,Illumina HiSeq 2000,United States of America,2014/5/18,Male,52,,25.8,N,1
+PRJNA388263,SRR5649041,SRS2254239,Amplicon,727214,Illumina HiSeq 2000,United States of America,2014/5/19,Male,52,,25.8,N,1
+PRJNA388263,SRR5649072,SRS2254208,Amplicon,156912,Illumina HiSeq 2000,United States of America,2013/11/21,Male,52,,25.8,N,1
+PRJNA388263,SRR5649073,SRS2254207,Amplicon,144509,Illumina HiSeq 2000,United States of America,2013/11/20,Male,52,,25.8,N,1
+PRJNA388263,SRR5649074,SRS2254206,Amplicon,135697,Illumina HiSeq 2000,United States of America,2013/11/23,Male,52,,25.8,N,1
+PRJNA388263,SRR5649076,SRS2254205,Amplicon,134976,Illumina HiSeq 2000,United States of America,2013/8/8,Male,52,,25.8,N,1
+PRJNA388263,SRR5649075,SRS2254204,Amplicon,149535,Illumina HiSeq 2000,United States of America,2013/8/7,Male,52,,25.8,N,1
+PRJNA388263,SRR5649077,SRS2254203,Amplicon,194933,Illumina HiSeq 2000,United States of America,2013/8/9,Male,52,,25.8,N,1
+PRJNA388263,SRR5649078,SRS2254202,Amplicon,132078,Illumina HiSeq 2000,United States of America,2013/8/10,Male,52,,25.8,N,1
+PRJNA388263,SRR5649079,SRS2254201,Amplicon,131122,Illumina HiSeq 2000,United States of America,2013/7/22,Male,52,,25.8,N,1
+PRJNA388263,SRR5649080,SRS2254200,Amplicon,119786,Illumina HiSeq 2000,United States of America,2013/7/29,Male,52,,25.8,N,1
+PRJNA388263,SRR5649082,SRS2254199,Amplicon,108288,Illumina HiSeq 2000,United States of America,2013/8/6,Male,52,,25.8,N,1
+PRJNA388263,SRR5649081,SRS2254198,Amplicon,135403,Illumina HiSeq 2000,United States of America,2013/8/5,Male,52,,25.8,N,1
+PRJNA388263,SRR5649084,SRS2254197,Amplicon,120063,Illumina HiSeq 2000,United States of America,2013/8/19,Male,52,,25.8,N,1
+PRJNA388263,SRR5649083,SRS2254196,Amplicon,116074,Illumina HiSeq 2000,United States of America,2013/8/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5649090,SRS2254190,Amplicon,584828,Illumina HiSeq 2000,United States of America,2014/2/18,Male,52,,25.8,N,1
+PRJNA388263,SRR5649092,SRS2254189,Amplicon,679555,Illumina HiSeq 2000,United States of America,2014/3/4,Male,52,,25.8,N,1
+PRJNA388263,SRR5649091,SRS2254188,Amplicon,116616,Illumina HiSeq 2000,United States of America,2014/2/17,Male,52,,25.8,N,1
+PRJNA388263,SRR5649093,SRS2254187,Amplicon,156519,Illumina HiSeq 2000,United States of America,2014/2/25,Male,52,,25.8,N,1
+PRJNA388263,SRR5649094,SRS2254186,Amplicon,607836,Illumina HiSeq 2000,United States of America,2014/2/12,Male,52,,25.8,N,1
+PRJNA388263,SRR5649095,SRS2254185,Amplicon,707040,Illumina HiSeq 2000,United States of America,2014/2/11,Male,52,,25.8,N,1
+PRJNA388263,SRR5649096,SRS2254184,Amplicon,704916,Illumina HiSeq 2000,United States of America,2014/2/14,Male,52,,25.8,N,1
+PRJNA388263,SRR5649097,SRS2254183,Amplicon,664077,Illumina HiSeq 2000,United States of America,2014/2/13,Male,52,,25.8,N,1
+PRJNA388263,SRR5649099,SRS2254181,Amplicon,638331,Illumina HiSeq 2000,United States of America,2014/3/18,Male,52,,25.8,N,1
+PRJNA388263,SRR5649100,SRS2254180,Amplicon,678758,Illumina HiSeq 2000,United States of America,2014/3/10,Male,52,,25.8,N,1
+PRJNA422434,SRR413660,SRS294916,metagenomics,29897536,Illumina Genome Analyzer II,China,,Male,53,,,N,1
+PRJNA422434,SRR413619,SRS294875,metagenomics,25661969,Illumina Genome Analyzer II,China,,Male,53,,,N,1
+PRJNA422434,SRR413598,SRS294854,metagenomics,22454026,Illumina Genome Analyzer II,China,,Female,53,,,N,1
+PRJNA422434,SRR413579,SRS294835,metagenomics,23896902,Illumina Genome Analyzer II,China,,Female,53,,,N,1
+PRJNA422434,SRR413578,SRS294834,metagenomics,20523207,Illumina Genome Analyzer II,China,,Female,53,,,N,1
+PRJNA422434,SRR413576,SRS294832,metagenomics,18351868,Illumina Genome Analyzer II,China,,Male,53,,,N,1
+PRJNA353587,SRR5020894,SRS1798913,Amplicon,104990,Illumina MiSeq,,2015/6/1,Female,53,,,N,1
+PRJNA422434,SRR413661,SRS294917,metagenomics,22904688,Illumina Genome Analyzer II,China,,Male,54,,,N,1
+PRJNA422434,SRR413616,SRS294872,metagenomics,23444954,Illumina Genome Analyzer II,China,,Male,54,,,N,1
+PRJNA422434,SRR413592,SRS294848,metagenomics,23039229,Illumina Genome Analyzer II,China,,Female,54,,,N,1
+PRJNA422434,SRR413585,SRS294841,metagenomics,22258959,Illumina Genome Analyzer II,China,,Female,54,,,N,1
+PRJNA422434,SRR341646,SRS259499,metagenomics,19526380,Illumina Genome Analyzer II,China,,Male,54,,26.57,N,1
+PRJNA422434,SRR413637,SRS294893,metagenomics,23719413,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA422434,SRR413625,SRS294881,metagenomics,18622607,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA422434,SRR413603,SRS294859,metagenomics,22512999,Illumina Genome Analyzer II,China,,Female,55,,,N,1
+PRJNA422434,SRR413600,SRS294856,metagenomics,17580815,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA422434,SRR413591,SRS294847,metagenomics,21477925,Illumina Genome Analyzer II,China,,Female,55,,,N,1
+PRJNA422434,SRR413587,SRS294843,metagenomics,24028485,Illumina Genome Analyzer II,China,,Female,55,,,N,1
+PRJNA389280,SRR5983481,SRS2472280,Metagenomics,19008778,Illumina HiSeq 2000,United States of America,2014/1/1,Male,55,,,N,1
+PRJNA422434,SRR413618,SRS294874,metagenomics,18038677,Illumina Genome Analyzer II,China,,Female,56,,,N,1
+PRJNA422434,SRR413605,SRS294861,metagenomics,36274466,Illumina Genome Analyzer II,China,,Female,56,,,N,1
+PRJNA422434,SRR413597,SRS294853,metagenomics,14161663,Illumina Genome Analyzer II,China,,Male,56,,,N,1
+PRJNA422434,SRR413584,SRS294840,metagenomics,22808268,Illumina Genome Analyzer II,China,,Female,56,,,N,1
+PRJNA422434,SRR413621,SRS294877,metagenomics,20302821,Illumina Genome Analyzer II,China,,Male,57,,,N,1
+PRJNA422434,SRR413617,SRS294873,metagenomics,18150151,Illumina Genome Analyzer II,China,,Male,57,,,N,1
+PRJNA389280,SRR5983380,SRS2472188,Metagenomics,16457782,Illumina HiSeq 2000,United States of America,2014/1/1,Male,57,,,N,1
+PRJNA353587,SRR5020856,SRS1798877,Amplicon,43484,Illumina MiSeq,,2015/9/25,Male,57,,,N,1
+PRJNA422434,SRR413606,SRS294862,metagenomics,22620302,Illumina Genome Analyzer II,China,,Female,58,,,N,1
+PRJNA422434,SRR413620,SRS294876,metagenomics,25740853,Illumina Genome Analyzer II,China,,Male,59,,,N,1
+PRJNA422434,SRR341693,SRS259546,metagenomics,16860428,Illumina Genome Analyzer II,China,,Female,59,,19.15,N,1
+PRJNA422434,SRR413634,SRS294890,metagenomics,25707480,Illumina Genome Analyzer II,China,,Male,60,,,N,1
+PRJNA422434,SRR413613,SRS294869,metagenomics,24110017,Illumina Genome Analyzer II,China,,Female,60,,,N,1
+PRJNA422434,SRR413608,SRS294864,metagenomics,20264246,Illumina Genome Analyzer II,China,,Female,60,,,N,1
+PRJNA422434,SRR413580,SRS294836,metagenomics,24586362,Illumina Genome Analyzer II,China,,Male,60,,,N,1
+PRJNA422434,SRR413610,SRS294866,metagenomics,16315250,Illumina Genome Analyzer II,China,,Female,61,,,N,1
+PRJNA422434,SRR413582,SRS294838,metagenomics,22634192,Illumina Genome Analyzer II,China,,Female,61,,,N,1
+PRJNA389280,SRR5983265,SRS2472274,Metagenomics,28714174,Illumina HiSeq 2000,United States of America,2014/1/1,Male,61,,,N,1
+PRJNA422434,SRR413623,SRS294879,metagenomics,24238727,Illumina Genome Analyzer II,China,,Male,62,,,N,1
+PRJNA389280,SRR5983376,SRS2472867,Metagenomics,7807950,Illumina HiSeq 2000,United States of America,2014/1/1,Female,62,,,N,1
+PRJNA422434,SRR413626,SRS294882,metagenomics,17644968,Illumina Genome Analyzer II,China,,Male,63,,,N,1
+PRJNA422434,SRR413652,SRS294908,metagenomics,23817663,Illumina Genome Analyzer II,China,,Female,64,,,N,1
+PRJNA278393,SRR1930141,SRS883029,Metagenomics,32369669,Illumina Genome Analyzer IIx,"Tanzania, United Republic of",2013/1/1,Male,65,Hadza diet,,N,1
+PRJNA422434,SRR413594,SRS294850,metagenomics,24558401,Illumina Genome Analyzer II,China,,Male,67,,,N,1
+PRJNA422434,SRR413593,SRS294849,metagenomics,21390701,Illumina Genome Analyzer II,China,,Female,67,,,N,1
+PRJNA422434,SRR413581,SRS294837,metagenomics,20573009,Illumina Genome Analyzer II,China,,Male,69,,,N,1
+PRJNA389280,SRR5983379,SRS2472189,Metagenomics,15043168,Illumina HiSeq 2000,United States of America,2014/1/1,Male,69,,,N,1
+PRJNA389280,SRR5983429,SRS2472150,Metagenomics,21951001,Illumina HiSeq 2000,United States of America,2014/1/1,Male,69,,,N,1
+PRJNA278393,SRR1930176,SRS883036,Metagenomics,5243950,Illumina Genome Analyzer IIx,"Tanzania, United Republic of",2013/1/1,Female,70,Hadza diet,,N,1
+PRJNA422434,SRR413607,SRS294863,metagenomics,26955536,Illumina Genome Analyzer II,China,,Male,70,,,N,1
+PRJNA422434,SRR341645,SRS259498,metagenomics,15150248,Illumina Genome Analyzer II,China,,Male,72,,23.66,N,1
+PRJNA353587,SRR5020909,SRS1798930,Amplicon,126362,Illumina MiSeq,,2015/3/20,Male,73,,,N,1
+PRJNA422434,SRR413615,SRS294871,metagenomics,22043005,Illumina Genome Analyzer II,China,,Male,74,,,N,1

@@ -1,0 +1,99 @@
+ProjectID,runID,Experiment type,Instrument,Nr. sequenced reads,Description,QC Status *
+PRJNA401977,SRR6075276,Metagenomics,HiSeq X Ten,24846065,Pregnant_with_GDM,1
+PRJNA401977,SRR6075194,Metagenomics,HiSeq X Ten,23693704,Pregnant_with_GDM,1
+PRJNA401977,SRR6075190,Metagenomics,HiSeq X Ten,20242836,Pregnant_with_GDM,1
+PRJNA401977,SRR6075189,Metagenomics,HiSeq X Ten,21415988,Pregnant_with_GDM,1
+PRJNA401977,SRR6075186,Metagenomics,HiSeq X Ten,29112102,Pregnant_with_GDM,1
+PRJNA401977,SRR6075185,Metagenomics,HiSeq X Ten,28869126,Pregnant_with_GDM,1
+PRJNA401977,SRR6075164,Metagenomics,HiSeq X Ten,27723558,Pregnant_with_GDM,1
+PRJNA401977,SRR6075165,Metagenomics,HiSeq X Ten,24384410,Pregnant_with_GDM,1
+PRJNA401977,SRR6075166,Metagenomics,HiSeq X Ten,26915494,Pregnant_with_GDM,1
+PRJNA401977,SRR6075167,Metagenomics,HiSeq X Ten,26651994,Pregnant_with_GDM,1
+PRJNA401977,SRR6075168,Metagenomics,HiSeq X Ten,26819572,Pregnant_with_GDM,1
+PRJNA401977,SRR6075169,Metagenomics,HiSeq X Ten,25498552,Pregnant_with_GDM,1
+PRJNA401977,SRR6075170,Metagenomics,HiSeq X Ten,21957685,Pregnant_with_GDM,1
+PRJNA401977,SRR6075171,Metagenomics,HiSeq X Ten,24101574,Pregnant_with_GDM,1
+PRJNA401977,SRR6075172,Metagenomics,HiSeq X Ten,18186407,Pregnant_with_GDM,1
+PRJNA401977,SRR6075144,Metagenomics,HiSeq X Ten,25944898,Pregnant_with_GDM,1
+PRJNA401977,SRR6075153,Metagenomics,HiSeq X Ten,19803136,Pregnant_with_GDM,1
+PRJNA401977,SRR6075152,Metagenomics,HiSeq X Ten,26225468,Pregnant_with_GDM,1
+PRJNA401977,SRR6075265,Metagenomics,HiSeq X Ten,32436564,Pregnant_with_GDM,1
+PRJNA401977,SRR6075263,Metagenomics,HiSeq X Ten,26890860,Pregnant_with_GDM,1
+PRJNA401977,SRR6075269,Metagenomics,HiSeq X Ten,32356978,Pregnant_with_GDM,1
+PRJNA401977,SRR6075270,Metagenomics,HiSeq X Ten,25795974,Pregnant_with_GDM,1
+PRJNA401977,SRR6075268,Metagenomics,HiSeq X Ten,29070105,Pregnant_with_GDM,1
+PRJNA401977,SRR6075271,Metagenomics,HiSeq X Ten,16374808,Pregnant_with_GDM,1
+PRJNA401977,SRR6075272,Metagenomics,HiSeq X Ten,27672862,Pregnant_with_GDM,1
+PRJNA401977,SRR6075253,Metagenomics,HiSeq X Ten,23182547,Pregnant_with_GDM,1
+PRJNA401977,SRR6075252,Metagenomics,HiSeq X Ten,31797947,Pregnant_with_GDM,1
+PRJNA401977,SRR6075255,Metagenomics,HiSeq X Ten,27788806,Pregnant_with_GDM,1
+PRJNA401977,SRR6075254,Metagenomics,HiSeq X Ten,32649112,Pregnant_with_GDM,1
+PRJNA401977,SRR6075257,Metagenomics,HiSeq X Ten,29865403,Pregnant_with_GDM,1
+PRJNA401977,SRR6075256,Metagenomics,HiSeq X Ten,19067148,Pregnant_with_GDM,1
+PRJNA401977,SRR6075259,Metagenomics,HiSeq X Ten,22010524,Pregnant_with_GDM,1
+PRJNA401977,SRR6075258,Metagenomics,HiSeq X Ten,24974680,Pregnant_with_GDM,1
+PRJNA401977,SRR6075261,Metagenomics,HiSeq X Ten,19000250,Pregnant_with_GDM,1
+PRJNA401977,SRR6075260,Metagenomics,HiSeq X Ten,23025039,Pregnant_with_GDM,1
+PRJNA401977,SRR6075245,Metagenomics,HiSeq X Ten,21069083,Pregnant_with_GDM,1
+PRJNA401977,SRR6075246,Metagenomics,HiSeq X Ten,18223988,Pregnant_with_GDM,1
+PRJNA401977,SRR6075247,Metagenomics,HiSeq X Ten,21652719,Pregnant_with_GDM,1
+PRJNA401977,SRR6075248,Metagenomics,HiSeq X Ten,19666225,Pregnant_with_GDM,1
+PRJNA401977,SRR6075241,Metagenomics,HiSeq X Ten,21491775,Pregnant_with_GDM,1
+PRJNA401977,SRR6075242,Metagenomics,HiSeq X Ten,15044914,Pregnant_with_GDM,1
+PRJNA401977,SRR6075243,Metagenomics,HiSeq X Ten,16417526,Pregnant_with_GDM,1
+PRJNA401977,SRR6075244,Metagenomics,HiSeq X Ten,31006071,Pregnant_with_GDM,1
+PRJNA401977,SRR6075249,Metagenomics,HiSeq X Ten,29111904,Pregnant_with_GDM,1
+PRJNA401977,SRR6075250,Metagenomics,HiSeq X Ten,19788439,Pregnant_with_GDM,1
+PRJNA401977,SRR6075235,Metagenomics,HiSeq X Ten,18464585,Pregnant_with_GDM,1
+PRJNA401977,SRR6075240,Metagenomics,HiSeq X Ten,32917152,Pregnant_with_GDM,1
+PRJNA401977,SRR6075239,Metagenomics,HiSeq X Ten,40183567,Pregnant_with_GDM,1
+PRJNA401977,SRR6075237,Metagenomics,HiSeq X Ten,15932557,Pregnant_with_GDM,1
+PRJNA401977,SRR6075232,Metagenomics,HiSeq X Ten,36926179,Pregnant_with_GDM,1
+PRJNA401977,SRR6075221,Metagenomics,HiSeq X Ten,20242624,Pregnant_with_GDM,1
+PRJNA401977,SRR6075219,Metagenomics,HiSeq X Ten,25833990,Pregnant_with_GDM,1
+PRJNA401977,SRR6075216,Metagenomics,HiSeq X Ten,28475819,Pregnant_with_GDM,1
+PRJNA401977,SRR6075198,Metagenomics,HiSeq X Ten,31264138,Pregnant_with_GDM,1
+PRJNA401977,SRR6075288,Metagenomics,HiSeq X Ten,17721938,Pregnant_with_GDM,1
+PRJNA401977,SRR6075278,Metagenomics,HiSeq X Ten,14076552,Pregnant_with_GDM,1
+PRJNA401977,SRR6075163,Metagenomics,HiSeq X Ten,28239372,Pregnant_with_GDM,1
+PRJNA401977,SRR6075161,Metagenomics,HiSeq X Ten,32657617,Pregnant_with_GDM,1
+PRJNA401977,SRR6075155,Metagenomics,HiSeq X Ten,18712859,Pregnant_with_GDM,1
+PRJNA401977,SRR6075154,Metagenomics,HiSeq X Ten,21456411,Pregnant_with_GDM,1
+PRJNA401977,SRR6075180,Metagenomics,HiSeq X Ten,26156738,Pregnant_with_GDM,1
+PRJNA401977,SRR6075181,Metagenomics,HiSeq X Ten,20258220,Pregnant_with_GDM,1
+PRJNA401977,SRR6075178,Metagenomics,HiSeq X Ten,22997569,Pregnant_with_GDM,1
+PRJNA401977,SRR6075179,Metagenomics,HiSeq X Ten,22181904,Pregnant_with_GDM,1
+PRJNA401977,SRR6075177,Metagenomics,HiSeq X Ten,20856459,Pregnant_with_GDM,1
+PRJNA401977,SRR6075174,Metagenomics,HiSeq X Ten,16460700,Pregnant_with_GDM,1
+PRJNA401977,SRR6075175,Metagenomics,HiSeq X Ten,18794718,Pregnant_with_GDM,1
+PRJNA401977,SRR6075182,Metagenomics,HiSeq X Ten,22511873,Pregnant_with_GDM,1
+PRJNA401977,SRR6075211,Metagenomics,HiSeq X Ten,19838453,Pregnant_with_GDM,1
+PRJNA401977,SRR6075210,Metagenomics,HiSeq X Ten,24371161,Pregnant_with_GDM,1
+PRJNA401977,SRR6075213,Metagenomics,HiSeq X Ten,16156369,Pregnant_with_GDM,1
+PRJNA401977,SRR6075212,Metagenomics,HiSeq X Ten,24569404,Pregnant_with_GDM,1
+PRJNA401977,SRR6075215,Metagenomics,HiSeq X Ten,10009851,Pregnant_with_GDM,1
+PRJNA401977,SRR6075214,Metagenomics,HiSeq X Ten,9553821,Pregnant_with_GDM,1
+PRJNA401977,SRR6075226,Metagenomics,HiSeq X Ten,10260579,Pregnant_with_GDM,1
+PRJNA421371,SRR6357136,Amplicon,Illumina MiSeq,271877,Pregnant_with_GDM,1
+PRJNA421371,SRR6357143,Amplicon,Illumina MiSeq,245002,Pregnant_with_GDM,1
+PRJNA421371,SRR6357137,Amplicon,Illumina MiSeq,203412,Pregnant_with_GDM,1
+PRJNA421371,SRR6357134,Amplicon,Illumina MiSeq,184277,Pregnant_with_GDM,1
+PRJNA421371,SRR6357091,Amplicon,Illumina MiSeq,159217,Pregnant_with_GDM,1
+PRJNA421371,SRR6357146,Amplicon,Illumina MiSeq,156368,Pregnant_with_GDM,1
+PRJNA421371,SRR6357139,Amplicon,Illumina MiSeq,137788,Pregnant_with_GDM,1
+PRJNA421371,SRR6357123,Amplicon,Illumina MiSeq,134743,Pregnant_with_GDM,1
+PRJNA421371,SRR6357140,Amplicon,Illumina MiSeq,133992,Pregnant_with_GDM,1
+PRJNA421371,SRR6357120,Amplicon,Illumina MiSeq,120686,Pregnant_with_GDM,1
+PRJNA421371,SRR6357144,Amplicon,Illumina MiSeq,119593,Pregnant_with_GDM,1
+PRJNA421371,SRR6357090,Amplicon,Illumina MiSeq,118267,Pregnant_with_GDM,1
+PRJNA421371,SRR6357141,Amplicon,Illumina MiSeq,116269,Pregnant_with_GDM,1
+PRJNA421371,SRR6357096,Amplicon,Illumina MiSeq,113945,Pregnant_with_GDM,1
+PRJNA421371,SRR6357088,Amplicon,Illumina MiSeq,112270,Pregnant_with_GDM,1
+PRJNA421371,SRR6357099,Amplicon,Illumina MiSeq,106685,Pregnant_with_GDM,1
+PRJNA421371,SRR6357142,Amplicon,Illumina MiSeq,85296,Pregnant_with_GDM,1
+PRJNA421371,SRR6357145,Amplicon,Illumina MiSeq,82417,Pregnant_with_GDM,1
+PRJNA421371,SRR6357116,Amplicon,Illumina MiSeq,71959,Pregnant_with_GDM,1
+PRJNA421371,SRR6357165,Amplicon,Illumina MiSeq,170275,Pregnant_with_GDM,1
+PRJNA421371,SRR6357167,Amplicon,Illumina MiSeq,124637,Pregnant_with_GDM,1
+PRJNA421371,SRR6357164,Amplicon,Illumina MiSeq,106824,Pregnant_with_GDM,1
+PRJNA421371,SRR6357163,Amplicon,Illumina MiSeq,106576,Pregnant_with_GDM,1

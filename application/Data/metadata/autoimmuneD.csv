@@ -1,0 +1,548 @@
+﻿projectID,runID,sampleID,experimenttype,readsseqeunced,instrumentmodel,country,collectiondate,gender,hostageinyears,diet,BMI,recentantibioticsuse,QCstatus
+PRJEB11419,ERR1072672,ERS914786,Amplicon,24879,Illumina MiSeq,United States of America,2013/4/15,Female,68,Omnivore,24.53,,1
+PRJEB11419,ERR1072787,ERS914901,Amplicon,32520,Illumina MiSeq,United States of America,2013/4/15,Female,62,Omnivore,19.21,,1
+PRJEB11419,ERR1073113,ERS915227,Amplicon,33091,Illumina MiSeq,United States of America,2013/5/3,Male,54,Omnivore,26.99,,1
+PRJEB11419,ERR1073394,ERS915508,Amplicon,43579,Illumina MiSeq,United States of America,2013/7/15,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR1073395,ERS915509,Amplicon,45092,Illumina MiSeq,United States of America,2013/7/15,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR1073712,ERS915806,Amplicon,26462,Illumina MiSeq,United States of America,2013/6/30,Female,59,Omnivore,20.07,,1
+PRJEB11419,ERR1073975,ERS916069,Amplicon,22001,Illumina MiSeq,United States of America,2013/7/18,Female,63,Omnivore,19.49,,1
+PRJEB11419,ERR1074062,ERS916156,Amplicon,21419,Illumina MiSeq,United States of America,2013/8/27,Female,28,Omnivore,23.94,,1
+PRJEB11419,ERR1074157,ERS914807,Amplicon,22395,Illumina MiSeq,United States of America,2013/4/24,Female,47,Omnivore,38.62,,1
+PRJEB11419,ERR1074183,ERS915530,Amplicon,32060,Illumina MiSeq,United States of America,2013/6/10,Female,62,Omnivore,19.71,,1
+PRJEB11419,ERR1075029,ERS917723,Amplicon,47202,Illumina MiSeq,United States of America,2014/2/7,Female,66,Omnivore but do not eat red meat,19.27,,1
+PRJEB11419,ERR1075057,ERS917751,Amplicon,44661,Illumina MiSeq,United States of America,2014/1/16,Female,67,Omnivore,21.38,,1
+PRJEB11419,ERR1075093,ERS917787,Amplicon,22086,Illumina MiSeq,United States of America,2014/2/18,Female,53,Omnivore but do not eat red meat,45.11,,1
+PRJEB11419,ERR1075141,ERS917835,Amplicon,54944,Illumina MiSeq,United States of America,2014/1/30,Female,56,Omnivore,29.63,,1
+PRJEB11419,ERR1075142,ERS917836,Amplicon,27018,Illumina MiSeq,United States of America,2014/2/18,Male,47,Omnivore,25.61,,1
+PRJEB11419,ERR1075184,ERS917878,Amplicon,34409,Illumina MiSeq,United States of America,2014/1/13,Female,43,Vegetarian,26.95,,1
+PRJEB11419,ERR1075224,ERS917918,Amplicon,25258,Illumina MiSeq,United States of America,2014/1/17,Female,70,Omnivore but do not eat red meat,21.93,,1
+PRJEB11419,ERR1075665,ERS918341,Amplicon,51045,Illumina MiSeq,United States of America,2014/2/13,Female,43,Omnivore,21.7,,1
+PRJEB11419,ERR1075892,ERS918028,Amplicon,21662,Illumina MiSeq,United States of America,2014/2/2,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR1075893,ERS918531,Amplicon,31413,Illumina MiSeq,United States of America,2014/3/2,Male,33,Omnivore,18.99,,1
+PRJEB11419,ERR1075908,ERS918546,Amplicon,39058,Illumina MiSeq,United States of America,2014/4/24,Female,66,Omnivore,24.3,,1
+PRJEB11419,ERR1076636,ERS919262,Amplicon,22329,Illumina MiSeq,United States of America,2014/5/22,Female,70,Omnivore,22.46,,1
+PRJEB11419,ERR1076868,ERS919484,Amplicon,24994,Illumina MiSeq,United States of America,2014/4/30,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR1076869,ERS919485,Amplicon,40654,Illumina MiSeq,United States of America,2014/4/30,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR1077196,ERS919812,Amplicon,26677,Illumina MiSeq,United States of America,2014/8/14,Female,69,Vegetarian but eat seafood,13333.3,,1
+PRJEB11419,ERR1077339,ERS919955,Amplicon,54133,Illumina MiSeq,United States of America,2014/6/10,Male,46,Omnivore,25.71,,1
+PRJEB11419,ERR1077355,ERS919971,Amplicon,38669,Illumina MiSeq,United States of America,2014/7/2,Female,79,Omnivore,24.91,,1
+PRJEB11419,ERR1077771,ERS915213,Amplicon,69897,Illumina MiSeq,United States of America,2013/5/20,Female,2,Omnivore,26.17,,1
+PRJEB11419,ERR1078010,ERS920534,Amplicon,30903,Illumina MiSeq,United States of America,2013/11/26,Male,71,Omnivore,28.96,,1
+PRJEB11419,ERR1079958,ERS935199,Amplicon,21866,Illumina MiSeq,United States of America,2014/11/4,Male,77,Omnivore,22.24,,1
+PRJEB11419,ERR1089672,ERS916625,Amplicon,33410,Illumina MiSeq,United States of America,2013/8/19,Female,30,Omnivore,24.69,,1
+PRJEB11419,ERR1089682,ERS939464,Amplicon,30174,Illumina MiSeq,United States of America,2014/12/24,Male,7,Omnivore,14.65,,1
+PRJEB11419,ERR1089717,ERS939486,Amplicon,25289,Illumina MiSeq,United States of America,2014/9/7,Female,66,Vegetarian but eat seafood,27.34,,1
+PRJEB11419,ERR1089724,ERS939491,Amplicon,27442,Illumina MiSeq,United States of America,2015/2/3,Female,41,Omnivore,27.46,,1
+PRJEB11419,ERR1089726,ERS939492,Amplicon,48178,Illumina MiSeq,United States of America,2015/1/14,Female,55,Omnivore,20.37,,1
+PRJEB11419,ERR1089795,ERS939542,Amplicon,28007,Illumina MiSeq,United States of America,2015/2/23,Female,31,Omnivore,19.74,,1
+PRJEB11419,ERR1089796,ERS939543,Amplicon,33078,Illumina MiSeq,United States of America,2015/2/23,Female,36,Omnivore,26.26,,1
+PRJEB11419,ERR1089797,ERS939544,Amplicon,35613,Illumina MiSeq,United States of America,2015/1/4,Male,0,Vegetarian but eat seafood,23.96,,1
+PRJEB11419,ERR1089810,ERS939557,Amplicon,60880,Illumina MiSeq,United Kingdom,2015/1/16,Male,37,Omnivore,21,,1
+PRJEB11419,ERR1089819,ERS939566,Amplicon,24249,Illumina MiSeq,United States of America,2015/1/6,Male,46,Omnivore,27.07,,1
+PRJEB11419,ERR1089820,ERS939567,Amplicon,25245,Illumina MiSeq,United States of America,2014/12/13,Male,50,Omnivore,21.63,,1
+PRJEB11419,ERR1089822,ERS939569,Amplicon,30340,Illumina MiSeq,United States of America,2014/12/17,Female,55,Omnivore,17.71,,1
+PRJEB11419,ERR1089830,ERS939577,Amplicon,26676,Illumina MiSeq,United States of America,2015/1/13,Female,43,Omnivore,23.03,,1
+PRJEB11419,ERR1089833,ERS939580,Amplicon,32783,Illumina MiSeq,United States of America,2014/12/19,Female,59,Omnivore,20.82,,1
+PRJEB11419,ERR1089853,ERS939600,Amplicon,42536,Illumina MiSeq,United States of America,2015/2/16,Male,44,Omnivore,22.38,,1
+PRJEB11419,ERR1089854,ERS939601,Amplicon,39714,Illumina MiSeq,United States of America,2015/2/17,Female,46,Omnivore,17.18,,1
+PRJEB11419,ERR1089869,ERS939616,Amplicon,46770,Illumina MiSeq,United States of America,2015/1/2,Male,7,Omnivore,13.12,,1
+PRJEB11419,ERR1089875,ERS939622,Amplicon,30267,Illumina MiSeq,United States of America,2014/11/30,Female,9,Omnivore,12.55,,1
+PRJEB11419,ERR1089877,ERS939624,Amplicon,26193,Illumina MiSeq,United States of America,2015/1/27,Female,40,Vegetarian,38.39,,1
+PRJEB11419,ERR1089898,ERS939645,Amplicon,38316,Illumina MiSeq,United States of America,2014/12/15,Female,45,Omnivore,23.55,,1
+PRJEB11419,ERR1089900,ERS939647,Amplicon,30096,Illumina MiSeq,United States of America,2015/4/15,Female,30,Omnivore,24.69,,1
+PRJEB11419,ERR1089932,ERS939679,Amplicon,26164,Illumina MiSeq,United States of America,2015/1/15,Female,73,Omnivore,25.23,,1
+PRJEB11419,ERR1089953,ERS939700,Amplicon,26335,Illumina MiSeq,United States of America,2014/12/28,Female,0,Omnivore,19.57,,1
+PRJEB11419,ERR1089997,ERS939744,Amplicon,26915,Illumina MiSeq,United States of America,2015/1/17,Female,60,Omnivore,33.28,,1
+PRJEB11419,ERR1089999,ERS939746,Amplicon,29957,Illumina MiSeq,United States of America,2015/1/15,Female,59,Omnivore,23,,1
+PRJEB11419,ERR1090009,ERS939756,Amplicon,46764,Illumina MiSeq,United States of America,2015/1/12,Female,43,Omnivore,25.75,,1
+PRJEB11419,ERR1090058,ERS939805,Amplicon,32877,Illumina MiSeq,United States of America,2015/2/9,Male,47,Omnivore,25.82,,1
+PRJEB11419,ERR1090075,ERS939822,Amplicon,34317,Illumina MiSeq,United States of America,2015/2/6,Female,53,Omnivore,21.24,,1
+PRJEB11419,ERR1090077,ERS939824,Amplicon,39272,Illumina MiSeq,United States of America,2015/2/3,Female,62,Omnivore,23.8,,1
+PRJEB11419,ERR1090112,ERS939859,Amplicon,30382,Illumina MiSeq,United States of America,2015/4/13,Female,62,Omnivore,33.44,,1
+PRJEB11419,ERR1090131,ERS939878,Amplicon,34415,Illumina MiSeq,United States of America,2015/4/19,Female,44,Omnivore,26,,1
+PRJEB11419,ERR1090133,ERS939880,Amplicon,39238,Illumina MiSeq,United States of America,2015/4/6,Female,43,Omnivore,22.24,,1
+PRJEB11419,ERR1090134,ERS939881,Amplicon,27787,Illumina MiSeq,United States of America,2015/4/19,Female,40,Omnivore,24.53,,1
+PRJEB11419,ERR1090139,ERS939886,Amplicon,25528,Illumina MiSeq,United States of America,2015/4/11,Female,52,Omnivore,37.61,,1
+PRJEB11419,ERR1090140,ERS939887,Amplicon,36594,Illumina MiSeq,United States of America,2015/4/10,Female,54,Omnivore,24.72,,1
+PRJEB11419,ERR1090143,ERS939890,Amplicon,22831,Illumina MiSeq,United States of America,2015/4/6,Female,58,Omnivore,22.14,,1
+PRJEB11419,ERR1090237,ERS939976,Amplicon,23328,Illumina MiSeq,United States of America,2015/6/30,Male,55,Omnivore,23.73,,1
+PRJEB11419,ERR1090366,ERS940079,Amplicon,29408,Illumina MiSeq,United Kingdom,2015/5/26,Female,62,Vegetarian,16.83,,1
+PRJEB11419,ERR1090399,ERS940112,Amplicon,33325,Illumina MiSeq,Australia,2015/4/28,Female,55,Omnivore but do not eat red meat,23.88,,1
+PRJEB11419,ERR1090421,ERS940134,Amplicon,30643,Illumina MiSeq,Australia,2015/3/18,Male,46,Omnivore,31.74,,1
+PRJEB11419,ERR1090471,ERS940184,Amplicon,29507,Illumina MiSeq,United States of America,2015/4/3,Female,47,Omnivore,38.01,,1
+PRJEB11419,ERR1090481,ERS940194,Amplicon,30481,Illumina MiSeq,United States of America,2014/12/9,Female,65,Omnivore,18.9,,1
+PRJEB11419,ERR1090527,ERS940240,Amplicon,26525,Illumina MiSeq,Australia,2015/5/10,Male,54,Omnivore,16.98,,1
+PRJEB11419,ERR1090529,ERS940242,Amplicon,30565,Illumina MiSeq,Australia,2015/5/19,Female,59,Omnivore,25.73,,1
+PRJEB11419,ERR1090533,ERS940246,Amplicon,31109,Illumina MiSeq,Australia,2015/4/8,Female,43,Omnivore,22.66,,1
+PRJEB11419,ERR1090536,ERS940249,Amplicon,26909,Illumina MiSeq,United States of America,2015/4/28,Female,59,Omnivore but do not eat red meat,24.2,,1
+PRJEB11419,ERR1090537,ERS940250,Amplicon,34854,Illumina MiSeq,United States of America,2015/5/19,Male,29,Omnivore,20.5,,1
+PRJEB11419,ERR1090608,ERS940321,Amplicon,23740,Illumina MiSeq,United States of America,2015/4/29,Female,58,Omnivore,20.37,,1
+PRJEB11419,ERR1090621,ERS940334,Amplicon,26934,Illumina MiSeq,United States of America,2015/5/1,Female,62,Omnivore,18.72,,1
+PRJEB11419,ERR1090647,ERS940360,Amplicon,24315,Illumina MiSeq,United States of America,2015/5/27,Female,67,Omnivore,28.35,,1
+PRJEB11419,ERR1090650,ERS940363,Amplicon,25866,Illumina MiSeq,United States of America,2015/5/18,Female,40,Omnivore,22.6,,1
+PRJEB11419,ERR1090653,ERS940366,Amplicon,23429,Illumina MiSeq,United States of America,2015/4/29,Female,16,Omnivore,3487.23,,1
+PRJEB11419,ERR1090654,ERS940367,Amplicon,27679,Illumina MiSeq,United States of America,2015/5/1,Male,34,Omnivore but do not eat red meat,24.49,,1
+PRJEB11419,ERR1090662,ERS940375,Amplicon,22914,Illumina MiSeq,United States of America,2015/5/2,Male,70,Omnivore,17.94,,1
+PRJEB11419,ERR1090673,ERS940386,Amplicon,27960,Illumina MiSeq,United States of America,2015/5/24,Male,65,Omnivore but do not eat red meat,24.4,,1
+PRJEB11419,ERR1090676,ERS940389,Amplicon,25660,Illumina MiSeq,United States of America,2015/5/20,Male,46,Omnivore,26.5,,1
+PRJEB11419,ERR1090695,ERS940408,Amplicon,26531,Illumina MiSeq,United States of America,2015/5/27,Male,0,Omnivore but do not eat red meat,50.73,,1
+PRJEB11419,ERR1090696,ERS940409,Amplicon,28157,Illumina MiSeq,United States of America,2015/5/29,Female,31,Omnivore but do not eat red meat,20.78,,1
+PRJEB11419,ERR1090698,ERS940411,Amplicon,32404,Illumina MiSeq,United States of America,2015/6/16,Female,56,Omnivore,29.45,,1
+PRJEB11419,ERR1090720,ERS940433,Amplicon,27745,Illumina MiSeq,United States of America,2015/6/20,Female,31,Omnivore,19.74,,1
+PRJEB11419,ERR1160315,ERS993832,Amplicon,177004,Illumina HiSeq 2000,United States of America,2015/8/27,Female,35,Omnivore,18.66,,1
+PRJEB11419,ERR1160337,ERS993854,Amplicon,133729,Illumina HiSeq 2000,United States of America,2015/3/5,Female,68,Omnivore,29.41,,1
+PRJEB11419,ERR1160338,ERS993855,Amplicon,122943,Illumina HiSeq 2000,United States of America,2015/8/26,Female,42,Omnivore,40.67,,1
+PRJEB11419,ERR1160347,ERS993864,Amplicon,182950,Illumina HiSeq 2000,United States of America,2015/10/11,Female,28,Omnivore,20.6,,1
+PRJEB11419,ERR1160349,ERS993866,Amplicon,114502,Illumina HiSeq 2000,Spain,2015/9/2,Male,40,Omnivore,22.63,,1
+PRJEB11419,ERR1160361,ERS993878,Amplicon,182510,Illumina HiSeq 2000,China,2015/8/31,Female,62,Omnivore but do not eat red meat,45.84,,1
+PRJEB11419,ERR1160372,ERS993889,Amplicon,108797,Illumina HiSeq 2000,United States of America,2015/9/22,Female,62,Omnivore but do not eat red meat,21.95,,1
+PRJEB11419,ERR1160403,ERS993920,Amplicon,91745,Illumina HiSeq 2000,United States of America,2015/8/30,Female,56,Omnivore,25.1,,1
+PRJEB11419,ERR1160436,ERS993953,Amplicon,131386,Illumina HiSeq 2000,United States of America,2015/9/30,Female,62,Omnivore but do not eat red meat,22.96,,1
+PRJEB11419,ERR1160441,ERS993958,Amplicon,109448,Illumina HiSeq 2000,United States of America,2015/10/17,Female,45,Vegetarian but eat seafood,21.95,,1
+PRJEB11419,ERR1160463,ERS993980,Amplicon,204797,Illumina HiSeq 2000,Canada,2015/10/17,Female,45,Omnivore,23.01,,1
+PRJEB11419,ERR1160502,ERS994019,Amplicon,150530,Illumina HiSeq 2000,United Kingdom,2015/10/16,Female,44,Omnivore,22.83,,1
+PRJEB11419,ERR1160503,ERS994020,Amplicon,125694,Illumina HiSeq 2000,United Kingdom,2015/9/11,Female,61,Omnivore,26.29,,1
+PRJEB11419,ERR1160515,ERS994032,Amplicon,91358,Illumina HiSeq 2000,United Kingdom,2015/9/23,Female,59,Omnivore,21.63,,1
+PRJEB11419,ERR1160604,ERS994121,Amplicon,111313,Illumina HiSeq 2000,United States of America,2015/8/21,Female,54,Omnivore,19.37,,1
+PRJEB11419,ERR1160621,ERS994138,Amplicon,77958,Illumina HiSeq 2000,United States of America,2015/8/20,Female,33,Omnivore,19.63,,1
+PRJEB11419,ERR1160626,ERS994143,Amplicon,425798,Illumina HiSeq 2000,United States of America,2015/8/27,Male,70,Omnivore,21.83,,1
+PRJEB11419,ERR1160634,ERS994151,Amplicon,169491,Illumina HiSeq 2000,United States of America,2015/10/4,Female,38,Omnivore but do not eat red meat,20.12,,1
+PRJEB11419,ERR1160646,ERS994163,Amplicon,122601,Illumina HiSeq 2000,United Kingdom,2015/10/13,Female,39,Omnivore,26.7,,1
+PRJEB11419,ERR1160672,ERS994189,Amplicon,182225,Illumina HiSeq 2000,Latvia,2015/10/12,Male,33,Omnivore,26.23,,1
+PRJEB11419,ERR1160681,ERS994198,Amplicon,310401,Illumina HiSeq 2000,United States of America,2015/10/13,Female,60,Vegan,24.89,,1
+PRJEB11419,ERR1160685,ERS994202,Amplicon,97204,Illumina HiSeq 2000,United States of America,2015/10/8,Female,64,Omnivore,28.62,,1
+PRJEB11419,ERR1160709,ERS994226,Amplicon,42321,Illumina HiSeq 2000,United States of America,2015/9/20,Female,55,Omnivore,18.79,,1
+PRJEB11419,ERR1160713,ERS994230,Amplicon,93224,Illumina HiSeq 2000,United States of America,2015/8/30,Female,0,Omnivore,14.63,,1
+PRJEB11419,ERR1160728,ERS994245,Amplicon,147101,Illumina HiSeq 2000,United States of America,2015/8/31,Male,47,Omnivore,20.65,,1
+PRJEB11419,ERR1160736,ERS994253,Amplicon,85183,Illumina HiSeq 2000,United States of America,2015/10/12,Male,9,Omnivore,15.26,,1
+PRJEB11419,ERR1160737,ERS994254,Amplicon,61632,Illumina HiSeq 2000,United States of America,2015/10/12,Male,9,Omnivore,15.26,,1
+PRJEB11419,ERR1160738,ERS994255,Amplicon,178540,Illumina HiSeq 2000,United States of America,2015/9/5,Female,52,Omnivore,23.72,,1
+PRJEB11419,ERR1160743,ERS994260,Amplicon,58264,Illumina HiSeq 2000,United States of America,2015/8/30,Male,11,Omnivore,14.18,,1
+PRJEB11419,ERR1160747,ERS994264,Amplicon,105646,Illumina HiSeq 2000,United States of America,2015/9/8,Female,63,Omnivore but do not eat red meat,20.6,,1
+PRJEB11419,ERR1160748,ERS994265,Amplicon,193604,Illumina HiSeq 2000,United States of America,2015/10/7,Female,53,Omnivore,25.02,,1
+PRJEB11419,ERR1160767,ERS994284,Amplicon,176102,Illumina HiSeq 2000,United States of America,2015/10/11,Female,54,Omnivore,34.44,,1
+PRJEB11419,ERR1160781,ERS994298,Amplicon,55788,Illumina HiSeq 2000,Canada,2015/10/6,Female,54,Omnivore,23.13,,1
+PRJEB11419,ERR1160791,ERS994308,Amplicon,184149,Illumina HiSeq 2000,Canada,2015/10/17,Female,43,Omnivore,30.18,,1
+PRJEB11419,ERR1160798,ERS994315,Amplicon,321481,Illumina HiSeq 2000,United States of America,2015/9/28,Female,41,Omnivore,38.77,,1
+PRJEB11419,ERR1160799,ERS994316,Amplicon,150758,Illumina HiSeq 2000,United States of America,2015/9/28,Male,66,Omnivore,23.06,,1
+PRJEB11419,ERR1160802,ERS994319,Amplicon,295108,Illumina HiSeq 2000,United States of America,2015/10/5,Female,51,Vegetarian,19.57,,1
+PRJEB11419,ERR1160806,ERS994323,Amplicon,194464,Illumina HiSeq 2000,United States of America,2015/10/19,Male,33,Omnivore,21.83,,1
+PRJEB11419,ERR1233443,ERS1048810,Amplicon,229581,Illumina MiSeq,United States of America,2016/1/26,Female,27,Omnivore,24.89,,1
+PRJEB11419,ERR1249655,ERS1052434,Amplicon,25019,Illumina MiSeq,United States of America,2015/11/17,Female,58,Omnivore but do not eat red meat,17.75,,1
+PRJEB11419,ERR1249688,ERS1052466,Amplicon,40116,Illumina MiSeq,United States of America,2015/9/16,Female,45,Omnivore,19.9,,1
+PRJEB11419,ERR1249762,ERS1052533,Amplicon,35168,Illumina MiSeq,United States of America,2015/6/3,Female,57,Omnivore,37.2,,1
+PRJEB11419,ERR1249765,ERS1052536,Amplicon,35248,Illumina MiSeq,United States of America,2015/4/15,Female,64,Omnivore,19.77,,1
+PRJEB11419,ERR1249794,ERS940807,Amplicon,27795,Illumina MiSeq,United States of America,2015/6/3,Male,54,Omnivore,26.32,,1
+PRJEB11419,ERR1249804,ERS941169,Amplicon,37657,Illumina MiSeq,United Kingdom,2015/7/14,Female,53,Omnivore,25.99,,1
+PRJEB11419,ERR1249819,ERS1052558,Amplicon,25359,Illumina MiSeq,United Kingdom,2015/9/9,Female,41,Omnivore but do not eat red meat,23.46,,1
+PRJEB11419,ERR1249835,ERS1052569,Amplicon,28059,Illumina MiSeq,Ireland,2015/8/27,Female,44,Omnivore,23.62,,1
+PRJEB11419,ERR1249838,ERS941323,Amplicon,37469,Illumina MiSeq,United Kingdom,2015/7/10,Female,56,Omnivore,28.33,,1
+PRJEB11419,ERR1249895,ERS1052619,Amplicon,33350,Illumina MiSeq,United States of America,2015/7/19,Female,47,Omnivore,28.29,,1
+PRJEB11419,ERR1249909,ERS1052629,Amplicon,41719,Illumina MiSeq,United States of America,2015/9/21,Male,42,NA,22.67,,1
+PRJEB11419,ERR1249925,ERS1052639,Amplicon,28041,Illumina MiSeq,United Kingdom,2015/9/26,Female,52,Vegetarian,22.27,,1
+PRJEB11419,ERR1249928,ERS1052641,Amplicon,25020,Illumina MiSeq,United Kingdom,2015/9/15,Female,66,Vegetarian but eat seafood,23.24,,1
+PRJEB11419,ERR1249932,ERS1052644,Amplicon,41659,Illumina MiSeq,United Kingdom,2015/9/19,Male,38,Omnivore,24.44,,1
+PRJEB11419,ERR1249966,ERS1052671,Amplicon,38435,Illumina MiSeq,United States of America,2015/10/30,Female,46,Omnivore,21.47,,1
+PRJEB11419,ERR1249971,ERS1052675,Amplicon,32433,Illumina MiSeq,United States of America,2015/10/23,Female,65,Omnivore,26.61,,1
+PRJEB11419,ERR1250074,ERS1052778,Amplicon,34617,Illumina MiSeq,United States of America,2015/10/29,Female,64,Omnivore but do not eat red meat,24.8,,1
+PRJEB11419,ERR1250089,ERS1052793,Amplicon,24971,Illumina MiSeq,United States of America,2015/11/27,Female,63,Omnivore,22.11,,1
+PRJEB11419,ERR1250118,ERS1052822,Amplicon,24730,Illumina MiSeq,United States of America,2015/12/2,Male,47,Vegetarian but eat seafood,20.06,,1
+PRJEB11419,ERR1250416,ERS1053953,Amplicon,24189,Illumina MiSeq,United States of America,2014/11/23,Female,64,Omnivore,23.44,,1
+PRJEB11419,ERR1250436,ERS1053960,Amplicon,27100,Illumina MiSeq,United States of America,2015/11/11,Male,38,Omnivore,31.93,,1
+PRJEB11419,ERR1250472,ERS1053971,Amplicon,39141,Illumina MiSeq,Australia,2015/1/14,Female,71,Omnivore,22.91,,1
+PRJEB11419,ERR1250495,ERS1053980,Amplicon,24981,Illumina MiSeq,United States of America,2015/12/18,Female,0,Omnivore,23.69,,1
+PRJEB11419,ERR1250537,ERS940849,Amplicon,38372,Illumina MiSeq,United Kingdom,2015/6/24,Female,28,Omnivore,27.89,,1
+PRJEB11419,ERR1250560,ERS1054021,Amplicon,23790,Illumina MiSeq,United Kingdom,2015/11/24,Female,45,Omnivore,9.03,,1
+PRJEB11419,ERR1250589,ERS1054050,Amplicon,35808,Illumina MiSeq,United States of America,2015/12/31,Male,61,Omnivore,26.61,,1
+PRJEB11419,ERR1250602,ERS1054063,Amplicon,26495,Illumina MiSeq,United States of America,2015/11/17,Female,65,Omnivore,22.86,,1
+PRJEB11419,ERR1250611,ERS1054072,Amplicon,33481,Illumina MiSeq,United States of America,2015/11/22,Female,55,Omnivore,25.13,,1
+PRJEB11419,ERR1250613,ERS1054074,Amplicon,26335,Illumina MiSeq,United States of America,2015/11/23,Male,6,Omnivore,16.67,,1
+PRJEB11419,ERR1250617,ERS1054078,Amplicon,23694,Illumina MiSeq,United States of America,2015/12/21,Female,62,Omnivore,27.62,,1
+PRJEB11419,ERR1250619,ERS1054080,Amplicon,29108,Illumina MiSeq,United States of America,2016/1/4,Male,66,Omnivore but do not eat red meat,24.4,,1
+PRJEB11419,ERR1250633,ERS1054094,Amplicon,27890,Illumina MiSeq,United States of America,2015/12/31,Female,49,Omnivore,23.78,,1
+PRJEB11419,ERR1315813,ERS1088071,Amplicon,27571,Illumina MiSeq,United States of America,2016/1/18,Female,13,Omnivore,20.85,,1
+PRJEB11419,ERR1315818,ERS1088076,Amplicon,24503,Illumina MiSeq,United States of America,2015/1/1,Male,42,Omnivore,20.54,,1
+PRJEB11419,ERR1315868,ERS1088126,Amplicon,26090,Illumina MiSeq,United Kingdom,2015/9/16,Female,47,Vegan,17.69,,1
+PRJEB11419,ERR1316006,ERS1088263,Amplicon,24909,Illumina MiSeq,United States of America,2016/1/11,Male,39,Omnivore,23.01,,1
+PRJEB11419,ERR1389632,ERS1134601,Amplicon,25060,Illumina MiSeq,United States of America,2016/3/1,Female,46,Omnivore,32.12,,1
+PRJEB11419,ERR1389668,ERS1134637,Amplicon,24846,Illumina MiSeq,United Kingdom,2016/2/29,Male,52,Omnivore,24.22,,1
+PRJEB11419,ERR1389680,ERS1134649,Amplicon,27968,Illumina MiSeq,United States of America,2016/1/11,Female,44,Omnivore,21.63,,1
+PRJEB11419,ERR1389692,ERS1134661,Amplicon,29287,Illumina MiSeq,United Kingdom,2015/11/2,Female,56,Omnivore,42.94,,1
+PRJEB11419,ERR1389736,ERS1134705,Amplicon,28831,Illumina MiSeq,United States of America,2015/9/11,Female,47,Omnivore,22.67,,1
+PRJEB11419,ERR1389742,ERS1134711,Amplicon,22901,Illumina MiSeq,United States of America,2015/12/16,Female,59,Omnivore,20.53,,1
+PRJEB11419,ERR1389746,ERS1134715,Amplicon,34566,Illumina MiSeq,United States of America,2016/2/15,Female,50,Omnivore,33.28,,1
+PRJEB11419,ERR1389747,ERS1134716,Amplicon,31487,Illumina MiSeq,United States of America,2015/11/16,Female,49,Omnivore,26.52,,1
+PRJEB11419,ERR1389763,ERS1134732,Amplicon,35467,Illumina MiSeq,United Kingdom,2016/2/24,Male,56,Omnivore,24.29,,1
+PRJEB11419,ERR1389764,ERS1134733,Amplicon,24988,Illumina MiSeq,United Kingdom,2016/2/23,Female,42,Omnivore,28.6,,1
+PRJEB11419,ERR1389772,ERS1134741,Amplicon,31529,Illumina MiSeq,United Kingdom,2016/2/15,Male,49,Omnivore,24.91,,1
+PRJEB11419,ERR1389777,ERS1134746,Amplicon,29487,Illumina MiSeq,United Kingdom,2016/2/22,Male,70,Omnivore,22.08,,1
+PRJEB11419,ERR1389785,ERS1134754,Amplicon,38902,Illumina MiSeq,United Kingdom,2016/2/26,Female,53,Omnivore,23.69,,1
+PRJEB11419,ERR1389790,ERS1134759,Amplicon,37895,Illumina MiSeq,Switzerland,2016/2/14,Male,49,Omnivore,25.08,,1
+PRJEB11419,ERR1389792,ERS1134761,Amplicon,31851,Illumina MiSeq,United Kingdom,2016/2/11,Male,43,Omnivore,22.19,,1
+PRJEB11419,ERR1389795,ERS1134764,Amplicon,35348,Illumina MiSeq,United Kingdom,2016/3/3,Female,42,Omnivore,25.9,,1
+PRJEB11419,ERR1389798,ERS1134767,Amplicon,36910,Illumina MiSeq,United Kingdom,2016/2/8,Female,30,Omnivore,22.15,,1
+PRJEB11419,ERR1389814,ERS1134783,Amplicon,43122,Illumina MiSeq,United Kingdom,2016/2/28,Female,68,Omnivore,23.62,,1
+PRJEB11419,ERR1389817,ERS1134786,Amplicon,31897,Illumina MiSeq,Switzerland,2016/2/15,Female,32,Omnivore,20.45,,1
+PRJEB11419,ERR1389825,ERS1134794,Amplicon,31484,Illumina MiSeq,United Kingdom,2016/3/2,Female,45,Omnivore,25.21,,1
+PRJEB11419,ERR1389843,ERS1134812,Amplicon,26917,Illumina MiSeq,United Kingdom,2016/2/14,Female,47,Omnivore,28.31,,1
+PRJEB11419,ERR1389844,ERS1134813,Amplicon,32978,Illumina MiSeq,United Kingdom,2016/2/15,Female,47,Omnivore,28.31,,1
+PRJEB11419,ERR1389864,ERS1134833,Amplicon,32464,Illumina MiSeq,United States of America,2016/2/19,Male,32,Omnivore,24.43,,1
+PRJEB11419,ERR1389877,ERS1088356,Amplicon,37219,Illumina MiSeq,United States of America,2016/2/1,Female,38,Omnivore,24.98,,1
+PRJEB11419,ERR1389892,ERS1134849,Amplicon,29949,Illumina MiSeq,United States of America,2016/2/28,Male,41,Vegetarian,27.25,,1
+PRJEB11419,ERR1389903,ERS1088395,Amplicon,37425,Illumina MiSeq,United States of America,2016/2/16,Female,33,Omnivore,20.12,,1
+PRJEB11419,ERR1389922,ERS1134860,Amplicon,39152,Illumina MiSeq,United States of America,2016/2/1,Female,55,Omnivore,20.98,,1
+PRJEB11419,ERR1389927,ERS1134865,Amplicon,23790,Illumina MiSeq,United States of America,2016/3/3,Female,55,Omnivore,19.58,,1
+PRJEB11419,ERR1389931,ERS1134869,Amplicon,34685,Illumina MiSeq,United States of America,2016/2/26,Female,50,Omnivore,26.63,,1
+PRJEB11419,ERR1389942,ERS1134880,Amplicon,32115,Illumina MiSeq,United Kingdom,2016/3/1,Female,0,Omnivore,0,,1
+PRJEB11419,ERR1389954,ERS1134892,Amplicon,34118,Illumina MiSeq,United States of America,2016/3/12,Male,50,Omnivore,26.85,,1
+PRJEB11419,ERR1389960,ERS1088455,Amplicon,30800,Illumina MiSeq,United States of America,2016/2/13,Male,32,Omnivore,22.43,,1
+PRJEB11419,ERR1390009,ERS1134943,Amplicon,30665,Illumina MiSeq,United States of America,2016/3/10,Female,36,Omnivore,21,,1
+PRJEB11419,ERR1390016,ERS1134950,Amplicon,29605,Illumina MiSeq,United States of America,2016/4/24,Female,59,Omnivore,21.63,,1
+PRJEB11419,ERR1390023,ERS1134957,Amplicon,36755,Illumina MiSeq,United States of America,2016/4/24,Female,21,Omnivore,19.4,,1
+PRJEB11419,ERR1390024,ERS1134958,Amplicon,37602,Illumina MiSeq,United States of America,2016/4/24,Female,21,Omnivore,19.4,,1
+PRJEB11419,ERR1390025,ERS1134959,Amplicon,36413,Illumina MiSeq,United States of America,2016/4/24,Female,21,Omnivore,19.4,,1
+PRJEB11419,ERR1417425,ERS1164362,Amplicon,33817,Illumina MiSeq,Netherlands,2016/1/13,Female,47,Omnivore,33.66,,1
+PRJEB11419,ERR1417454,ERS1164391,Amplicon,37432,Illumina MiSeq,United Kingdom,2016/1/12,Female,69,Vegetarian but eat seafood,22.32,,1
+PRJEB11419,ERR1417545,ERS1164482,Amplicon,29237,Illumina MiSeq,United States of America,2016/2/22,Female,72,Omnivore,20.8,,1
+PRJEB11419,ERR1417546,ERS1164483,Amplicon,39252,Illumina MiSeq,United States of America,2016/2/22,Female,72,Omnivore,20.8,,1
+PRJEB11419,ERR1417564,ERS1164501,Amplicon,26030,Illumina MiSeq,United Kingdom,2016/2/1,Female,56,Omnivore,24.19,,1
+PRJEB11419,ERR1417608,ERS1164545,Amplicon,32753,Illumina MiSeq,United Kingdom,2016/1/29,Female,62,Omnivore,24.02,,1
+PRJEB11419,ERR1417632,ERS1164569,Amplicon,30344,Illumina MiSeq,United States of America,2016/2/15,Male,44,Omnivore,29.99,,1
+PRJEB11419,ERR1417639,ERS1164576,Amplicon,30725,Illumina MiSeq,Canada,2016/2/25,Female,57,Omnivore,27.41,,1
+PRJEB11419,ERR1458723,ERS1207615,Amplicon,36676,Illumina MiSeq,United States of America,2015/12/3,Female,45,Omnivore,19.9,,1
+PRJEB11419,ERR1458750,ERS1207640,Amplicon,27230,Illumina MiSeq,United States of America,2016/4/18,Female,50,Omnivore,21.79,,1
+PRJEB11419,ERR1458772,ERS1207655,Amplicon,26863,Illumina MiSeq,United Kingdom,2016/4/16,Female,40,Omnivore,26.05,,1
+PRJEB11419,ERR1458802,ERS1088221,Amplicon,24236,Illumina MiSeq,United Kingdom,2015/12/7,Male,6,Omnivore,19.22,,1
+PRJEB11419,ERR1458875,ERS1207741,Amplicon,25271,Illumina MiSeq,United States of America,2016/3/22,Male,25,Vegetarian but eat seafood,22.15,,1
+PRJEB11419,ERR1458920,ERS1207776,Amplicon,25235,Illumina MiSeq,Sweden,2016/2/17,Male,34,Omnivore,24.59,,1
+PRJEB11419,ERR1458972,ERS1088418,Amplicon,32653,Illumina MiSeq,United States of America,2016/2/13,Female,0,Omnivore,25.96,,1
+PRJEB11419,ERR1458984,ERS1207839,Amplicon,35399,Illumina MiSeq,United Kingdom,2016/3/14,Female,55,Omnivore,26.43,,1
+PRJEB11419,ERR1458993,ERS1207848,Amplicon,24325,Illumina MiSeq,Switzerland,2016/3/29,Female,55,Omnivore,17.91,,1
+PRJEB11419,ERR1458999,ERS1207854,Amplicon,29798,Illumina MiSeq,Spain,2016/3/28,Male,41,Omnivore,22.63,,1
+PRJEB11419,ERR1459014,ERS1207869,Amplicon,30167,Illumina MiSeq,United Kingdom,2016/4/1,Female,45,Vegetarian but eat seafood,0,,1
+PRJEB11419,ERR1459117,ERS1207972,Amplicon,24493,Illumina MiSeq,United States of America,2016/3/17,Female,56,Omnivore,24.63,,1
+PRJEB11419,ERR1459142,ERS1207997,Amplicon,27848,Illumina MiSeq,United States of America,2016/3/29,Female,59,Omnivore,21.95,,1
+PRJEB11419,ERR1459152,ERS1208007,Amplicon,28641,Illumina MiSeq,United States of America,2016/4/6,Male,65,Omnivore but do not eat red meat,35.51,,1
+PRJEB11419,ERR1459190,ERS1208045,Amplicon,24426,Illumina MiSeq,United States of America,2016/4/19,Female,0,Omnivore,26.61,,1
+PRJEB11419,ERR1545862,ERS1265334,Amplicon,46326,Illumina MiSeq,United States of America,2016/6/9,Female,31,Omnivore,23.17,,1
+PRJEB11419,ERR1545951,ERS1265423,Amplicon,48670,Illumina MiSeq,United States of America,2016/6/10,Female,31,Omnivore but do not eat red meat,18.48,,1
+PRJEB11419,ERR1546042,ERS1265514,Amplicon,49982,Illumina MiSeq,United States of America,2016/6/11,Female,65,Omnivore,29.95,,1
+PRJEB11419,ERR1546045,ERS1265517,Amplicon,52477,Illumina MiSeq,United States of America,2016/6/7,Male,46,Omnivore,34.7,,1
+PRJEB11419,ERR1546050,ERS1265522,Amplicon,43355,Illumina MiSeq,United States of America,2016/6/14,Female,47,Omnivore,23.67,,1
+PRJEB11419,ERR1546052,ERS1265524,Amplicon,65093,Illumina MiSeq,United States of America,2016/6/11,Female,35,Omnivore,17.47,,1
+PRJEB11419,ERR1546060,ERS1265532,Amplicon,56493,Illumina MiSeq,United States of America,2016/6/10,Female,55,Omnivore,19.77,,1
+PRJEB11419,ERR1546064,ERS1265536,Amplicon,42701,Illumina MiSeq,United States of America,2016/6/21,Female,23,Omnivore but do not eat red meat,19.13,,1
+PRJEB11419,ERR1551470,ERS1270070,Amplicon,40083,Illumina MiSeq,United States of America,2016/5/11,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551471,ERS1270071,Amplicon,39403,Illumina MiSeq,United States of America,2016/5/12,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551472,ERS1270072,Amplicon,40230,Illumina MiSeq,United States of America,2016/5/15,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551473,ERS1270073,Amplicon,74213,Illumina MiSeq,United States of America,2016/5/14,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551474,ERS1270074,Amplicon,59206,Illumina MiSeq,United States of America,2016/5/16,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551475,ERS1270075,Amplicon,28074,Illumina MiSeq,United States of America,2016/5/17,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551476,ERS1270076,Amplicon,56174,Illumina MiSeq,United States of America,2016/5/19,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551477,ERS1270077,Amplicon,65031,Illumina MiSeq,United States of America,2016/5/18,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551478,ERS1270078,Amplicon,28777,Illumina MiSeq,United States of America,2016/5/21,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551479,ERS1270079,Amplicon,35770,Illumina MiSeq,United States of America,2016/5/22,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551480,ERS1270080,Amplicon,40471,Illumina MiSeq,United States of America,2016/5/23,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551481,ERS1270081,Amplicon,47275,Illumina MiSeq,United States of America,2016/5/24,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551482,ERS1270082,Amplicon,55818,Illumina MiSeq,United States of America,2016/5/25,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551483,ERS1270083,Amplicon,51637,Illumina MiSeq,United States of America,2016/5/27,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551484,ERS1270084,Amplicon,64022,Illumina MiSeq,United States of America,2016/5/29,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551485,ERS1270085,Amplicon,97647,Illumina MiSeq,United States of America,2016/5/30,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551486,ERS1270086,Amplicon,65185,Illumina MiSeq,United States of America,2016/5/31,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551487,ERS1270087,Amplicon,26278,Illumina MiSeq,United States of America,2016/6/2,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551488,ERS1270088,Amplicon,48638,Illumina MiSeq,United States of America,2016/6/10,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551489,ERS1270089,Amplicon,58545,Illumina MiSeq,United States of America,2016/6/3,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551490,ERS1270090,Amplicon,55805,Illumina MiSeq,United States of America,2016/6/4,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551491,ERS1270091,Amplicon,40204,Illumina MiSeq,United States of America,2016/6/5,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551492,ERS1270092,Amplicon,54051,Illumina MiSeq,United States of America,2016/6/6,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551494,ERS1270094,Amplicon,40138,Illumina MiSeq,United States of America,2016/6/9,Male,65,Vegan,21.67,,1
+PRJEB11419,ERR1551495,ERS1270095,Amplicon,44528,Illumina MiSeq,United States of America,2016/5/12,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551497,ERS1270097,Amplicon,34306,Illumina MiSeq,United States of America,2016/5/15,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551498,ERS1270098,Amplicon,34819,Illumina MiSeq,United States of America,2016/5/16,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551499,ERS1270099,Amplicon,48591,Illumina MiSeq,United States of America,2016/5/17,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551500,ERS1270100,Amplicon,69772,Illumina MiSeq,United States of America,2016/5/20,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551501,ERS1270101,Amplicon,47651,Illumina MiSeq,United States of America,2016/5/21,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551502,ERS1270102,Amplicon,41414,Illumina MiSeq,United States of America,2016/5/22,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551503,ERS1270103,Amplicon,49422,Illumina MiSeq,United States of America,2016/5/23,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551504,ERS1270104,Amplicon,52365,Illumina MiSeq,United States of America,2016/5/24,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551506,ERS1270106,Amplicon,60634,Illumina MiSeq,United States of America,2016/6/12,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR1551507,ERS1270107,Amplicon,46573,Illumina MiSeq,United States of America,2016/6/16,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551508,ERS1270108,Amplicon,35575,Illumina MiSeq,United States of America,2016/6/22,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551509,ERS1270109,Amplicon,65266,Illumina MiSeq,United States of America,2016/6/21,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551510,ERS1270110,Amplicon,81475,Illumina MiSeq,United States of America,2016/6/14,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551511,ERS1270111,Amplicon,63988,Illumina MiSeq,United States of America,2016/6/17,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551512,ERS1270112,Amplicon,56423,Illumina MiSeq,United States of America,2016/6/20,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551513,ERS1270113,Amplicon,41121,Illumina MiSeq,United States of America,2016/6/18,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551514,ERS1270114,Amplicon,47184,Illumina MiSeq,United States of America,2016/6/19,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551515,ERS1270115,Amplicon,59469,Illumina MiSeq,United States of America,2016/6/7,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551516,ERS1270116,Amplicon,44232,Illumina MiSeq,United States of America,2016/6/9,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551517,ERS1270117,Amplicon,51300,Illumina MiSeq,United States of America,2016/6/19,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551518,ERS1270118,Amplicon,56530,Illumina MiSeq,United States of America,2016/6/8,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551519,ERS1270119,Amplicon,59770,Illumina MiSeq,United States of America,2016/6/3,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551520,ERS1270120,Amplicon,63456,Illumina MiSeq,United States of America,2016/6/10,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551521,ERS1270121,Amplicon,49592,Illumina MiSeq,United States of America,2016/6/13,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551522,ERS1270122,Amplicon,35457,Illumina MiSeq,United States of America,2016/6/12,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551523,ERS1270123,Amplicon,29005,Illumina MiSeq,United States of America,2016/6/2,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551524,ERS1270124,Amplicon,35140,Illumina MiSeq,United States of America,2016/6/4,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551525,ERS1270125,Amplicon,53042,Illumina MiSeq,United States of America,2016/6/5,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551526,ERS1270126,Amplicon,81419,Illumina MiSeq,United States of America,2016/6/11,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1551527,ERS1270127,Amplicon,50055,Illumina MiSeq,United States of America,2016/6/15,Female,38,Vegetarian but eat seafood,25.52,,1
+PRJEB11419,ERR1678326,ERS1395112,Amplicon,25158,Illumina MiSeq,United States of America,2016/7/14,Female,65,Omnivore,26.63,,1
+PRJEB11419,ERR1678420,ERS1395189,Amplicon,27882,Illumina MiSeq,United Kingdom,2016/5/18,Female,48,Omnivore,36.05,,1
+PRJEB11419,ERR1678425,ERS1395194,Amplicon,26176,Illumina MiSeq,Canada,2016/3/2,Male,63,Omnivore,25.83,,1
+PRJEB11419,ERR1678481,ERS1395250,Amplicon,28771,Illumina MiSeq,United States of America,2016/7/9,Female,57,Vegetarian but eat seafood,23.4,,1
+PRJEB11419,ERR1678484,ERS1395253,Amplicon,26884,Illumina MiSeq,United States of America,2016/6/15,Female,0,Vegetarian but eat seafood,37.76,,1
+PRJEB11419,ERR1678494,ERS1395263,Amplicon,32712,Illumina MiSeq,United States of America,2016/7/11,Male,43,Omnivore,27.8,,1
+PRJEB11419,ERR1842121,ERS1561732,Amplicon,29252,Illumina MiSeq,United States of America,2016/7/27,Female,73,Omnivore,20.01,,1
+PRJEB11419,ERR1842238,ERS1561822,Amplicon,28636,Illumina MiSeq,United Kingdom,2016/7/4,Male,37,Omnivore,28.38,,1
+PRJEB11419,ERR1842542,ERS1562101,Amplicon,29851,Illumina MiSeq,United Kingdom,2016/7/25,Female,51,Omnivore,27.76,,1
+PRJEB11419,ERR1842582,ERS1562141,Amplicon,33858,Illumina MiSeq,United Kingdom,2016/7/29,Male,53,Omnivore,25.83,,1
+PRJEB11419,ERR1842603,ERS1562162,Amplicon,28848,Illumina MiSeq,United States of America,2016/8/3,Female,42,Omnivore,22.05,,1
+PRJEB11419,ERR1842685,ERS1562244,Amplicon,21627,Illumina MiSeq,United Kingdom,2016/9/27,Female,72,Omnivore,21.95,,1
+PRJEB11419,ERR1842687,ERS1562246,Amplicon,39529,Illumina MiSeq,United Kingdom,2016/8/31,Female,53,Omnivore,14.7,,1
+PRJEB11419,ERR1842705,ERS1562263,Amplicon,27412,Illumina MiSeq,United States of America,2015/10/22,Female,30,Vegan,18.79,,1
+PRJEB11419,ERR1842714,ERS1562272,Amplicon,26871,Illumina MiSeq,United States of America,2016/3/15,Male,36,Omnivore,33.96,,1
+PRJEB11419,ERR1842736,ERS1562294,Amplicon,36492,Illumina MiSeq,United Kingdom,2016/9/8,Female,60,Omnivore,27.25,,1
+PRJEB11419,ERR1842749,ERS1562307,Amplicon,22264,Illumina MiSeq,United States of America,2016/3/21,Female,73,Omnivore but do not eat red meat,18.25,,1
+PRJEB11419,ERR1842855,ERS1562413,Amplicon,24380,Illumina MiSeq,United Kingdom,2016/9/26,Female,21,Omnivore,21.49,,1
+PRJEB11419,ERR1842874,ERS1562432,Amplicon,40013,Illumina MiSeq,United States of America,2016/9/27,Female,60,Omnivore,24.89,,1
+PRJEB11419,ERR1842879,ERS1562437,Amplicon,26788,Illumina MiSeq,United States of America,2016/9/23,Female,0,Omnivore,24.14,,1
+PRJEB11419,ERR1842892,ERS1562450,Amplicon,27456,Illumina MiSeq,United Kingdom,2016/9/21,Female,45,Omnivore,21.77,,1
+PRJEB11419,ERR1842914,ERS1562472,Amplicon,22099,Illumina MiSeq,United States of America,2016/9/21,Male,55,Omnivore,26.32,,1
+PRJEB11419,ERR1842916,ERS1562474,Amplicon,24491,Illumina MiSeq,United Kingdom,2016/10/3,Female,40,Omnivore,19.13,,1
+PRJEB11419,ERR1843435,ERS1561244,Amplicon,21779,Illumina MiSeq,United States of America,2015/2/15,Female,68,Vegetarian but eat seafood,24.39,,1
+PRJEB11419,ERR1843454,ERS1561256,Amplicon,24698,Illumina MiSeq,United States of America,2016/5/16,Female,33,Omnivore,21.4,,1
+PRJEB11419,ERR1843462,ERS1561261,Amplicon,23126,Illumina MiSeq,United Kingdom,2015/6/12,Female,48,Omnivore,32.05,,1
+PRJEB11419,ERR1843463,ERS1561262,Amplicon,23205,Illumina MiSeq,United States of America,2015/5/18,Male,0,Omnivore,24.41,,1
+PRJEB11419,ERR1843468,ERS1134632,Amplicon,42517,Illumina MiSeq,United Kingdom,2015/7/5,Female,63,Omnivore,31.17,,1
+PRJEB11419,ERR1843587,ERS1265335,Amplicon,21542,Illumina MiSeq,United States of America,2015/12/18,Female,40,Omnivore,29.05,,1
+PRJEB11419,ERR1843591,ERS1561318,Amplicon,21664,Illumina MiSeq,United States of America,2016/2/29,Female,54,Vegetarian but eat seafood,19.77,,1
+PRJEB11419,ERR1843596,ERS1265352,Amplicon,21468,Illumina MiSeq,Canada,2016/5/11,Male,44,Omnivore but do not eat red meat,19.91,,1
+PRJEB11419,ERR1843620,ERS1561326,Amplicon,24297,Illumina MiSeq,United Kingdom,2016/5/16,Female,62,Omnivore,20.67,,1
+PRJEB11419,ERR1843621,ERS1265380,Amplicon,24894,Illumina MiSeq,United Kingdom,2016/5/3,Male,68,Omnivore,20.32,,1
+PRJEB11419,ERR1843637,ERS1265394,Amplicon,23532,Illumina MiSeq,United Kingdom,2016/5/10,Female,59,Vegetarian but eat seafood,28.15,,1
+PRJEB11419,ERR1843664,ERS1265424,Amplicon,24157,Illumina MiSeq,United States of America,2016/5/9,Female,44,Omnivore,19.42,,1
+PRJEB11419,ERR1843686,ERS1561348,Amplicon,24283,Illumina MiSeq,Belgium,2016/8/11,Female,52,Omnivore,24.45,,1
+PRJEB11419,ERR1843709,ERS1265460,Amplicon,23330,Illumina MiSeq,United Kingdom,2016/5/3,Male,59,Omnivore,29.6,,1
+PRJEB11419,ERR1843732,ERS1561368,Amplicon,26690,Illumina MiSeq,United Kingdom,2016/5/16,Male,46,Omnivore,23.66,,1
+PRJEB11419,ERR1843784,ERS1265509,Amplicon,25004,Illumina MiSeq,United States of America,2016/5/24,Female,70,Omnivore,21.3,,1
+PRJEB11419,ERR1843789,ERS1561398,Amplicon,23478,Illumina MiSeq,United States of America,2016/8/18,Male,60,Vegan,25.81,,1
+PRJEB11419,ERR1843814,ERS1561418,Amplicon,21768,Illumina MiSeq,United Kingdom,2016/7/31,Female,52,Omnivore,20.6,,1
+PRJEB11419,ERR1843815,ERS1562615,Amplicon,26407,Illumina MiSeq,United Kingdom,2016/8/22,Female,35,Omnivore,17.57,,1
+PRJEB11419,ERR1843821,ERS1561423,Amplicon,24617,Illumina MiSeq,United Kingdom,2016/8/13,Female,43,Omnivore,21.63,,1
+PRJEB11419,ERR1843842,ERS1562627,Amplicon,21053,Illumina MiSeq,United Kingdom,2016/8/5,Male,53,Omnivore,25.68,,1
+PRJEB11419,ERR1843850,ERS1561441,Amplicon,34483,Illumina MiSeq,United States of America,2016/9/15,Female,60,Omnivore,28.34,,1
+PRJEB11419,ERR1844523,ERS1561256,Amplicon,22050,Illumina MiSeq,United States of America,2016/5/16,Female,33,Omnivore,21.4,,1
+PRJEB11419,ERR1844528,ERS1561262,Amplicon,23303,Illumina MiSeq,United States of America,2015/5/18,Male,0,Omnivore,24.41,,1
+PRJEB11419,ERR1844546,ERS1265251,Amplicon,47776,Illumina MiSeq,United Kingdom,2016/4/26,Male,32,Omnivore,26.28,,1
+PRJEB11419,ERR1844576,ERS1265335,Amplicon,46748,Illumina MiSeq,United States of America,2015/12/18,Female,40,Omnivore,29.05,,1
+PRJEB11419,ERR1844604,ERS1265424,Amplicon,22566,Illumina MiSeq,United States of America,2016/5/9,Female,44,Omnivore,19.42,,1
+PRJEB11419,ERR1844643,ERS1265480,Amplicon,30263,Illumina MiSeq,United States of America,2016/6/14,Female,69,Omnivore,23.4,,1
+PRJEB11419,ERR1845883,ERS1564562,Amplicon,37706,Illumina MiSeq,United Kingdom,2015/12/11,Female,62,Omnivore,22.98,,1
+PRJEB11419,ERR1845899,ERS1564575,Amplicon,32759,Illumina MiSeq,United States of America,2015/9/4,Female,55,Vegetarian but eat seafood,23.49,,1
+PRJEB11419,ERR1846037,ERS1564705,Amplicon,37378,Illumina MiSeq,United States of America,2016/8/24,Female,64,Omnivore,22.67,,1
+PRJEB11419,ERR1846066,ERS1564733,Amplicon,35196,Illumina MiSeq,Norway,2016/9/5,Female,58,Omnivore,20.05,,1
+PRJEB11419,ERR1846127,ERS1564794,Amplicon,27484,Illumina MiSeq,United Kingdom,2016/9/30,Female,62,Omnivore,19.57,,1
+PRJEB11419,ERR1846172,ERS1564839,Amplicon,32664,Illumina MiSeq,United States of America,2016/11/8,Female,37,Omnivore,20.3,,1
+PRJEB11419,ERR1846219,ERS1564886,Amplicon,29874,Illumina MiSeq,United States of America,2016/11/7,Male,17,Omnivore,20.89,,1
+PRJEB11419,ERR1854703,ERS1566760,Amplicon,39758,Illumina MiSeq,United Kingdom,2016/12/2,Female,49,Omnivore,19.15,,1
+PRJEB11419,ERR1854737,ERS1566792,Amplicon,44253,Illumina MiSeq,United Kingdom,2016/11/10,Female,26,Omnivore,18.13,,1
+PRJEB11419,ERR1854759,ERS1566814,Amplicon,43228,Illumina MiSeq,United States of America,2016/11/20,Male,68,Omnivore,25.46,,1
+PRJEB11419,ERR1854764,ERS1566819,Amplicon,38147,Illumina MiSeq,United States of America,2016/11/21,Male,68,Omnivore,25.46,,1
+PRJEB11419,ERR1854766,ERS1566821,Amplicon,36888,Illumina MiSeq,United States of America,2016/11/24,Male,68,Omnivore,25.46,,1
+PRJEB11419,ERR1854771,ERS1566826,Amplicon,30655,Illumina MiSeq,United States of America,2016/11/16,Male,68,Omnivore,25.46,,1
+PRJEB11419,ERR1854820,ERS1566875,Amplicon,41216,Illumina MiSeq,United States of America,2016/12/24,Female,49,Omnivore,31.45,,1
+PRJEB11419,ERR2032197,ERS1821339,Amplicon,39614,Illumina MiSeq,United Kingdom,2017/2/15,Female,57,Omnivore,21.64,,1
+PRJEB11419,ERR2032408,ERS1821550,Amplicon,26951,Illumina MiSeq,United States of America,2017/2/27,Female,31,Omnivore,24.89,,1
+PRJEB11419,ERR2032523,ERS1134683,Amplicon,30077,Illumina MiSeq,Switzerland,2016/3/6,Female,43,Omnivore,21.45,,1
+PRJEB11419,ERR2032696,ERS1821829,Amplicon,35634,Illumina MiSeq,United States of America,2016/7/6,Female,60,Omnivore,21.61,,1
+PRJEB11419,ERR2032711,ERS1821844,Amplicon,24627,Illumina MiSeq,United States of America,2017/1/8,Female,35,Omnivore,30.45,,1
+PRJEB11419,ERR2032719,ERS1265517,Amplicon,27652,Illumina MiSeq,United States of America,2016/6/7,Male,46,Omnivore,34.7,,1
+PRJEB11419,ERR2032723,ERS1821855,Amplicon,41136,Illumina MiSeq,United States of America,2017/1/15,Female,0,Omnivore,35.24,,1
+PRJEB11419,ERR2032737,ERS1821869,Amplicon,31787,Illumina MiSeq,United Kingdom,2016/11/29,Male,72,Omnivore,29.21,,1
+PRJEB11419,ERR2032761,ERS1821893,Amplicon,30205,Illumina MiSeq,United Kingdom,2016/11/29,Female,66,Omnivore,161.13,,1
+PRJEB11419,ERR2032762,ERS1821894,Amplicon,33901,Illumina MiSeq,Unspecified,2016/11/28,Male,0,Unspecified,24.84,,1
+PRJEB11419,ERR2032771,ERS1821903,Amplicon,24673,Illumina MiSeq,United States of America,2016/12/16,Female,59,Omnivore but do not eat red meat,20.8,,1
+PRJEB11419,ERR2032773,ERS1821905,Amplicon,45157,Illumina MiSeq,United States of America,2017/1/25,Male,21,Omnivore,26.61,,1
+PRJEB11419,ERR2032779,ERS1821911,Amplicon,50410,Illumina MiSeq,United States of America,2017/1/9,Male,55,Omnivore,24.63,,1
+PRJEB11419,ERR2032788,ERS1821920,Amplicon,32335,Illumina MiSeq,United Kingdom,2016/11/14,Female,56,Omnivore,30.3,,1
+PRJEB11419,ERR2032793,ERS1821925,Amplicon,48413,Illumina MiSeq,United Kingdom,2016/11/30,Female,70,Omnivore,22.67,,1
+PRJEB11419,ERR2032796,ERS1821928,Amplicon,21995,Illumina MiSeq,United States of America,2017/1/16,Male,49,Omnivore,26.63,,1
+PRJEB11419,ERR2032850,ERS1821982,Amplicon,27614,Illumina MiSeq,United States of America,2017/1/14,Female,53,Omnivore,35.84,,1
+PRJEB11419,ERR2032869,ERS1822001,Amplicon,31515,Illumina MiSeq,United States of America,2017/1/10,Male,58,Omnivore,22.15,,1
+PRJEB11419,ERR2032871,ERS1822003,Amplicon,41759,Illumina MiSeq,United States of America,2017/1/22,Female,57,Omnivore,19.85,,1
+PRJEB11419,ERR2032898,ERS1822030,Amplicon,21844,Illumina MiSeq,United States of America,2016/12/6,Male,47,Omnivore,23.39,,1
+PRJEB11419,ERR2032909,ERS1822041,Amplicon,23520,Illumina MiSeq,United States of America,2016/12/21,Female,64,Vegetarian but eat seafood,0,,1
+PRJEB11419,ERR2032910,ERS1822042,Amplicon,40708,Illumina MiSeq,United States of America,2017/1/11,Female,34,Omnivore but do not eat red meat,23.17,,1
+PRJEB11419,ERR2032915,ERS1822047,Amplicon,41327,Illumina MiSeq,United States of America,2017/1/26,Female,57,Omnivore,37.2,,1
+PRJEB11419,ERR2032931,ERS1822063,Amplicon,48305,Illumina MiSeq,United States of America,2017/1/3,Female,62,Vegetarian but eat seafood,23.49,,1
+PRJEB11419,ERR2032933,ERS1822065,Amplicon,42557,Illumina MiSeq,United States of America,2017/1/6,Female,68,Omnivore,33.12,,1
+PRJEB11419,ERR2032944,ERS1822076,Amplicon,28034,Illumina MiSeq,United States of America,2017/1/25,Female,44,Omnivore but do not eat red meat,19.73,,1
+PRJEB11419,ERR2032946,ERS1822078,Amplicon,23154,Illumina MiSeq,United States of America,2017/1/25,Male,33,Omnivore,24.39,,1
+PRJEB11419,ERR2033214,ERS1822220,Amplicon,34808,Illumina MiSeq,United States of America,2017/4/3,Male,57,Omnivore,26.26,,1
+PRJEB11419,ERR2056836,ERS1561855,Amplicon,34100,Illumina MiSeq,United Kingdom,2016/7/7,Female,45,Omnivore,27.46,,1
+PRJEB11419,ERR2056862,ERS1846387,Amplicon,21858,Illumina MiSeq,United Kingdom,2017/2/13,Male,60,Omnivore,29,,1
+PRJEB11419,ERR2056870,ERS1846394,Amplicon,29385,Illumina MiSeq,United States of America,2017/2/21,Female,51,Omnivore,22.89,,1
+PRJEB11419,ERR2056879,ERS1846402,Amplicon,27648,Illumina MiSeq,United Kingdom,2017/2/20,Female,58,Omnivore but do not eat red meat,20.44,,1
+PRJEB11419,ERR2056908,ERS1846425,Amplicon,27427,Illumina MiSeq,United Kingdom,2017/1/30,Female,31,Omnivore,21.5,,1
+PRJEB11419,ERR2056930,ERS1846445,Amplicon,25986,Illumina MiSeq,United Kingdom,2017/2/28,Male,30,Omnivore,29.1,,1
+PRJEB11419,ERR2056937,ERS1564801,Amplicon,29162,Illumina MiSeq,United States of America,2016/10/24,Female,36,Omnivore,19.4,,1
+PRJEB11419,ERR2056941,ERS1846454,Amplicon,56175,Illumina MiSeq,United Kingdom,2017/3/29,Male,40,Omnivore,26.47,,1
+PRJEB11419,ERR2056950,ERS1846463,Amplicon,31334,Illumina MiSeq,United Kingdom,2017/2/5,Female,62,Omnivore but do not eat red meat,30.74,,1
+PRJEB11419,ERR2056961,ERS1846474,Amplicon,29640,Illumina MiSeq,United Kingdom,2017/3/14,Female,67,Vegetarian,28.74,,1
+PRJEB11419,ERR2056963,ERS1846476,Amplicon,55594,Illumina MiSeq,United Kingdom,2017/3/11,Female,37,Omnivore,20.42,,1
+PRJEB11419,ERR2056972,ERS1846485,Amplicon,29602,Illumina MiSeq,Germany,2017/2/5,Female,35,Omnivore,20.8,,1
+PRJEB11419,ERR2056999,ERS1846512,Amplicon,26487,Illumina MiSeq,United Kingdom,2017/3/7,Female,44,Vegetarian,5.3,,1
+PRJEB11419,ERR2057004,ERS1846517,Amplicon,27781,Illumina MiSeq,United Kingdom,2017/3/12,Female,45,Omnivore,21.47,,1
+PRJEB11419,ERR2057006,ERS1846519,Amplicon,21684,Illumina MiSeq,United Kingdom,2017/2/9,Female,55,Omnivore,19.78,,1
+PRJEB11419,ERR2057007,ERS1846520,Amplicon,34503,Illumina MiSeq,United Kingdom,2017/2/9,Female,55,Omnivore,19.78,,1
+PRJEB11419,ERR2057024,ERS1566809,Amplicon,32913,Illumina MiSeq,United States of America,2016/11/12,Male,68,Omnivore,25.46,,1
+PRJEB11419,ERR2057025,ERS1566818,Amplicon,35674,Illumina MiSeq,United States of America,2016/11/10,Male,68,Omnivore,25.46,,1
+PRJEB11419,ERR2057032,ERS1846541,Amplicon,36200,Illumina MiSeq,United States of America,2017/3/22,Male,27,Omnivore,26.45,,1
+PRJEB11419,ERR2057040,ERS1846548,Amplicon,24824,Illumina MiSeq,United States of America,2017/3/23,Female,65,Omnivore,23.91,,1
+PRJEB11419,ERR2057041,ERS1846549,Amplicon,22428,Illumina MiSeq,United States of America,2017/3/19,Male,30,Omnivore,23.72,,1
+PRJEB11419,ERR2057065,ERS1846573,Amplicon,38240,Illumina MiSeq,United Kingdom,2017/3/6,Female,30,Omnivore,23.31,,1
+PRJEB11419,ERR2057071,ERS1566875,Amplicon,25567,Illumina MiSeq,United States of America,2016/12/24,Female,49,Omnivore,31.45,,1
+PRJEB11419,ERR2057079,ERS1846586,Amplicon,36438,Illumina MiSeq,United States of America,2017/3/14,Female,42,Omnivore,20.18,,1
+PRJEB11419,ERR2057085,ERS1846592,Amplicon,25078,Illumina MiSeq,United States of America,2017/3/19,Female,57,Omnivore,26.61,,1
+PRJEB11419,ERR2057108,ERS1846615,Amplicon,28758,Illumina MiSeq,United States of America,2017/4/3,Female,47,Omnivore but do not eat red meat,21.46,,1
+PRJEB11419,ERR2057134,ERS1846641,Amplicon,27973,Illumina MiSeq,United States of America,2017/3/16,Male,40,Vegetarian but eat seafood,19.77,,1
+PRJEB11419,ERR2057138,ERS1846645,Amplicon,31851,Illumina MiSeq,Canada,2017/3/12,Female,64,Vegan,20.25,,1
+PRJEB11419,ERR2057144,ERS1846651,Amplicon,35931,Illumina MiSeq,United States of America,2017/4/2,Female,73,Omnivore,35.19,,1
+PRJEB11419,ERR2057165,ERS1846672,Amplicon,32967,Illumina MiSeq,United States of America,2017/3/24,Female,32,Omnivore,22.83,,1
+PRJEB11419,ERR2057176,ERS1846682,Amplicon,23519,Illumina MiSeq,United States of America,2017/3/30,Female,53,Omnivore,21.29,,1
+PRJEB11419,ERR2057184,ERS1846690,Amplicon,25458,Illumina MiSeq,United States of America,2017/3/28,Female,36,Vegetarian,25.02,,1
+PRJEB11419,ERR2057190,ERS1846696,Amplicon,35962,Illumina MiSeq,United States of America,2017/3/25,Female,33,Omnivore,20.64,,1
+PRJEB11419,ERR2057199,ERS1846705,Amplicon,48271,Illumina MiSeq,United States of America,2017/3/4,Male,59,Omnivore,29.29,,1
+PRJEB11419,ERR2057207,ERS1846713,Amplicon,29190,Illumina MiSeq,United States of America,2017/3/17,Female,32,Omnivore,22.15,,1
+PRJEB11419,ERR2057209,ERS1846715,Amplicon,25528,Illumina MiSeq,United States of America,2017/3/23,Female,23,Omnivore,23.3,,1
+PRJEB11419,ERR2057222,ERS1846728,Amplicon,27538,Illumina MiSeq,United States of America,2017/3/23,Male,31,Omnivore,25.07,,1
+PRJEB11419,ERR2091835,ERS1865178,Amplicon,44070,Illumina MiSeq,Belgium,2017/2/20,Female,42,Omnivore,24.31,,1
+PRJEB11419,ERR2091850,ERS1865191,Amplicon,36899,Illumina MiSeq,United Kingdom,2017/2/13,Female,15,Omnivore,20.62,,1
+PRJEB11419,ERR2091862,ERS1134821,Amplicon,34848,Illumina MiSeq,United Kingdom,2016/2/16,Female,37,Omnivore,18.7,,1
+PRJEB11419,ERR2091895,ERS1865234,Amplicon,28998,Illumina MiSeq,United States of America,2017/2/1,Female,38,Omnivore,19.97,,1
+PRJEB11419,ERR2091931,ERS1865266,Amplicon,27693,Illumina MiSeq,United Kingdom,2017/1/7,Male,72,Omnivore,26.97,,1
+PRJEB11419,ERR2091960,ERS1865294,Amplicon,28351,Illumina MiSeq,Ireland,2017/1/12,Female,52,Vegetarian but eat seafood,27.16,,1
+PRJEB11419,ERR2091963,ERS1865297,Amplicon,38192,Illumina MiSeq,United Kingdom,2017/1/25,Male,0,Omnivore,25.54,,1
+PRJEB11419,ERR2091971,ERS1865305,Amplicon,35220,Illumina MiSeq,France,2017/1/3,Female,52,Omnivore,18.67,,1
+PRJEB11419,ERR2091984,ERS1865318,Amplicon,30204,Illumina MiSeq,United States of America,2017/1/16,Female,56,Omnivore,25.39,,1
+PRJEB11419,ERR2091985,ERS1865319,Amplicon,37207,Illumina MiSeq,United States of America,2017/1/17,Female,56,Omnivore,25.39,,1
+PRJEB11419,ERR2091986,ERS1865320,Amplicon,25374,Illumina MiSeq,United States of America,2017/1/18,Female,56,Omnivore,25.39,,1
+PRJEB11419,ERR2091995,ERS1865329,Amplicon,26426,Illumina MiSeq,United Kingdom,2017/2/22,Female,59,Omnivore,24.98,,1
+PRJEB11419,ERR2092001,ERS1865335,Amplicon,37705,Illumina MiSeq,United Kingdom,2017/1/19,Female,0,Omnivore,24.34,,1
+PRJEB11419,ERR2092007,ERS1865341,Amplicon,29038,Illumina MiSeq,United States of America,2017/2/17,Female,29,Vegetarian,25.09,,1
+PRJEB11419,ERR2092008,ERS1865342,Amplicon,32585,Illumina MiSeq,United States of America,2017/2/20,Male,58,Omnivore but do not eat red meat,22.43,,1
+PRJEB11419,ERR2092012,ERS1865346,Amplicon,37173,Illumina MiSeq,United States of America,2017/1/30,Female,74,Omnivore,22.11,,1
+PRJEB11419,ERR2092024,ERS1865358,Amplicon,24005,Illumina MiSeq,United States of America,2017/3/3,Female,52,Omnivore,22.46,,1
+PRJEB11419,ERR2092056,ERS1865390,Amplicon,32567,Illumina MiSeq,United States of America,2017/2/24,Female,51,Vegetarian but eat seafood,25.1,,1
+PRJEB11419,ERR2092068,ERS1865402,Amplicon,28695,Illumina MiSeq,United States of America,2017/2/10,Male,67,Omnivore,24.28,,1
+PRJEB11419,ERR2092073,ERS1865407,Amplicon,25959,Illumina MiSeq,United States of America,2017/2/2,Female,51,Omnivore,26.63,,1
+PRJEB11419,ERR2092093,ERS1865427,Amplicon,25867,Illumina MiSeq,United States of America,2017/2/7,Male,38,Omnivore,23.01,,1
+PRJEB11419,ERR2092099,ERS1865433,Amplicon,26285,Illumina MiSeq,United States of America,2017/2/7,Female,67,Omnivore,20.18,,1
+PRJEB11419,ERR2092100,ERS1865434,Amplicon,37260,Illumina MiSeq,United States of America,2017/2/5,Female,59,Omnivore,39.78,,1
+PRJEB11419,ERR2092109,ERS1865443,Amplicon,32390,Illumina MiSeq,United States of America,2017/2/16,Female,44,Vegetarian but eat seafood,20.94,,1
+PRJEB11419,ERR2092196,ERS1865579,Amplicon,22708,Illumina MiSeq,United States of America,2017/1/17,Male,31,Omnivore,19.8,,1
+PRJEB11419,ERR2092197,ERS1865580,Amplicon,30872,Illumina MiSeq,United States of America,2017/1/24,Male,31,Omnivore,19.8,,1
+PRJEB11419,ERR2092288,ERS1865671,Amplicon,22607,Illumina MiSeq,United States of America,2017/1/26,Male,29,Omnivore,20.09,,1
+PRJEB11419,ERR2092289,ERS1865672,Amplicon,37492,Illumina MiSeq,United States of America,2017/2/20,Male,29,Omnivore,20.09,,1
+PRJEB11419,ERR2092290,ERS1865673,Amplicon,21891,Illumina MiSeq,United States of America,2017/2/10,Male,29,Omnivore,20.09,,1
+PRJEB11419,ERR2092291,ERS1865674,Amplicon,25112,Illumina MiSeq,United States of America,2017/2/3,Male,29,Omnivore,20.09,,1
+PRJEB11419,ERR2092297,ERS1865680,Amplicon,25732,Illumina MiSeq,United States of America,2017/2/24,Female,45,Omnivore,28.79,,1
+PRJEB11419,ERR2092298,ERS1865681,Amplicon,27812,Illumina MiSeq,United States of America,2017/2/9,Female,45,Omnivore,28.79,,1
+PRJEB11419,ERR2092381,ERS1865764,Amplicon,30727,Illumina MiSeq,United States of America,2017/2/13,Female,31,Omnivore,24.89,,1
+PRJEB11419,ERR2092408,ERS1865791,Amplicon,29166,Illumina MiSeq,United States of America,2017/2/8,Female,24,Omnivore,29.76,,1
+PRJEB11419,ERR2092409,ERS1865792,Amplicon,25141,Illumina MiSeq,United States of America,2017/2/16,Female,24,Omnivore,29.76,,1
+PRJEB11419,ERR2238636,ERS1846387,Metagenomics,886211,Illumina HiSeq 2500,United Kingdom,2017/2/13,Male,60,Omnivore,29,,1
+PRJEB11419,ERR2238663,ERS1846445,Metagenomics,1034583,Illumina HiSeq 2500,United Kingdom,2017/2/28,Male,30,Omnivore,29.1,,1
+PRJEB11419,ERR2238666,ERS1846463,Metagenomics,1604215,Illumina HiSeq 2500,United Kingdom,2017/2/5,Female,62,Omnivore but do not eat red meat,30.74,,1
+PRJEB11419,ERR2238694,ERS1846549,Metagenomics,1400950,Illumina HiSeq 2500,United States of America,2017/3/19,Male,30,Omnivore,23.72,,1
+PRJEB11419,ERR2238713,ERS1846592,Metagenomics,1219874,Illumina HiSeq 2500,United States of America,2017/3/19,Female,57,Omnivore,26.61,,1
+PRJEB11419,ERR2238740,ERS1846641,Metagenomics,1111681,Illumina HiSeq 2500,United States of America,2017/3/16,Male,40,Vegetarian but eat seafood,19.77,,1
+PRJEB11419,ERR2238742,ERS1846645,Metagenomics,1100680,Illumina HiSeq 2500,Canada,2017/3/12,Female,64,Vegan,20.25,,1
+PRJEB11419,ERR2238749,ERS1846713,Metagenomics,1357134,Illumina HiSeq 2500,United States of America,2017/3/17,Female,32,Omnivore,22.15,,1
+PRJEB11419,ERR2239105,ERS915806,Metagenomics,1254897,Illumina HiSeq 2500,United States of America,2013/6/30,Female,59,Omnivore,20.07,,1
+PRJEB11419,ERR2239190,ERS1053953,Metagenomics,23796,Illumina HiSeq 2500,United States of America,2014/11/23,Female,64,Omnivore,23.44,,1
+PRJEB11419,ERR2239196,ERS939990,Metagenomics,1229899,Illumina HiSeq 2500,United States of America,2015/5/7,Female,35,Omnivore,18.29,,1
+PRJEB11419,ERR2239207,ERS940075,Metagenomics,1092855,Illumina HiSeq 2500,United Kingdom,2015/2/28,,38,Omnivore,28.7,,1
+PRJEB11419,ERR2239232,ERS940583,Metagenomics,959777,Illumina HiSeq 2500,United States of America,2015/5/1,Female,53,Omnivore,21.14,,1
+PRJEB11419,ERR2239233,ERS1088085,Metagenomics,1127413,Illumina HiSeq 2500,United States of America,2015/3/26,Female,55,NA,25.61,,1
+PRJEB11419,ERR2239243,ERS940662,Metagenomics,715322,Illumina HiSeq 2500,United States of America,2015/5/7,Female,61,Vegetarian,23.4,,1
+PRJEB11419,ERR2239250,ERS940723,Metagenomics,841804,Illumina HiSeq 2500,United Kingdom,2015/6/24,Female,68,Omnivore,22.96,,1
+PRJEB11419,ERR2239253,ERS940753,Metagenomics,1076907,Illumina HiSeq 2500,United Kingdom,2015/6/15,Female,62,Omnivore,22.39,,1
+PRJEB11419,ERR2239261,ERS941158,Metagenomics,1450075,Illumina HiSeq 2500,United Kingdom,2015/6/29,Female,63,Omnivore,23.6,,1
+PRJEB11419,ERR2239268,ERS941192,Metagenomics,1685166,Illumina HiSeq 2500,United Kingdom,2015/7/13,Female,32,Omnivore,23.63,,1
+PRJEB11419,ERR2239272,ERS941198,Metagenomics,1304420,Illumina HiSeq 2500,United Kingdom,2015/8/3,Female,59,Omnivore,21.63,,1
+PRJEB11419,ERR2239274,ERS941208,Metagenomics,2249659,Illumina HiSeq 2500,United Kingdom,2015/9/3,Female,68,Omnivore,20.11,,1
+PRJEB11419,ERR2239281,ERS940910,Metagenomics,620056,Illumina HiSeq 2500,United Kingdom,2015/7/8,Female,68,Omnivore,19.37,,1
+PRJEB11419,ERR2239299,ERS941487,Metagenomics,1505254,Illumina HiSeq 2500,United States of America,2015/8/13,Female,58,Omnivore but do not eat red meat,21.58,,1
+PRJEB11419,ERR2239305,ERS1052671,Metagenomics,2712073,Illumina HiSeq 2500,United States of America,2015/10/30,Female,46,Omnivore,21.47,,1
+PRJEB11419,ERR2239310,ERS1054072,Metagenomics,2437366,Illumina HiSeq 2500,United States of America,2015/11/22,Female,55,Omnivore,25.13,,1
+PRJEB11419,ERR2239321,ERS1134957,Metagenomics,1832097,Illumina HiSeq 2500,United States of America,2016/4/24,Female,21,Omnivore,19.4,,1
+PRJEB11419,ERR2239322,ERS1134958,Metagenomics,1803669,Illumina HiSeq 2500,United States of America,2016/4/24,Female,21,Omnivore,19.4,,1
+PRJEB11419,ERR2239328,ERS1846387,Metagenomics,595479,Illumina HiSeq 2500,United Kingdom,2017/2/13,Male,60,Omnivore,29,,1
+PRJEB11419,ERR2239332,ERS1846402,Metagenomics,1293438,Illumina HiSeq 2500,United Kingdom,2017/2/20,Female,58,Omnivore but do not eat red meat,20.44,,1
+PRJEB11419,ERR2239335,ERS1846407,Metagenomics,45432,Illumina HiSeq 2500,United Kingdom,2017/2/2,Female,61,Omnivore,26.29,,1
+PRJEB11419,ERR2239344,ERS1846425,Metagenomics,1254630,Illumina HiSeq 2500,United Kingdom,2017/1/30,Female,31,Omnivore,21.5,,1
+PRJEB11419,ERR2239356,ERS1846445,Metagenomics,1557957,Illumina HiSeq 2500,United Kingdom,2017/2/28,Male,30,Omnivore,29.1,,1
+PRJEB11419,ERR2239361,ERS1846463,Metagenomics,1069438,Illumina HiSeq 2500,United Kingdom,2017/2/5,Female,62,Omnivore but do not eat red meat,30.74,,1
+PRJEB11419,ERR2239372,ERS1846485,Metagenomics,1009348,Illumina HiSeq 2500,Germany,2017/2/5,Female,35,Omnivore,20.8,,1
+PRJEB11419,ERR2239380,ERS1846519,Metagenomics,962498,Illumina HiSeq 2500,United Kingdom,2017/2/9,Female,55,Omnivore,19.78,,1
+PRJEB11419,ERR2239381,ERS1846520,Metagenomics,679445,Illumina HiSeq 2500,United Kingdom,2017/2/9,Female,55,Omnivore,19.78,,1
+PRJEB11419,ERR2239571,ERS919484,Metagenomics,1012724,Illumina HiSeq 2500,United States of America,2014/4/30,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR2239572,ERS919485,Metagenomics,962238,Illumina HiSeq 2500,United States of America,2014/4/30,Female,27,Omnivore,22.41,,1
+PRJEB11419,ERR2239576,ERS1134601,Metagenomics,1193730,Illumina HiSeq 2500,United States of America,2016/3/1,Female,46,Omnivore,32.12,,1
+PRJEB11419,ERR2239580,ERS1207640,Metagenomics,848757,Illumina HiSeq 2500,United States of America,2016/4/18,Female,50,Omnivore,21.79,,1
+PRJEB11419,ERR2239591,ERS1134637,Metagenomics,400157,Illumina HiSeq 2500,United Kingdom,2016/2/29,Male,52,Omnivore,24.22,,1
+PRJEB11419,ERR2239592,ERS1207655,Metagenomics,800976,Illumina HiSeq 2500,United Kingdom,2016/4/16,Female,40,Omnivore,26.05,,1
+PRJEB11419,ERR2239597,ERS1134649,Metagenomics,1759663,Illumina HiSeq 2500,United States of America,2016/1/11,Female,44,Omnivore,21.63,,1
+PRJEB11419,ERR2239603,ERS1164387,Metagenomics,1157436,Illumina HiSeq 2500,United Kingdom,2016/1/18,Female,32,Omnivore,26.03,,1
+PRJEB11419,ERR2239641,ERS1088263,Metagenomics,894436,Illumina HiSeq 2500,United States of America,2016/1/11,Male,39,Omnivore,23.01,,1
+PRJEB11419,ERR2239655,ERS1164484,Metagenomics,1082658,Illumina HiSeq 2500,United Kingdom,2016/1/28,Male,65,Vegetarian but eat seafood,22.59,,1
+PRJEB11419,ERR2239662,ERS1134733,Metagenomics,889984,Illumina HiSeq 2500,United Kingdom,2016/2/23,Female,42,Omnivore,28.6,,1
+PRJEB11419,ERR2239668,ERS1164500,Metagenomics,1391682,Illumina HiSeq 2500,United Kingdom,2016/2/3,Female,55,Omnivore,30.42,,1
+PRJEB11419,ERR2239679,ERS1134754,Metagenomics,616263,Illumina HiSeq 2500,United Kingdom,2016/2/26,Female,53,Omnivore,23.69,,1
+PRJEB11419,ERR2239683,ERS1134761,Metagenomics,1130284,Illumina HiSeq 2500,United Kingdom,2016/2/11,Male,43,Omnivore,22.19,,1
+PRJEB11419,ERR2239687,ERS1134764,Metagenomics,1148101,Illumina HiSeq 2500,United Kingdom,2016/3/3,Female,42,Omnivore,25.9,,1
+PRJEB11419,ERR2239691,ERS1134767,Metagenomics,628176,Illumina HiSeq 2500,United Kingdom,2016/2/8,Female,30,Omnivore,22.15,,1
+PRJEB11419,ERR2239705,ERS1164540,Metagenomics,777306,Illumina HiSeq 2500,United Kingdom,2016/2/9,Female,52,Omnivore,25.08,,1
+PRJEB11419,ERR2239706,ERS1134794,Metagenomics,736379,Illumina HiSeq 2500,United Kingdom,2016/3/2,Female,45,Omnivore,25.21,,1
+PRJEB11419,ERR2239709,ERS1134812,Metagenomics,2469368,Illumina HiSeq 2500,United Kingdom,2016/2/14,Female,47,Omnivore,28.31,,1
+PRJEB11419,ERR2239710,ERS1134813,Metagenomics,829243,Illumina HiSeq 2500,United Kingdom,2016/2/15,Female,47,Omnivore,28.31,,1
+PRJEB11419,ERR2239724,ERS1164569,Metagenomics,1191983,Illumina HiSeq 2500,United States of America,2016/2/15,Male,44,Omnivore,29.99,,1
+PRJEB11419,ERR2239730,ERS1134849,Metagenomics,1667404,Illumina HiSeq 2500,United States of America,2016/2/28,Male,41,Vegetarian,27.25,,1
+PRJEB11419,ERR2239737,ERS1134860,Metagenomics,648729,Illumina HiSeq 2500,United States of America,2016/2/1,Female,55,Omnivore,20.98,,1
+PRJEB11419,ERR2239746,ERS1134869,Metagenomics,1143751,Illumina HiSeq 2500,United States of America,2016/2/26,Female,50,Omnivore,26.63,,1
+PRJEB11419,ERR2239747,ERS1207839,Metagenomics,73884,Illumina HiSeq 2500,United Kingdom,2016/3/14,Female,55,Omnivore,26.43,,1
+PRJEB11419,ERR2239750,ERS1207853,Metagenomics,823615,Illumina HiSeq 2500,United Kingdom,2016/4/19,Female,66,Omnivore,24.2,,1
+PRJEB11419,ERR2239756,ERS1207869,Metagenomics,812540,Illumina HiSeq 2500,United Kingdom,2016/4/1,Female,45,Vegetarian but eat seafood,0,,1
+PRJEB11419,ERR2239775,ERS1207924,Metagenomics,981758,Illumina HiSeq 2500,United States of America,2016/3/16,Female,37,Omnivore,21.28,,1
+PRJEB11419,ERR2239789,ERS1134943,Metagenomics,1365550,Illumina HiSeq 2500,United States of America,2016/3/10,Female,36,Omnivore,21,,1
+PRJEB11419,ERR2239792,ERS1207983,Metagenomics,735096,Illumina HiSeq 2500,United States of America,2016/3/30,Female,68,Omnivore,30.34,,1
+PRJEB11419,ERR2239805,ERS1208039,Metagenomics,71655,Illumina HiSeq 2500,United States of America,2016/4/18,Male,34,Omnivore,25.77,,1
+PRJEB11419,ERR2241994,ERS915806,Metagenomics,1289112,Illumina HiSeq 2500,United States of America,2013/6/30,Female,59,Omnivore,20.07,,1
+PRJEB11419,ERR2242046,ERS1846387,Metagenomics,1154384,Illumina HiSeq 2500,United Kingdom,2017/2/13,Male,60,Omnivore,29,,1
+PRJEB11419,ERR2242048,ERS1846394,Metagenomics,1426903,Illumina HiSeq 2500,United States of America,2017/2/21,Female,51,Omnivore,22.89,,1
+PRJEB11419,ERR2242055,ERS1846407,Metagenomics,1060800,Illumina HiSeq 2500,United Kingdom,2017/2/2,Female,61,Omnivore,26.29,,1
+PRJEB11419,ERR2242063,ERS1846425,Metagenomics,495904,Illumina HiSeq 2500,United Kingdom,2017/1/30,Female,31,Omnivore,21.5,,1
+PRJEB11419,ERR2242076,ERS1846445,Metagenomics,1120546,Illumina HiSeq 2500,United Kingdom,2017/2/28,Male,30,Omnivore,29.1,,1
+PRJEB11419,ERR2242080,ERS1846463,Metagenomics,1263927,Illumina HiSeq 2500,United Kingdom,2017/2/5,Female,62,Omnivore but do not eat red meat,30.74,,1
+PRJEB11419,ERR2242109,ERS1846549,Metagenomics,1246540,Illumina HiSeq 2500,United States of America,2017/3/19,Male,30,Omnivore,23.72,,1
+PRJEB11419,ERR2242130,ERS1846592,Metagenomics,350026,Illumina HiSeq 2500,United States of America,2017/3/19,Female,57,Omnivore,26.61,,1
+PRJEB11419,ERR2242150,ERS1846641,Metagenomics,1391422,Illumina HiSeq 2500,United States of America,2017/3/16,Male,40,Vegetarian but eat seafood,19.77,,1
+PRJEB11419,ERR2242474,ERS1846394,Metagenomics,2892025,Illumina HiSeq 2500,United States of America,2017/2/21,Female,51,Omnivore,22.89,,1
+PRJEB11419,ERR2242487,ERS1846549,Metagenomics,3317860,Illumina HiSeq 2500,United States of America,2017/3/19,Male,30,Omnivore,23.72,,1
+PRJEB11419,ERR2242498,ERS1846586,Metagenomics,2702890,Illumina HiSeq 2500,United States of America,2017/3/14,Female,42,Omnivore,20.18,,1
+PRJEB11419,ERR2242499,ERS1846592,Metagenomics,2708948,Illumina HiSeq 2500,United States of America,2017/3/19,Female,57,Omnivore,26.61,,1
+PRJEB11419,ERR2242529,ERS1846641,Metagenomics,2143770,Illumina HiSeq 2500,United States of America,2017/3/16,Male,40,Vegetarian but eat seafood,19.77,,1
+PRJEB11419,ERR2242531,ERS1846645,Metagenomics,1440528,Illumina HiSeq 2500,Canada,2017/3/12,Female,64,Vegan,20.25,,1
+PRJEB11419,ERR2242539,ERS1846713,Metagenomics,1365395,Illumina HiSeq 2500,United States of America,2017/3/17,Female,32,Omnivore,22.15,,1
+PRJEB11419,ERR2242548,ERS1846728,Metagenomics,1647688,Illumina HiSeq 2500,United States of America,2017/3/23,Male,31,Omnivore,25.07,,1
+PRJEB11419,ERR2308546,ERS1865266,Amplicon,34279,Illumina MiSeq,United Kingdom,2017/1/7,Male,72,Omnivore,26.97,,1
+PRJEB11419,ERR2313970,ERS1265334,Amplicon,41966,Illumina MiSeq,United States of America,2016/6/9,Female,31,Omnivore,23.17,,1
+PRJEB11419,ERR2314005,ERS1265423,Amplicon,34966,Illumina MiSeq,United States of America,2016/6/10,Female,31,Omnivore but do not eat red meat,18.48,,1
+PRJEB11419,ERR2314071,ERS1564802,Amplicon,31312,Illumina MiSeq,United States of America,2016/10/24,Female,36,Omnivore,19.4,,1
+PRJEB11419,ERR2319315,ERS1566755,Amplicon,25556,Illumina MiSeq,United States of America,2016/11/29,Female,68,Unspecified,22.71,,1
+PRJEB11419,ERR2319373,ERS1821895,Amplicon,57910,Illumina MiSeq,Unspecified,2016/11/28,Male,0,Unspecified,24.84,,1
+PRJEB11419,ERR2579676,ERS1566759,Amplicon,24668,Illumina MiSeq,United States of America,2016/12/17,Female,48,Omnivore,31.89,,1
+PRJEB11419,ERR2579776,ERS1566874,Amplicon,36298,Illumina MiSeq,United States of America,2016/12/23,Male,48,Vegetarian but eat seafood,26.59,,1
+PRJEB11419,ERR2587841,ERS1208061,Amplicon,32491,Illumina MiSeq,United States of America,2016/4/28,Female,38,Omnivore,34.26,,1

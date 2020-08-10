@@ -1,0 +1,389 @@
+﻿projectID,runID,sampleID,experimenttype,readsseqeunced,instrumentmodel,country,collectiondate,gender,hostageinyears,diet,BMI,recentantibioticsuse,QCstatus
+PRJEB1786,ERR260139,ERS235503,Metagenomics,10082557,Illumina HiSeq 2000,Sweden,,Female,70.25,,,,1
+PRJEB1786,ERR260140,ERS235504,Metagenomics,9583450,Illumina HiSeq 2000,Sweden,,Female,70.15,,,,1
+PRJEB1786,ERR260144,ERS235508,Metagenomics,12296547,Illumina HiSeq 2000,Sweden,,Female,69.58,,,,1
+PRJEB1786,ERR260149,ERS235513,Metagenomics,15256432,Illumina HiSeq 2000,Sweden,,Female,70.14,,,,1
+PRJEB1786,ERR260151,ERS235515,Metagenomics,13021937,Illumina HiSeq 2000,Sweden,,Female,71.57,,,,1
+PRJEB1786,ERR260152,ERS235516,Metagenomics,8978017,Illumina HiSeq 2000,Sweden,,Female,71.24,,,,1
+PRJEB1786,ERR260155,ERS235519,Metagenomics,12747678,Illumina HiSeq 2000,Sweden,,Female,69.08,,,,1
+PRJEB1786,ERR260159,ERS235523,Metagenomics,10829700,Illumina HiSeq 2000,Sweden,,Female,70.55,,,,1
+PRJEB1786,ERR260161,ERS235525,Metagenomics,21446178,Illumina HiSeq 2000,Sweden,,Female,70.39,,,,1
+PRJEB1786,ERR260162,ERS235526,Metagenomics,30725670,Illumina HiSeq 2000,Sweden,,Female,71.01,,,,1
+PRJEB1786,ERR260165,ERS235529,Metagenomics,23098980,Illumina HiSeq 2000,Sweden,,Female,69.74,,,,1
+PRJEB1786,ERR260166,ERS235530,Metagenomics,21761858,Illumina HiSeq 2000,Sweden,,Female,71.25,,,,1
+PRJEB1786,ERR260167,ERS235531,Metagenomics,21530642,Illumina HiSeq 2000,Sweden,,Female,70.97,,,,1
+PRJEB1786,ERR260169,ERS235533,Metagenomics,9508688,Illumina HiSeq 2000,Sweden,,Female,68.96,,,,1
+PRJEB1786,ERR260173,ERS235537,Metagenomics,29783259,Illumina HiSeq 2000,Sweden,,Female,70.11,,,,1
+PRJEB1786,ERR260174,ERS235538,Metagenomics,22560827,Illumina HiSeq 2000,Sweden,,Female,70.78,,,,1
+PRJEB1786,ERR260176,ERS235540,Metagenomics,18528492,Illumina HiSeq 2000,Hungary,,Female,70.72,,,,1
+PRJEB1786,ERR260178,ERS235542,Metagenomics,25613808,Illumina HiSeq 2000,Sweden,,Female,71.12,,,,1
+PRJEB1786,ERR260179,ERS235543,Metagenomics,20891133,Illumina HiSeq 2000,Sweden,,Female,70.16,,,,1
+PRJEB1786,ERR260181,ERS235545,Metagenomics,24822835,Illumina HiSeq 2000,Sweden,,Female,71.36,,,,1
+PRJEB1786,ERR260182,ERS235546,Metagenomics,21872053,Illumina HiSeq 2000,Sweden,,Female,71.36,,,,1
+PRJEB1786,ERR260185,ERS235549,Metagenomics,21123659,Illumina HiSeq 2000,Estonia,,Female,69.47,,,,1
+PRJEB1786,ERR260186,ERS235550,Metagenomics,19912787,Illumina HiSeq 2000,Sweden,,Female,70.22,,,,1
+PRJEB1786,ERR260188,ERS235552,Metagenomics,20707622,Illumina HiSeq 2000,Sweden,,Female,71.16,,,,1
+PRJEB1786,ERR260189,ERS235553,Metagenomics,18230908,Illumina HiSeq 2000,Sweden,,Female,70.9,,,,1
+PRJEB1786,ERR260190,ERS235554,Metagenomics,20508040,Illumina HiSeq 2000,Sweden,,Female,71.39,,,,1
+PRJEB1786,ERR260191,ERS235555,Metagenomics,24499043,Illumina HiSeq 2000,Sweden,,Female,69.98,,,,1
+PRJEB1786,ERR260192,ERS235556,Metagenomics,19111467,Illumina HiSeq 2000,Sweden,,Female,70.08,,,,1
+PRJEB1786,ERR260194,ERS235558,Metagenomics,21249499,Illumina HiSeq 2000,Sweden,,Female,70.78,,,,1
+PRJEB1786,ERR260196,ERS235560,Metagenomics,21058400,Illumina HiSeq 2000,Sweden,,Female,71.47,,,,1
+PRJEB1786,ERR260198,ERS235562,Metagenomics,23567440,Illumina HiSeq 2000,Sweden,,Female,71.16,,,,1
+PRJEB1786,ERR260199,ERS235563,Metagenomics,15013773,Illumina HiSeq 2000,Sweden,,Female,70.52,,,,1
+PRJEB1786,ERR260201,ERS235565,Metagenomics,21396140,Illumina HiSeq 2000,Sweden,,Female,71.29,,,,1
+PRJEB1786,ERR260202,ERS235566,Metagenomics,17149775,Illumina HiSeq 2000,Finland,,Female,69.97,,,,1
+PRJEB1786,ERR260203,ERS235567,Metagenomics,14155779,Illumina HiSeq 2000,Sweden,,Female,70.86,,,,1
+PRJEB1786,ERR260206,ERS235570,Metagenomics,13696641,Illumina HiSeq 2000,Sweden,,Female,70.71,,,,1
+PRJEB1786,ERR260207,ERS235571,Metagenomics,15696073,Illumina HiSeq 2000,Germany,,Female,71.49,,,,1
+PRJEB1786,ERR260208,ERS235572,Metagenomics,18976106,Illumina HiSeq 2000,Sweden,,Female,71.71,,,,1
+PRJEB1786,ERR260210,ERS235574,Metagenomics,17399677,Illumina HiSeq 2000,Sweden,,Female,71.24,,,,1
+PRJEB1786,ERR260213,ERS235577,Metagenomics,32764655,Illumina HiSeq 2000,Sweden,,Female,71.65,,,,1
+PRJEB1786,ERR260214,ERS235578,Metagenomics,19422986,Illumina HiSeq 2000,Yugoslavia,,Female,71.63,,,,1
+PRJEB1786,ERR260229,ERS235593,Metagenomics,14361230,Illumina HiSeq 2000,Sweden,,Female,70.02,,,,1
+PRJEB1786,ERR260235,ERS235599,Metagenomics,7533581,Illumina HiSeq 2000,Germany,,Female,69.32,,,,1
+PRJEB1786,ERR260238,ERS235602,Metagenomics,14040098,Illumina HiSeq 2000,Sweden,,Female,69.49,,,,1
+PRJEB1786,ERR260239,ERS235603,Metagenomics,12757950,Illumina HiSeq 2000,Sweden,,Female,69.98,,,,1
+PRJEB1786,ERR260240,ERS235604,Metagenomics,13235163,Illumina HiSeq 2000,Sweden,,Female,69.18,,,,1
+PRJEB1786,ERR260241,ERS235605,Metagenomics,11581627,Illumina HiSeq 2000,Sweden,,Female,69.91,,,,1
+PRJEB1786,ERR260261,ERS235625,Metagenomics,20067854,Illumina HiSeq 2000,Sweden,,Female,68.98,,,,1
+PRJEB1786,ERR260270,ERS235634,Metagenomics,5528587,Illumina HiSeq 2000,Denmark,,Female,69.54,,,,1
+PRJEB1786,ERR260271,ERS235635,Metagenomics,3967737,Illumina HiSeq 2000,Sweden,,Female,69.32,,,,1
+PRJEB1786,ERR260273,ERS235637,Metagenomics,4275127,Illumina HiSeq 2000,Sweden,,Female,70.85,,,,1
+PRJEB1786,ERR260274,ERS235638,Metagenomics,5968014,Illumina HiSeq 2000,Denmark,,Female,70.52,,,,1
+PRJEB1786,ERR260276,ERS235640,Metagenomics,5187745,Illumina HiSeq 2000,Sweden,,Female,70.03,,,,1
+PRJEB1786,ERR275252,ERS235577,Metagenomics,17840003,Illumina HiSeq 2000,Sweden,,Female,71.65,,,,1
+PRJNA422434,SRR1778450,SRS333664,metagenomics,23038170,Illumina Genome Analyzer II,China,,Male,37,,,N,1
+PRJNA422434,SRR1778451,SRS333665,metagenomics,29266886,Illumina Genome Analyzer II,China,,Male,78,,20.58,N,1
+PRJNA422434,SRR1778452,SRS333666,metagenomics,32758437,Illumina Genome Analyzer II,China,,Female,65,,20.78,N,1
+PRJNA422434,SRR1778453,SRS333667,metagenomics,28064538,Illumina Genome Analyzer II,China,,Female,65,,25.3,N,1
+PRJNA422434,SRR1778454,SRS333668,metagenomics,39958225,Illumina Genome Analyzer II,China,,Male,63,,22.84,N,1
+PRJNA422434,SRR1778455,SRS333669,metagenomics,49892410,Illumina Genome Analyzer II,China,,Male,65,,21.01,N,1
+PRJNA422434,SRR1778456,SRS333670,metagenomics,38847110,Illumina Genome Analyzer II,China,,Male,50,,21.72,N,1
+PRJNA299502,SRR2912776,SRS1158739,Metagenomics,22977674,Illumina HiSeq 2000,United States of America,,,55,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",40.8,N,1
+PRJNA299502,SRR2912777,SRS1158738,Metagenomics,26787629,Illumina HiSeq 2000,United States of America,,,34,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",28.2,N,1
+PRJNA299502,SRR2912778,SRS1158737,Metagenomics,13196473,Illumina HiSeq 2000,United States of America,,,45,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",39.1,N,1
+PRJNA299502,SRR2912779,SRS1158736,Metagenomics,27301012,Illumina HiSeq 2000,United States of America,,,39,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",40.3,N,1
+PRJNA299502,SRR2912783,SRS1158732,Metagenomics,23639072,Illumina HiSeq 2000,United States of America,,,65,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",40.7,N,1
+PRJNA299502,SRR2912784,SRS1158731,Metagenomics,23171029,Illumina HiSeq 2000,United States of America,,,41,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",26.2,N,1
+PRJNA299502,SRR2912785,SRS1158730,Metagenomics,17747631,Illumina HiSeq 2000,United States of America,,,65,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",24.7,N,1
+PRJNA299502,SRR2912788,SRS1158750,Metagenomics,23870579,Illumina HiSeq 2000,United States of America,,,65,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",30,N,1
+PRJNA299502,SRR2912789,SRS1158749,Metagenomics,27034273,Illumina HiSeq 2000,United States of America,,,56,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",42.1,Y,1
+PRJNA299502,SRR2912790,SRS1158748,Metagenomics,22974190,Illumina HiSeq 2000,United States of America,,,55,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",44,N,1
+PRJNA299502,SRR2912791,SRS1158747,Metagenomics,23112810,Illumina HiSeq 2000,United States of America,,,55,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",36.3,N,1
+PRJNA299502,SRR2912793,SRS1158745,Metagenomics,20154490,Illumina HiSeq 2000,United States of America,,,55,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",37.4,N,1
+PRJNA299502,SRR2912795,SRS1158743,Metagenomics,20220520,Illumina HiSeq 2000,United States of America,,,44,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",43.7,Y,1
+PRJNA299502,SRR2912796,SRS1158742,Metagenomics,19604386,Illumina HiSeq 2000,United States of America,,,69,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",35,N,1
+PRJNA299502,SRR2912800,SRS1158758,Metagenomics,26859150,Illumina HiSeq 2000,United States of America,,,66,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",29.6,N,1
+PRJNA299502,SRR2912801,SRS1158757,Metagenomics,30829874,Illumina HiSeq 2000,United States of America,,,50,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",32.6,N,1
+PRJNA299502,SRR2912804,SRS1158754,Metagenomics,26345239,Illumina HiSeq 2000,United States of America,,,55,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",35.1,Y,1
+PRJNA299502,SRR2912806,SRS1158766,Metagenomics,22498218,Illumina HiSeq 2000,United States of America,,,84,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",27.3,Y,1
+PRJNA299502,SRR2912809,SRS1158763,Metagenomics,23787715,Illumina HiSeq 2000,United States of America,,,43,"high proportion of processed protein and carbohydrate-rich foods, and low levels of fruit consumption",32.3,N,1
+PRJNA422434,SRR341581,SRS259434,metagenomics,16615077,Illumina Genome Analyzer II,China,,Female,59,,19.83,N,1
+PRJNA422434,SRR341582,SRS259435,metagenomics,10223604,Illumina Genome Analyzer II,China,,Female,43,,17.58,N,1
+PRJNA422434,SRR341583,SRS259436,metagenomics,13482044,Illumina Genome Analyzer II,China,,Female,46,,20.31,N,1
+PRJNA422434,SRR341584,SRS259437,metagenomics,14637777,Illumina Genome Analyzer II,China,,Female,25,,19.78,N,1
+PRJNA422434,SRR341585,SRS259438,metagenomics,16306900,Illumina Genome Analyzer II,China,,Female,60,,18.43,N,1
+PRJNA422434,SRR341586,SRS259439,metagenomics,14167798,Illumina Genome Analyzer II,China,,Female,71,,16,N,1
+PRJNA422434,SRR341587,SRS259440,metagenomics,15964233,Illumina Genome Analyzer II,China,,Female,62,,19.69,N,1
+PRJNA422434,SRR341588,SRS259441,metagenomics,14728641,Illumina Genome Analyzer II,China,,Female,54,,19.4,N,1
+PRJNA422434,SRR341589,SRS259442,metagenomics,13844851,Illumina Genome Analyzer II,China,,Female,51,,19.29,N,1
+PRJNA422434,SRR341590,SRS259443,metagenomics,14616219,Illumina Genome Analyzer II,China,,Male,29,,17.73,N,1
+PRJNA422434,SRR341591,SRS259444,metagenomics,15405989,Illumina Genome Analyzer II,China,,Male,41,,20.8,N,1
+PRJNA422434,SRR341592,SRS259445,metagenomics,14658594,Illumina Genome Analyzer II,China,,Male,38,,20.2,N,1
+PRJNA422434,SRR341593,SRS259446,metagenomics,14065151,Illumina Genome Analyzer II,China,,Male,35,,19.72,N,1
+PRJNA422434,SRR341594,SRS259447,metagenomics,15124762,Illumina Genome Analyzer II,China,,Male,28,,18.59,N,1
+PRJNA422434,SRR341595,SRS259448,metagenomics,11708018,Illumina Genome Analyzer II,China,,Male,43,,20.05,N,1
+PRJNA422434,SRR341596,SRS259449,metagenomics,16431499,Illumina Genome Analyzer II,China,,Male,38,,19.59,N,1
+PRJNA422434,SRR341597,SRS259450,metagenomics,16867969,Illumina Genome Analyzer II,China,,Male,30,,20.05,N,1
+PRJNA422434,SRR341598,SRS259451,metagenomics,14780936,Illumina Genome Analyzer II,China,,Male,49,,20.05,N,1
+PRJNA422434,SRR341599,SRS259452,metagenomics,12830222,Illumina Genome Analyzer II,China,,Female,56,,25.3,N,1
+PRJNA422434,SRR341600,SRS259453,metagenomics,17810138,Illumina Genome Analyzer II,China,,Female,70,,25.78,N,1
+PRJNA422434,SRR341601,SRS259454,metagenomics,13694335,Illumina Genome Analyzer II,China,,Female,68,,27.64,N,1
+PRJNA422434,SRR341602,SRS259455,metagenomics,12645541,Illumina Genome Analyzer II,China,,Female,62,,27.78,N,1
+PRJNA422434,SRR341603,SRS259456,metagenomics,12482203,Illumina Genome Analyzer II,China,,Female,48,,27.06,N,1
+PRJNA422434,SRR341604,SRS259457,metagenomics,15098502,Illumina Genome Analyzer II,China,,Female,61,,27.15,N,1
+PRJNA422434,SRR341605,SRS259458,metagenomics,14648117,Illumina Genome Analyzer II,China,,Female,53,,25.97,N,1
+PRJNA422434,SRR341606,SRS259459,metagenomics,14072214,Illumina Genome Analyzer II,China,,Female,63,,29.79,N,1
+PRJNA422434,SRR341607,SRS259460,metagenomics,16370568,Illumina Genome Analyzer II,China,,Male,49,,25.31,N,1
+PRJNA422434,SRR341608,SRS259461,metagenomics,14327443,Illumina Genome Analyzer II,China,,Male,57,,25.69,N,1
+PRJNA422434,SRR341609,SRS259462,metagenomics,12882811,Illumina Genome Analyzer II,China,,Male,71,,25.39,N,1
+PRJNA422434,SRR341610,SRS259463,metagenomics,16693581,Illumina Genome Analyzer II,China,,Male,41,,27.72,N,1
+PRJNA422434,SRR341611,SRS259464,metagenomics,9998977,Illumina Genome Analyzer II,China,,Male,43,,25.65,N,1
+PRJNA422434,SRR341612,SRS259465,metagenomics,17376814,Illumina Genome Analyzer II,China,,Male,72,,25.71,N,1
+PRJNA422434,SRR341613,SRS259466,metagenomics,15545122,Illumina Genome Analyzer II,China,,Male,39,,25.51,N,1
+PRJNA422434,SRR341614,SRS259467,metagenomics,14728334,Illumina Genome Analyzer II,China,,Male,42,,25.39,N,1
+PRJNA422434,SRR341615,SRS259468,metagenomics,14030218,Illumina Genome Analyzer II,China,,Male,62,,25.39,N,1
+PRJNA422434,SRR341654,SRS259507,metagenomics,11757533,Illumina Genome Analyzer II,China,,Female,53,,18.49,N,1
+PRJNA422434,SRR341655,SRS259508,metagenomics,16505041,Illumina Genome Analyzer II,China,,Female,52,,19.47,N,1
+PRJNA422434,SRR341656,SRS259509,metagenomics,12592405,Illumina Genome Analyzer II,China,,Female,49,,19.63,N,1
+PRJNA422434,SRR341657,SRS259510,metagenomics,15423345,Illumina Genome Analyzer II,China,,Female,61,,19.98,N,1
+PRJNA422434,SRR341658,SRS259511,metagenomics,15847558,Illumina Genome Analyzer II,China,,Male,46,,20.24,N,1
+PRJNA422434,SRR341659,SRS259512,metagenomics,16662135,Illumina Genome Analyzer II,China,,Male,37,,19.03,N,1
+PRJNA422434,SRR341660,SRS259513,metagenomics,12889652,Illumina Genome Analyzer II,China,,Male,55,,20.57,N,1
+PRJNA422434,SRR341661,SRS259514,metagenomics,16990096,Illumina Genome Analyzer II,China,,Male,51,,18.37,N,1
+PRJNA422434,SRR341662,SRS259515,metagenomics,15207080,Illumina Genome Analyzer II,China,,Male,48,,20.31,N,1
+PRJNA422434,SRR341663,SRS259516,metagenomics,17223141,Illumina Genome Analyzer II,China,,Male,56,,21.11,N,1
+PRJNA422434,SRR341664,SRS259517,metagenomics,16691305,Illumina Genome Analyzer II,China,,Male,70,,20.9,N,1
+PRJNA422434,SRR341665,SRS259518,metagenomics,15757705,Illumina Genome Analyzer II,China,,Male,52,,18.83,N,1
+PRJNA422434,SRR341666,SRS259519,metagenomics,14260205,Illumina Genome Analyzer II,China,,Male,49,,20.07,N,1
+PRJNA422434,SRR341667,SRS259520,metagenomics,14557379,Illumina Genome Analyzer II,China,,Male,47,,20.08,N,1
+PRJNA422434,SRR341668,SRS259521,metagenomics,15959266,Illumina Genome Analyzer II,China,,Male,41,,20.62,N,1
+PRJNA422434,SRR341669,SRS259522,metagenomics,14279964,Illumina Genome Analyzer II,China,,Male,58,,18.21,N,1
+PRJNA422434,SRR341670,SRS259523,metagenomics,23175244,Illumina Genome Analyzer II,China,,Male,53,,19.84,N,1
+PRJNA422434,SRR341671,SRS259524,metagenomics,16627572,Illumina Genome Analyzer II,China,,Male,45,,20.81,N,1
+PRJNA422434,SRR341672,SRS259525,metagenomics,17076365,Illumina Genome Analyzer II,China,,Male,39,,20.57,N,1
+PRJNA422434,SRR341673,SRS259526,metagenomics,17719077,Illumina Genome Analyzer II,China,,Male,70,,21.6,N,1
+PRJNA422434,SRR341674,SRS259527,metagenomics,16173650,Illumina Genome Analyzer II,China,,Male,63,,20.42,N,1
+PRJNA422434,SRR341675,SRS259528,metagenomics,16885018,Illumina Genome Analyzer II,China,,Female,59,,26.71,N,1
+PRJNA422434,SRR341676,SRS259529,metagenomics,16596926,Illumina Genome Analyzer II,China,,Female,63,,25.39,N,1
+PRJNA422434,SRR341677,SRS259530,metagenomics,18435652,Illumina Genome Analyzer II,China,,Female,51,,26.04,N,1
+PRJNA422434,SRR341678,SRS259531,metagenomics,14549833,Illumina Genome Analyzer II,China,,Female,40,,25.84,N,1
+PRJNA422434,SRR341679,SRS259532,metagenomics,14520597,Illumina Genome Analyzer II,China,,Male,59,,25.26,N,1
+PRJNA422434,SRR341680,SRS259533,metagenomics,15896399,Illumina Genome Analyzer II,China,,Male,53,,25.16,N,1
+PRJNA422434,SRR341681,SRS259534,metagenomics,14244738,Illumina Genome Analyzer II,China,,Male,75,,25.39,N,1
+PRJNA422434,SRR341682,SRS259535,metagenomics,19290685,Illumina Genome Analyzer II,China,,Male,74,,25.75,N,1
+PRJNA422434,SRR341683,SRS259536,metagenomics,21015385,Illumina Genome Analyzer II,China,,Male,36,,26.82,N,1
+PRJNA422434,SRR341684,SRS259537,metagenomics,14296267,Illumina Genome Analyzer II,China,,Male,68,,25.35,N,1
+PRJNA422434,SRR341685,SRS259538,metagenomics,16491181,Illumina Genome Analyzer II,China,,Male,39,,27.58,N,1
+PRJNA422434,SRR341686,SRS259539,metagenomics,15802476,Illumina Genome Analyzer II,China,,Male,68,,25.5,N,1
+PRJNA422434,SRR341687,SRS259540,metagenomics,17097749,Illumina Genome Analyzer II,China,,Male,53,,25.31,N,1
+PRJNA422434,SRR341688,SRS259541,metagenomics,18444482,Illumina Genome Analyzer II,China,,Male,31,,27.43,N,1
+PRJNA422434,SRR341689,SRS259542,metagenomics,17810090,Illumina Genome Analyzer II,China,,Male,36,,27.28,N,1
+PRJNA422434,SRR413567,SRS294823,metagenomics,22314647,Illumina Genome Analyzer II,China,,Male,73,,,N,1
+PRJNA422434,SRR413568,SRS294824,metagenomics,31760983,Illumina Genome Analyzer II,China,,Male,48,,,N,1
+PRJNA422434,SRR413569,SRS294825,metagenomics,16758676,Illumina Genome Analyzer II,China,,Male,46,,,N,1
+PRJNA422434,SRR413570,SRS294826,metagenomics,19905167,Illumina Genome Analyzer II,China,,Male,43,,,N,1
+PRJNA422434,SRR413571,SRS294827,metagenomics,25313934,Illumina Genome Analyzer II,China,,Male,44,,,N,1
+PRJNA422434,SRR413572,SRS294828,metagenomics,19399934,Illumina Genome Analyzer II,China,,Male,49,,,N,1
+PRJNA422434,SRR413573,SRS294829,metagenomics,30982655,Illumina Genome Analyzer II,China,,Male,46,,,N,1
+PRJNA422434,SRR413574,SRS294830,metagenomics,24818064,Illumina Genome Analyzer II,China,,Male,58,,,N,1
+PRJNA422434,SRR413673,SRS294929,metagenomics,24125558,Illumina Genome Analyzer II,China,,Female,57,,,N,1
+PRJNA422434,SRR413674,SRS294930,metagenomics,26990032,Illumina Genome Analyzer II,China,,Female,86,,,N,1
+PRJNA422434,SRR413675,SRS294931,metagenomics,29677556,Illumina Genome Analyzer II,China,,Female,28,,,N,1
+PRJNA422434,SRR413676,SRS294932,metagenomics,23242522,Illumina Genome Analyzer II,China,,Female,54,,,N,1
+PRJNA422434,SRR413677,SRS294933,metagenomics,32348674,Illumina Genome Analyzer II,China,,Male,40,,,N,1
+PRJNA422434,SRR413678,SRS294934,metagenomics,34807703,Illumina Genome Analyzer II,China,,Male,58,,,N,1
+PRJNA422434,SRR413679,SRS294935,metagenomics,27621600,Illumina Genome Analyzer II,China,,Female,71,,,N,1
+PRJNA422434,SRR413680,SRS294936,metagenomics,22869911,Illumina Genome Analyzer II,China,,Male,24,,,N,1
+PRJNA422434,SRR413681,SRS294937,metagenomics,22170489,Illumina Genome Analyzer II,China,,Male,43,,,N,1
+PRJNA422434,SRR413682,SRS294938,metagenomics,28768000,Illumina Genome Analyzer II,China,,Male,39,,,N,1
+PRJNA422434,SRR413683,SRS294939,metagenomics,25702993,Illumina Genome Analyzer II,China,,Female,50,,,N,1
+PRJNA422434,SRR413684,SRS294940,metagenomics,24690678,Illumina Genome Analyzer II,China,,Male,72,,,N,1
+PRJNA422434,SRR413685,SRS294941,metagenomics,24650909,Illumina Genome Analyzer II,China,,Male,58,,,N,1
+PRJNA422434,SRR413686,SRS294942,metagenomics,27815037,Illumina Genome Analyzer II,China,,Male,72,,,N,1
+PRJNA422434,SRR413687,SRS294943,metagenomics,19963512,Illumina Genome Analyzer II,China,,Male,57,,,N,1
+PRJNA422434,SRR413688,SRS294944,metagenomics,28916596,Illumina Genome Analyzer II,China,,Female,60,,,N,1
+PRJNA422434,SRR413689,SRS294945,metagenomics,29800190,Illumina Genome Analyzer II,China,,Female,71,,,N,1
+PRJNA422434,SRR413690,SRS294946,metagenomics,26979034,Illumina Genome Analyzer II,China,,Male,51,,,N,1
+PRJNA422434,SRR413691,SRS294947,metagenomics,21776597,Illumina Genome Analyzer II,China,,Female,49,,,N,1
+PRJNA422434,SRR413692,SRS294948,metagenomics,25922643,Illumina Genome Analyzer II,China,,Female,58,,,N,1
+PRJNA422434,SRR413693,SRS294949,metagenomics,28678318,Illumina Genome Analyzer II,China,,Male,44,,,N,1
+PRJNA422434,SRR413694,SRS294950,metagenomics,28221360,Illumina Genome Analyzer II,China,,Male,81,,,N,1
+PRJNA422434,SRR413695,SRS294951,metagenomics,29251902,Illumina Genome Analyzer II,China,,Female,66,,,N,1
+PRJNA422434,SRR413696,SRS294952,metagenomics,24148099,Illumina Genome Analyzer II,China,,Male,61,,,N,1
+PRJNA422434,SRR413697,SRS294953,metagenomics,24845770,Illumina Genome Analyzer II,China,,Male,49,,,N,1
+PRJNA422434,SRR413698,SRS294954,metagenomics,29166771,Illumina Genome Analyzer II,China,,Female,68,,,N,1
+PRJNA422434,SRR413699,SRS294955,metagenomics,17568545,Illumina Genome Analyzer II,China,,Female,60,,,N,1
+PRJNA422434,SRR413700,SRS294956,metagenomics,28915885,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA422434,SRR413701,SRS294957,metagenomics,23247355,Illumina Genome Analyzer II,China,,Female,64,,,N,1
+PRJNA422434,SRR413702,SRS294958,metagenomics,23667244,Illumina Genome Analyzer II,China,,Male,29,,,N,1
+PRJNA422434,SRR413703,SRS294959,metagenomics,25510654,Illumina Genome Analyzer II,China,,Male,57,,,N,1
+PRJNA422434,SRR413704,SRS294960,metagenomics,23668235,Illumina Genome Analyzer II,China,,Male,46,,,N,1
+PRJNA422434,SRR413705,SRS294961,metagenomics,26846280,Illumina Genome Analyzer II,China,,Male,71,,,N,1
+PRJNA422434,SRR413706,SRS294962,metagenomics,29121023,Illumina Genome Analyzer II,China,,Female,75,,,N,1
+PRJNA422434,SRR413707,SRS294963,metagenomics,23932153,Illumina Genome Analyzer II,China,,Female,42,,,N,1
+PRJNA422434,SRR413708,SRS294964,metagenomics,33867269,Illumina Genome Analyzer II,China,,Female,55,,,N,1
+PRJNA422434,SRR413709,SRS294965,metagenomics,17722750,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA422434,SRR413710,SRS294966,metagenomics,29137742,Illumina Genome Analyzer II,China,,Female,32,,,N,1
+PRJNA422434,SRR413711,SRS294967,metagenomics,17683502,Illumina Genome Analyzer II,China,,Male,58,,,N,1
+PRJNA422434,SRR413712,SRS294968,metagenomics,18241146,Illumina Genome Analyzer II,China,,Female,74,,,N,1
+PRJNA422434,SRR413713,SRS294969,metagenomics,17283103,Illumina Genome Analyzer II,China,,Male,35,,,N,1
+PRJNA422434,SRR413714,SRS294970,metagenomics,27235244,Illumina Genome Analyzer II,China,,Male,36,,,N,1
+PRJNA422434,SRR413715,SRS294971,metagenomics,37991711,Illumina Genome Analyzer II,China,,Male,60,,,N,1
+PRJNA422434,SRR413716,SRS294972,metagenomics,36251587,Illumina Genome Analyzer II,China,,Female,73,,,N,1
+PRJNA422434,SRR413717,SRS294973,metagenomics,15710731,Illumina Genome Analyzer II,China,,Female,33,,,N,1
+PRJNA422434,SRR413718,SRS294974,metagenomics,16036454,Illumina Genome Analyzer II,China,,Female,46,,,N,1
+PRJNA422434,SRR413719,SRS294975,metagenomics,18680470,Illumina Genome Analyzer II,China,,Male,33,,,N,1
+PRJNA422434,SRR413720,SRS294976,metagenomics,17384210,Illumina Genome Analyzer II,China,,Female,65,,,N,1
+PRJNA422434,SRR413721,SRS294977,metagenomics,27954443,Illumina Genome Analyzer II,China,,Male,71,,,N,1
+PRJNA422434,SRR413722,SRS294978,metagenomics,31269180,Illumina Genome Analyzer II,China,,Male,40,,,N,1
+PRJNA422434,SRR413723,SRS294979,metagenomics,14075023,Illumina Genome Analyzer II,China,,Female,64,,,N,1
+PRJNA422434,SRR413724,SRS294980,metagenomics,21094297,Illumina Genome Analyzer II,China,,Male,40,,,N,1
+PRJNA422434,SRR413725,SRS294981,metagenomics,22944654,Illumina Genome Analyzer II,China,,Male,43,,,N,1
+PRJNA422434,SRR413726,SRS294982,metagenomics,25715345,Illumina Genome Analyzer II,China,,Female,61,,,N,1
+PRJNA422434,SRR413727,SRS294983,metagenomics,33033068,Illumina Genome Analyzer II,China,,Male,41,,,N,1
+PRJNA422434,SRR413728,SRS294984,metagenomics,29826454,Illumina Genome Analyzer II,China,,Male,41,,,N,1
+PRJNA422434,SRR413729,SRS294985,metagenomics,16056358,Illumina Genome Analyzer II,China,,Male,70,,,N,1
+PRJNA422434,SRR413730,SRS294986,metagenomics,14238236,Illumina Genome Analyzer II,China,,Male,51,,,N,1
+PRJNA422434,SRR413731,SRS294987,metagenomics,24918435,Illumina Genome Analyzer II,China,,Male,47,,,N,1
+PRJNA422434,SRR413732,SRS294988,metagenomics,23824765,Illumina Genome Analyzer II,China,,Male,58,,,N,1
+PRJNA422434,SRR413733,SRS294989,metagenomics,34429285,Illumina Genome Analyzer II,China,,Male,13,,,N,1
+PRJNA422434,SRR413734,SRS294990,metagenomics,23087153,Illumina Genome Analyzer II,China,,Male,57,,,N,1
+PRJNA422434,SRR413735,SRS294991,metagenomics,26826217,Illumina Genome Analyzer II,China,,Female,25,,,N,1
+PRJNA422434,SRR413736,SRS294992,metagenomics,30353735,Illumina Genome Analyzer II,China,,Female,54,,,N,1
+PRJNA422434,SRR413737,SRS294993,metagenomics,28574533,Illumina Genome Analyzer II,China,,Male,60,,,N,1
+PRJNA422434,SRR413738,SRS294994,metagenomics,24937588,Illumina Genome Analyzer II,China,,Male,80,,,N,1
+PRJNA422434,SRR413739,SRS294995,metagenomics,27046881,Illumina Genome Analyzer II,China,,Female,54,,,N,1
+PRJNA422434,SRR413740,SRS294996,metagenomics,26106621,Illumina Genome Analyzer II,China,,Male,57,,,N,1
+PRJNA422434,SRR413741,SRS294997,metagenomics,19722033,Illumina Genome Analyzer II,China,,Female,45,,,N,1
+PRJNA422434,SRR413742,SRS294998,metagenomics,22095884,Illumina Genome Analyzer II,China,,Male,62,,,N,1
+PRJNA422434,SRR413743,SRS294999,metagenomics,23658761,Illumina Genome Analyzer II,China,,Female,62,,,N,1
+PRJNA422434,SRR413744,SRS295000,metagenomics,23161374,Illumina Genome Analyzer II,China,,Male,56,,,N,1
+PRJNA422434,SRR413745,SRS295001,metagenomics,24243604,Illumina Genome Analyzer II,China,,Male,49,,,N,1
+PRJNA422434,SRR413746,SRS295002,metagenomics,21285727,Illumina Genome Analyzer II,China,,Female,58,,,N,1
+PRJNA422434,SRR413747,SRS295003,metagenomics,22273233,Illumina Genome Analyzer II,China,,Male,31,,,N,1
+PRJNA422434,SRR413748,SRS295004,metagenomics,23210766,Illumina Genome Analyzer II,China,,Female,61,,,N,1
+PRJNA422434,SRR413749,SRS295005,metagenomics,21382354,Illumina Genome Analyzer II,China,,Male,58,,,N,1
+PRJNA422434,SRR413750,SRS295006,metagenomics,25223546,Illumina Genome Analyzer II,China,,Female,72,,,N,1
+PRJNA422434,SRR413751,SRS295007,metagenomics,24236489,Illumina Genome Analyzer II,China,,Male,81,,,N,1
+PRJNA422434,SRR413752,SRS295008,metagenomics,24212606,Illumina Genome Analyzer II,China,,Female,52,,,N,1
+PRJNA422434,SRR413753,SRS295009,metagenomics,30656418,Illumina Genome Analyzer II,China,,Male,62,,,N,1
+PRJNA422434,SRR413754,SRS295010,metagenomics,38398908,Illumina Genome Analyzer II,China,,Male,41,,,N,1
+PRJNA422434,SRR413755,SRS295011,metagenomics,21918376,Illumina Genome Analyzer II,China,,Male,61,,,N,1
+PRJNA422434,SRR413756,SRS295012,metagenomics,22113609,Illumina Genome Analyzer II,China,,Male,44,,,N,1
+PRJNA422434,SRR413757,SRS295013,metagenomics,33220432,Illumina Genome Analyzer II,China,,Female,83,,,N,1
+PRJNA422434,SRR413758,SRS295014,metagenomics,18219554,Illumina Genome Analyzer II,China,,Female,56,,,N,1
+PRJNA422434,SRR413759,SRS295015,metagenomics,23152931,Illumina Genome Analyzer II,China,,Male,65,,,N,1
+PRJNA422434,SRR413760,SRS295016,metagenomics,25113456,Illumina Genome Analyzer II,China,,Male,79,,,N,1
+PRJNA422434,SRR413761,SRS295017,metagenomics,33417624,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA422434,SRR413762,SRS295018,metagenomics,31006279,Illumina Genome Analyzer II,China,,Male,65,,,N,1
+PRJNA422434,SRR413763,SRS295019,metagenomics,21620734,Illumina Genome Analyzer II,China,,Male,51,,,N,1
+PRJNA422434,SRR413764,SRS295020,metagenomics,25797209,Illumina Genome Analyzer II,China,,Male,63,,,N,1
+PRJNA422434,SRR413765,SRS295021,metagenomics,26112996,Illumina Genome Analyzer II,China,,Female,63,,,N,1
+PRJNA422434,SRR413766,SRS295022,metagenomics,35554446,Illumina Genome Analyzer II,China,,Female,54,,,N,1
+PRJNA422434,SRR413767,SRS295023,metagenomics,22973804,Illumina Genome Analyzer II,China,,Male,40,,,N,1
+PRJNA422434,SRR413768,SRS295024,metagenomics,28669007,Illumina Genome Analyzer II,China,,Male,56,,,N,1
+PRJNA422434,SRR413769,SRS295025,metagenomics,36022206,Illumina Genome Analyzer II,China,,Female,55,,,N,1
+PRJNA422434,SRR413770,SRS295026,metagenomics,27274796,Illumina Genome Analyzer II,China,,Male,33,,,N,1
+PRJNA422434,SRR413771,SRS295027,metagenomics,21554866,Illumina Genome Analyzer II,China,,Female,74,,,N,1
+PRJNA422434,SRR413772,SRS295028,metagenomics,24318702,Illumina Genome Analyzer II,China,,Female,45,,,N,1
+PRJNA422434,SRR413773,SRS295029,metagenomics,31216012,Illumina Genome Analyzer II,China,,Male,55,,,N,1
+PRJNA389481,SRR5699025,SAMN07250780,Amplicon,27763,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699026,SAMN07250781,Amplicon,40320,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699027,SAMN07250782,Amplicon,36098,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699029,SAMN07250784,Amplicon,40436,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699030,SAMN07250785,Amplicon,49408,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699032,SAMN07250787,Amplicon,26712,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699033,SAMN07250788,Amplicon,33344,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699035,SAMN07250819,Amplicon,28111,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699036,SAMN07250818,Amplicon,51203,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699037,SAMN07250815,Amplicon,30079,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699038,SAMN07250814,Amplicon,32023,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699039,SAMN07250817,Amplicon,41871,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699040,SAMN07250816,Amplicon,28090,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699041,SAMN07250811,Amplicon,23183,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699042,SAMN07250810,Amplicon,33525,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699044,SAMN07250812,Amplicon,28873,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699045,SAMN07250833,Amplicon,37706,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699046,SAMN07250832,Amplicon,50098,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699048,SAMN07250830,Amplicon,37523,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699050,SAMN07250834,Amplicon,49174,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699051,SAMN07250808,Amplicon,32435,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699052,SAMN07250809,Amplicon,29861,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699053,SAMN07250806,Amplicon,31546,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699055,SAMN07250804,Amplicon,39089,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699057,SAMN07250802,Amplicon,36075,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699058,SAMN07250803,Amplicon,29813,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699060,SAMN07250801,Amplicon,42526,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699061,SAMN07250828,Amplicon,39171,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699063,SAMN07250824,Amplicon,47795,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699064,SAMN07250825,Amplicon,42638,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699065,SAMN07250826,Amplicon,48353,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699067,SAMN07250820,Amplicon,30235,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699068,SAMN07250821,Amplicon,26878,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699069,SAMN07250822,Amplicon,30106,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699070,SAMN07250823,Amplicon,37345,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699074,SAMN07250752,Amplicon,35669,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699076,SAMN07250750,Amplicon,23860,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699080,SAMN07250754,Amplicon,29950,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699081,SAMN07250771,Amplicon,34842,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699082,SAMN07250770,Amplicon,26805,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699083,SAMN07250773,Amplicon,34948,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699084,SAMN07250772,Amplicon,32107,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699085,SAMN07250775,Amplicon,33212,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699087,SAMN07250777,Amplicon,43523,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699088,SAMN07250776,Amplicon,41335,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699089,SAMN07250779,Amplicon,31386,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699090,SAMN07250778,Amplicon,43875,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699091,SAMN07250797,Amplicon,36735,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699092,SAMN07250796,Amplicon,28507,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699093,SAMN07250795,Amplicon,23976,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699094,SAMN07250794,Amplicon,51257,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699096,SAMN07250792,Amplicon,44764,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699097,SAMN07250791,Amplicon,39755,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699099,SAMN07250799,Amplicon,40708,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699100,SAMN07250798,Amplicon,37498,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699102,SAMN07250740,Amplicon,22929,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699103,SAMN07250743,Amplicon,26936,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699104,SAMN07250742,Amplicon,25256,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699105,SAMN07250745,Amplicon,29372,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699106,SAMN07250744,Amplicon,24408,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699108,SAMN07250746,Amplicon,26165,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699111,SAMN07250762,Amplicon,23139,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699113,SAMN07250760,Amplicon,24598,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699114,SAMN07250761,Amplicon,39886,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699115,SAMN07250766,Amplicon,32707,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA389481,SRR5699119,SAMN07250768,Amplicon,26988,Illumina MiSeq,United States of America,2016/1/1,,,,,,1
+PRJNA448494,SRR6928701,SRS3115549,Amplicon,455860,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928702,SRS3115548,Amplicon,378129,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928703,SRS3115547,Amplicon,507814,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928704,SRS3115544,Amplicon,594903,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928705,SRS3115546,Amplicon,697285,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928706,SRS3115545,Amplicon,821376,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928707,SRS3115543,Amplicon,325372,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928708,SRS3115542,Amplicon,965513,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928709,SRS3115540,Amplicon,555870,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928710,SRS3115536,Amplicon,720269,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928711,SRS3115538,Amplicon,1065370,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928712,SRS3115539,Amplicon,1187005,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928713,SRS3115541,Amplicon,669923,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928714,SRS3115537,Amplicon,467347,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928715,SRS3115535,Amplicon,533537,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928716,SRS3115532,Amplicon,445242,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928717,SRS3115533,Amplicon,584889,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928718,SRS3115534,Amplicon,539258,Illumina HiSeq 2500,India,2016/1/1,Female,,Mixed,,,1
+PRJNA448494,SRR6928719,SRS3115530,Amplicon,481236,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928720,SRS3115531,Amplicon,1053289,Illumina HiSeq 2500,India,2016/1/1,Female,,Mixed,,,1
+PRJNA448494,SRR6928721,SRS3115529,Amplicon,1288744,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928722,SRS3115528,Amplicon,1320069,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928723,SRS3115527,Amplicon,1061633,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928724,SRS3115525,Amplicon,778363,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928725,SRS3115526,Amplicon,1008650,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928726,SRS3115523,Amplicon,1062156,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928727,SRS3115524,Amplicon,1205907,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928728,SRS3115522,Amplicon,1351104,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928729,SRS3115521,Amplicon,996742,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928730,SRS3115520,Amplicon,1050025,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928731,SRS3115519,Amplicon,334189,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928732,SRS3115518,Amplicon,617483,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928733,SRS3115517,Amplicon,300172,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928734,SRS3115516,Amplicon,413398,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928735,SRS3115515,Amplicon,325354,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928736,SRS3115514,Amplicon,552490,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928737,SRS3115513,Amplicon,475421,Illumina HiSeq 2500,India,2016/1/1,Female,,Mixed,,,1
+PRJNA448494,SRR6928738,SRS3115510,Amplicon,352202,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928739,SRS3115512,Amplicon,461843,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928740,SRS3115511,Amplicon,405111,Illumina HiSeq 2500,India,2016/1/1,Female,,Mixed,,,1
+PRJNA448494,SRR6928751,SRS3115499,Amplicon,465171,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928752,SRS3115498,Amplicon,524980,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928753,SRS3115496,Amplicon,489911,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928754,SRS3115497,Amplicon,430560,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928755,SRS3115495,Amplicon,978780,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928756,SRS3115494,Amplicon,619555,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928757,SRS3115493,Amplicon,531125,Illumina HiSeq 2500,India,2016/1/1,Female,,Mixed,,,1
+PRJNA448494,SRR6928759,SRS3115491,Amplicon,794920,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928760,SRS3115490,Amplicon,555051,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928771,SRS3115480,Amplicon,1112830,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928772,SRS3115478,Amplicon,1548277,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928773,SRS3115476,Amplicon,799313,Illumina HiSeq 2500,India,2016/1/1,Female,,Mixed,,,1
+PRJNA448494,SRR6928794,SRS3115456,Amplicon,995037,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928795,SRS3115455,Amplicon,1191033,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928796,SRS3115454,Amplicon,944921,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928797,SRS3115453,Amplicon,1063258,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928798,SRS3115452,Amplicon,673924,Illumina HiSeq 2500,India,2016/1/1,Female,,Veg,,,1
+PRJNA448494,SRR6928799,SRS3115451,Amplicon,1085820,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
+PRJNA448494,SRR6928800,SRS3115450,Amplicon,493141,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928801,SRS3115449,Amplicon,1489577,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928802,SRS3115448,Amplicon,1000698,Illumina HiSeq 2500,India,2016/1/1,Male,,Mixed,,,1
+PRJNA448494,SRR6928803,SRS3115446,Amplicon,497521,Illumina HiSeq 2500,India,2016/1/1,Male,,Veg,,,1
