@@ -3,7 +3,7 @@ Character User Interface QMD@XYL_Lab
 
 ## Installation recommendations
 It is recommended to install CUI-QMD@XYL_Lab as follows
-```
+```python
 conda create -n qmd python=3.7 numpy pandas
 source activate qmd
 conda install scipy
@@ -39,19 +39,19 @@ QMD@XYL_Lab will output the analysis result in the specified folder. It includes
 ## Examples
 A demo project can be found in this folder. To analysis the demo project, users can using following command.
 ### Using absolute path in linux platform
-```
+```python
 python QMD_CUI.py /mnt/d/project/CUI_QMD/demoProject /mnt/d/project/CUI_QMD/demoProject /mnt/d/project/CUI_QMD/demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
 ```
 ### Using relative path in linux platform
-```
+```python
 python QMD_CUI.py ./demoProject ./demoProject ./demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
 ```
 ### Using absolute path in windows platform
-```
+```python
 python .\QMD_CUI.py D:\project\CUI_QMD\demoProject D:\project\CUI_QMD\demoProject D:\project\CUI_QMD\demoProject\dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
 ```
 ### Using relative path in windows platform
-```
+```python
 python .\QMD_CUI.py ./demoProject ./demoProject ./demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
 ```
 

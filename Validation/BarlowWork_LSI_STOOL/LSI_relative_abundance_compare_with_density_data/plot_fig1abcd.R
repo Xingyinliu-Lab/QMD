@@ -143,7 +143,7 @@ colourCount = 13
 getPalette = colorRampPalette(brewer.pal(12, "Paired"))
 g <- ggplot(stacked_data, aes(x=data_group,y=abundance,fill=data_bacteria))+  geom_bar(stat='identity') +   scale_fill_manual(values = getPalette(colourCount))+ylim(0,3.5e10)
 
-ggsave(g, filename='LSI_absolute_abundance_keto.pdf', width=25, height=30, units=c("cm"))	
+ggsave(g, filename='LSI_density_keto.pdf', width=25, height=30, units=c("cm"))	
 
 
 controldata<-data[data$condition=='Control',]
@@ -178,4 +178,4 @@ colourCount = 13
 getPalette = colorRampPalette(brewer.pal(12, "Paired"))
 g <- ggplot(stacked_data, aes(x=data_group,y=abundance,fill=data_bacteria))+  geom_bar(stat='identity') +   scale_fill_manual(values = getPalette(colourCount))+ylim(0,3.5e10)
 
-ggsave(g, filename='LSI_absolute_abundance_control.pdf', width=25, height=30, units=c("cm"))	
+ggsave(g, filename='LSI_density_control.pdf', width=25, height=30, units=c("cm"))	

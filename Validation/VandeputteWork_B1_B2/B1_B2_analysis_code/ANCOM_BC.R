@@ -424,10 +424,10 @@ ANCOM_BC = function(feature.table, grp.name, grp.ind, struc.zero, adj.method = "
 # if one want to rerun this code, makesure modify the fileplace properly.
 # all parameters are set to default as demo in https://github.com/FrederickHuangLin/ANCOM-BC
 
-setwd('simulationResult/H2029/')
-
-for (i in 1:500){
-    data_filename=paste('H2029_',i,'_absolute_abundance_simed.csv',sep='')
+setwd('VandeputteWork_B1_B2/Data/')
+filesets<-c('dc_b1','dc_b2')
+for (i in filesets){
+    data_filename=paste(i,'_absolute_abundance.csv',sep='')
     data<- read.table(data_filename, header = TRUE, sep = ",")
     data[is.na(data)]<-0
     id<-1:(dim(data)[1])
@@ -455,95 +455,12 @@ for (i in 1:500){
     out = ANCOM_BC(feature.table, grp.name, grp.ind, struc.zero,
                   adj.method, tol.EM, max.iterNum, perNum, alpha)
     res = cbind(taxon = rownames(out$feature.table), out$res)
+    res$ANCOM_BC_diff=log2(exp(res[,2]))
     bias=c(out$bias.em[2],out$bias.wls[2])
     note=c('bias.em','bias.wls')
     res2=data.frame(bias,note)
-    resfilename=paste('H2029_',i,'_ANCOM_BC_res1.csv',sep='')
-    res2filename=paste('H2029_',i,'_ANCOM_BC_res2.csv',sep='')
-    write.csv(res, resfilename)
-    write.csv(res2, res2filename)
-}
-
-# set the workspace of Obesity.
-# if one want to rerun this code, makesure modify the fileplace properly.
-setwd('simulationResult/Obesity/')
-
-for (i in 1:500){
-    data_filename=paste('Obesity_',i,'_absolute_abundance_simed.csv',sep='')
-    data<- read.table(data_filename, header = TRUE, sep = ",")
-    data[is.na(data)]<-0
-    id<-1:(dim(data)[1])
-    id<-paste('sample-',id,sep='')
-    data$sample_id<-id
-    rownames(data)<-id
-    meta_data<-data[,c('sample_id','condition')]
-    sample.var = "sample_id";
-    group.var = "condition"; 
-    zero.cut = 0.90;
-    lib.cut = 1000;
-    neg.lb = TRUE
-    otu_data<-data[,!names(data) %in% c('sample_id','condition')]
-    feature.table<-t(otu_data)
-    pre.process = feature_table_pre_process(feature.table, meta_data, sample.var, 
-                                        group.var, zero.cut, lib.cut, neg.lb)
-
-    feature.table = pre.process$feature.table
-    group.name = pre.process$group.name
-    group.ind = pre.process$group.ind
-    struc.zero = pre.process$structure.zeros
-    # Paras for ANCOM-BC
-    grp.name = group.name; grp.ind = group.ind; adj.method = "bonferroni"
-    tol.EM = 1e-5; max.iterNum = 100; perNum = 1000; alpha = 0.05
-    out = ANCOM_BC(feature.table, grp.name, grp.ind, struc.zero,
-                  adj.method, tol.EM, max.iterNum, perNum, alpha)
-    res = cbind(taxon = rownames(out$feature.table), out$res)
-    bias=c(out$bias.em[2],out$bias.wls[2])
-    note=c('bias.em','bias.wls')
-    res2=data.frame(bias,note)
-    resfilename=paste('Obesity_',i,'_ANCOM_BC_res1.csv',sep='')
-    res2filename=paste('Obesity_',i,'_ANCOM_BC_res2.csv',sep='')
-    write.csv(res, resfilename)
-    write.csv(res2, res2filename)
-}
-
-# set the workspace of GP.
-# if one want to rerun this code, makesure modify the fileplace properly.
-setwd('simulationResult/GP/')
-
-for (i in 1:500){
-    data_filename=paste('gp_',i,'_absolute_abundance_simed.csv',sep='')
-    data<- read.table(data_filename, header = TRUE, sep = ",")
-    data[is.na(data)]<-0
-    id<-1:(dim(data)[1])
-    id<-paste('sample-',id,sep='')
-    data$sample_id<-id
-    rownames(data)<-id
-    meta_data<-data[,c('sample_id','condition')]
-    sample.var = "sample_id";
-    group.var = "condition"; 
-    zero.cut = 0.90;
-    lib.cut = 1000;
-    neg.lb = TRUE
-    otu_data<-data[,!names(data) %in% c('sample_id','condition')]
-    feature.table<-t(otu_data)
-    pre.process = feature_table_pre_process(feature.table, meta_data, sample.var, 
-                                        group.var, zero.cut, lib.cut, neg.lb)
-
-    feature.table = pre.process$feature.table
-    group.name = pre.process$group.name
-    group.ind = pre.process$group.ind
-    struc.zero = pre.process$structure.zeros
-    # Paras for ANCOM-BC
-    grp.name = group.name; grp.ind = group.ind; adj.method = "bonferroni"
-    tol.EM = 1e-5; max.iterNum = 100; perNum = 1000; alpha = 0.05
-    out = ANCOM_BC(feature.table, grp.name, grp.ind, struc.zero,
-                  adj.method, tol.EM, max.iterNum, perNum, alpha)
-    res = cbind(taxon = rownames(out$feature.table), out$res)
-    bias=c(out$bias.em[2],out$bias.wls[2])
-    note=c('bias.em','bias.wls')
-    res2=data.frame(bias,note)
-    resfilename=paste('gp_',i,'_ANCOM_BC_res1.csv',sep='')
-    res2filename=paste('gp_',i,'_ANCOM_BC_res2.csv',sep='')
+    resfilename=paste(i,'_ANCOM_BC_res1.csv',sep='')
+    res2filename=paste(i,'_ANCOM_BC_res2.csv',sep='')
     write.csv(res, resfilename)
     write.csv(res2, res2filename)
 }

@@ -19,7 +19,7 @@ processors_num=20
 
 
 def cal_H2029(cl):
-    fileplace='H2029/'
+    fileplace='simulationData/H2029/'
     for oo in cl:
         i=oo+1
         print(i)
@@ -30,7 +30,7 @@ def cal_H2029(cl):
         os.system(cmdStr)
 
 def cal_Obesity(cl):
-    fileplace='Obesity/'
+    fileplace='simulationData/Obesity/'
     for oo in cl:
         i=oo+1
         print(i)
@@ -42,7 +42,7 @@ def cal_Obesity(cl):
 
 
 def cal_gp(cl):
-    fileplace='GPoriData/'
+    fileplace='simulationData/GPoriData/'
     for oo in cl:
         i=oo+1
         print(i)

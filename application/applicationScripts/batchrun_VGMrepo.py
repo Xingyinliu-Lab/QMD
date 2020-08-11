@@ -1,7 +1,7 @@
 
 import os
 
-fileplace='E:\\Bio\\abs_abundance\\GMrepo3/'
+fileplace='../Data/gutMicrobiomeAbundanceData/'
 permu=500
 lp=5
 up=95
@@ -13,13 +13,13 @@ treat='crohn'
 #
 print(treat)
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -32,13 +32,13 @@ treat='crc'
 #
 print(treat)
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -51,13 +51,13 @@ treat='UC'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -70,13 +70,13 @@ treat='IBS'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -89,13 +89,13 @@ treat='H50'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -108,13 +108,13 @@ treat='DiabetesMellitusType2'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -127,13 +127,13 @@ treat='Kidney'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -146,13 +146,13 @@ treat='liver'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 
@@ -165,13 +165,13 @@ treat='autoimmuneD'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 ###############
@@ -183,13 +183,13 @@ treat='CysticFibrosis'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 ###############
@@ -201,13 +201,13 @@ treat='lung'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 ###############
@@ -219,13 +219,13 @@ treat='Obesity'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 ###############
@@ -237,13 +237,13 @@ treat='CardiovascularDiseases'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 ###############
@@ -255,13 +255,13 @@ treat='GDM'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
 ###############
@@ -273,11 +273,11 @@ treat='hypertension'
 print(treat)
 #
 predix = 'genus_AbundanceData'
-cmdStr='python ../QMD_GMREPO/qml_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
+cmdStr='python ../QMD_GMREPO/qmd_dataPreprocessing_VF_multi_thread.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(minimum_taxa_abundance_control)+' '+str(predix)+' '+control+' '+treat+' '+str(processers)
 os.system(cmdStr)
 
 cmdStr='python ../QMD_GMREPO/plot_cost_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)
 
-cmdStr='python ../QMD_GMREPO/qml_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
+cmdStr='python ../QMD_GMREPO/qmd_optimization_VF.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
 os.system(cmdStr)

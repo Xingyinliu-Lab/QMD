@@ -4,7 +4,7 @@ import numpy as np
 from multiprocessing import Pool
 import os
 
-fileplace='JacobWork/Data/'
+fileplace='BarlowWork_LSI_STOOL/Data/'
 permu=500
 lp=5
 up=95

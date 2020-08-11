@@ -3,7 +3,7 @@
 ##############################
 ##############################
 ##############################
-# this is the batch run script for QMD analysis on Obesity simulation instances
+# this is the batch run script for QMD analysis on GP simulation instances
 
 
 import os
@@ -17,11 +17,11 @@ import pandas as pd
 # this para should be modified before start this script
 processors_num=20
 
-fileplace='Obesity/'
+fileplace='simulationData/GPoriData/'
 permu=500
 lp=5
 up=95
-minimum_taxa_detection_num=3
+minimum_taxa_detection_num=5
 control='Control'
 treat='Treat'
 
@@ -30,7 +30,7 @@ def cal_dataPreprocessing(cl):
     for oo in cl:
         i=oo+1
         print(i)
-        predix = 'Obesity_'+str(i)
+        predix = 'gp_'+str(i)
         if os.path.exists(fileplace + predix + '_' + control + '_' + treat + '_taxa_Into_Model.npy'):
             continue
         cmdStr='python qmd_dataPreprocessing.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(predix)+' '+control+' '+treat
@@ -40,7 +40,7 @@ def cal_optimization(cl):
     for oo in cl:
         i=oo+1
         print(i)
-        predix = 'Obesity_'+str(i)
+        predix = 'gp_'+str(i)
         if os.path.exists(fileplace+predix+'_analysis_ANCOM_ANCOM-BC_QMD.csv'):
             continue
         cmdStr='python qmd_ANCOM.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat

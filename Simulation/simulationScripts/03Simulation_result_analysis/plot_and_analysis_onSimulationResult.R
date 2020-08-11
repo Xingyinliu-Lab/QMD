@@ -18,7 +18,7 @@ library(psych)
 ##########################
 
 
-setwd('statistical_result/')
+setwd('result_Aanlysis/collectedStatistics/')
 data<- read.table("H2029_stat.csv", header = TRUE, sep = ",")
 
 # linear regression without intercept

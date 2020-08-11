@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 predix = 'genus_AbundanceData'
 
-fileplace='application/Data/'
+fileplace='../Data/gutMicrobiomeAbundanceData/'
 
 
 def getRes2(control,treat):

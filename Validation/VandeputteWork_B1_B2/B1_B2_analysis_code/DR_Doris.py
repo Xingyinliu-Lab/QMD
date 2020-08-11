@@ -81,10 +81,10 @@ def DR(fileplace,predix,control,treat):
     rel_m1=rel_m1[['taxaId','DR_inferred_foldchange']]
     rel_m1.to_csv(fileplace+predix+'_DR_analysis.csv')
 
-fileplace='JacobWork/Data/'
-control='Keto'
-treat='Control'
-predix='LSI'
+fileplace='VandeputteWork_B1_B2/Data/'
+control='Healthy'
+treat='CD'
+predix='dc_b1'
 DR(fileplace,predix,control,treat)
-predix='STOOL'
+predix='dc_b2'
 DR(fileplace,predix,control,treat)

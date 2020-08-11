@@ -424,7 +424,7 @@ ANCOM_BC = function(feature.table, grp.name, grp.ind, struc.zero, adj.method = "
 # if one want to rerun this code, makesure modify the fileplace properly.
 # all parameters are set to default as demo in https://github.com/FrederickHuangLin/ANCOM-BC
 
-setwd('JacobWork/Data/')
+setwd('BarlowWork_LSI_STOOL/Data/')
 filesets<-c('LSI','STOOL')
 for (i in filesets){
     data_filename=paste(i,'_absolute_abundance.csv',sep='')
