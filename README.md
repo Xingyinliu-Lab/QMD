@@ -1,5 +1,5 @@
-<center><font color=#8A2BE2F>QMD@XYL_Lab</font></center>
-==========================
+# <center><font color=#8A2BE2F>QMD@XYL_Lab</font></center>
+
 Development of DNA sequencing techniques have enabled our insights into composition and dynamics of complex microbial communities from human gut to soils and oceans. In practice, the microbiome data can be divided into four categories.
 
 > 1. The *Microbial Load* refers to the number of a taxa in a sample.
@@ -12,32 +12,6 @@ Microbial density is the most unbiased data presenting the real microbiome world
 ## <font color=#8A2BE2F>Assumption of QMD and QMDD</font>
 
 > The microbial density changes of a considerable part of taxa are relatively small.
-## <font color=#8A2BE2F>Mathematical foundation of QMD and QMDD</font>
-
-QMD model was built using L1 regularization:
-
-<center>
-
-$``min:\sum_{taxa_{i}} \frac{D_{i}^{T} +D_{i}^{C}}{2}\left |  \Delta \Psi +E(log(o_{i}^{T}))-E(log(o_{i}^{C}))\right |``$ &emsp;&emsp;&emsp;&emsp; (1)
-</br>
-</center>
-
-Where $D_i^T$ and $D_i^C$ is the detection rate of $taxa_{i}$ in Group $K$. $\Delta \Psi$ is the fold change of total microbial density of all taxa between groups. $o_i^C$ and $o_i^T$ and are the relative Abundance of $taxa_{i}$ in control group and treatment group.
-With the quantified ∆Ψ, the microbial density change $\Delta M_{i}$ for each $taxa_{i}$ is calculated as
-<center>
-
-$\Delta M_{i} =\Delta \Psi +E(log(o_{i}^{T}))-E(log(o_{i}^{C}))$ &emsp;&emsp;&emsp;&emsp; (2)
-</br>
-</center>
-
-QMDD make hypothesis $H_0:the microbial density changed between groups$ to identify differentially abundant taxa, i.e.
-<center>
-
-$H_{0}:\Delta \Psi +E(log(o_{i}^{T}))=E(log(o_{i}^{C}))$ &emsp;&emsp;&emsp;&emsp; (3)
-</br>
-</center>
-
-After correction of $\Delta \Psi$, Mann-Whitney U Test could be adopted to conduct the statistical test in formula 3.
 
 ## <font color=#8A2BE2F>QMD@XYL_Lab</font>
 QMD@XYL_Lab helps researchers to conduct QMD and QMDD in differentially abundant taxa identification and different abundance estimations between experimental groups. This software was implemented by python3. QMD@XYL_Lab is open source software. One can find source code of QMD@XYL_Lab at [github](https://github.com/Xingyinliu-Lab/QMD). Both GUI and CUI version of the software are provided. 
