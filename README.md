@@ -18,7 +18,7 @@ QMD model was built using L1 regularization:
 
 <center>
 
-$min:\sum_{taxa_{i}} \frac{D_{i}^{T} +D_{i}^{C}}{2}\left |  \Delta \Psi +E(log(o_{i}^{T}))-E(log(o_{i}^{C}))\right |$ &emsp;&emsp;&emsp;&emsp; (1)
+$``min:\sum_{taxa_{i}} \frac{D_{i}^{T} +D_{i}^{C}}{2}\left |  \Delta \Psi +E(log(o_{i}^{T}))-E(log(o_{i}^{C}))\right |``$ &emsp;&emsp;&emsp;&emsp; (1)
 </br>
 </center>
 
