@@ -5,7 +5,7 @@
 ##############################
 ##############################
 # R code implementation of ANCOM-BC  https://doi.org/10.1038/s41467-020-17041-7 
-# The code is a copy from https://github.com/FrederickHuangLin/ANCOM-BC/blob/master/scripts/ancom_bc_v1.0.R
+# The code is a copy from https://github.com/FrederickHuangLin/ANCOM-BC-Code-Archive/blob/master/scripts/ancom_bc.R
 # The following libraries need to be included for the R code to run:
 # library(dplyr)
 # library(nloptr)
