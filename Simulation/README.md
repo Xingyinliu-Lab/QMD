@@ -96,6 +96,7 @@ Simulation # benchmark simulation scripts and results
  │  │      Obesity_100_Control_Treat_taxa_Into_Model.csv # Remained taxa after removing low detection rate taxa of the 100th instance
  │  │      Obesity_100_relative_otu_simed.csv # relative abundance table of the 100th instance
  │  │      ... # other Obesity simulation instances data (totally 500)
+ │  ├─ ks_test_onpowerlaw# KS test script and result # on whether the simulated data followed a power law distribution
  │  │      
  │  └─originalDataPool # data pool to generate relative abundance and absolute abundance data
  │      ├─GP # data pool to generate relative abundance and absolute abundance data for GP series

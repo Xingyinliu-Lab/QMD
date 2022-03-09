@@ -21,89 +21,14 @@ QMD@XYL_Lab helps researchers to conduct QMD and QMDD in differentially abundant
 QMD # root of the repository
 │
 ├─CUI_QMD # Character User Interface QMD@XYL_Lab
-│  │  
-│  └─demoProject # a demo project in CUI_QMD
 │          
 ├─GUI_QMD # QMD@XYL_Lab with Graphical User Interface
-│  │  
-│  ├─release # zipped release version of the GUI_QMD software
-│  │      
-│  ├─release_v1.0.20200810 # v1.0.20200810 GUI_QMD
-│  │  │  
-│  │  ├─demoData # demo data for GUI_QMD
-│  │  │      
-│  │  ├─Project # place to store the project analysis result
-│  │  │  └─demo_project_b2 # place to store the demoproject analysis result
-│  │  │      │  
-│  │  │      └─datapreprocessing # place to store the demoproject preprocessing result
-│  │  │              
-│  │  └─source # source data file containing manual.html etc. to support GUI_QMD
-│  │      │  
-│  │      └─fonts # source fonts data
-│  │              
-│  └─sourcecode # source code for GUI_QMD
-│      │  
-│      └─source # source data file containing manual.html etc. to support GUI_QMD
-│          │  
-│          └─fonts # source fonts data
 │  
 ├─Validation # LSI STOOL B1 B2 Validation code and results
-│   ├─BarlowWork_LSI_STOOL # LSI STOOL validation
-│   │  ├─LSI_STOOL_analysis_code # validation scripts
-│   │  │      
-│   │  ├─Data # input and output data in LSI STOOL validation
-│   │  │      
-│   │  ├─figures # Generate figure 2 and extended figure 1.
-│   │  │      
-│   │  └─LSI_relative_abundance_compare_with_density_data # Generate figure 1.a
-│   │          
-│   └─VandeputteWork_B1_B2 # B1 B2 validation
-│       ├─B1_B2_analysis_code # validation scripts
-│       │      
-│       ├─Data # input and output data in B1 B2 validation
-│       │      
-│       └─figures # Generate extended figure 2.
-│
 │                  
 ├─Simulation # benchmark simulation scripts and results
-│  ├─result_Aanlysis # simulation result statistics comparision
-│  │  ├─collectedStatistics # H2029, GP, Obesity simulation statistics
-│  │  │      
-│  │  └─figures # generate figure 3, extended figure 3, extended figure 4, extended figure 6.
-│  │          
-│  ├─simulationData # generated simulation input and output data
-│  │  ├─GPoriData # input data(relative abundance, absolute abundance, simulation change record) and output data for GP series
-│  │  │      
-│  │  ├─H2029 # input data(relative abundance, absolute abundance, simulation change record) and output data for H2029 series
-│  │  │      
-│  │  ├─Obesity # input data(relative abundance, absolute abundance, simulation change record) and output data for Obesity series
-│  │  │      
-│  │  └─originalDataPool # data pool to generate relative abundance and absolute abundance data
-│  │      ├─GP # data pool to generate relative abundance and absolute abundance data for GP series
-│  │      │      
-│  │      ├─H2029 # data pool to generate relative abundance and absolute abundance data for H2029 series
-│  │      │      
-│  │      └─Obesity # data pool to generate relative abundance and absolute abundance data for Obesity series
-│  │              
-│  └─simulationScripts # place to store the scripts in simulation
-│      ├─01GenerateData # scripts generate all input data
-│      │      
-│      ├─02ANCOM_ANCOM-BC_QMD_DR # conducting simualtion 
-│      │      
-│      └─03Simulation_result_analysis # analysis result and plot charts
 │              
 └─application # QMD applications on human gut microbiome in common diseases compared with the healthy population
-   │  
-   ├─applicationScripts # place to store analysis and chart-plotting scripts
-   │  │  
-   │  └─QMD_GMREPO # a slightly modified version of QMD in the application analysis
-   │          
-   └─Data # QMD application analysis results
-       ├─figures #generate figure 4.
-       │      
-       ├─gutMicrobiomeAbundanceData # input and output of QMD application
-       │      
-       └─metadata # metadata for data pipelined into analysis
 ```
 ## <font color=#8A2BE2F>Getting started</font>
 Both character user interface and graphical user interface version QMD@XYL_Lab are provided in this repo. Users familiar with python lanugage can start with the CUI version. This version provides more flexible functions. For MS windows users, one can also try the graphical user interface version. 

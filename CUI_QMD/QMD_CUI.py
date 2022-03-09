@@ -14,11 +14,11 @@ permu_loops=int(sys.argv[9])#permuation loops
 fdr=sys.argv[10]# whether turn FDR adjustment on
 plot=sys.argv[11]# whether plot the taxa changes bar chart
 confidence_level=float(sys.argv[12])#confidence level to identify statistically significant differentilly abundant taxa
-
+manner=sys.argv[13]# 1 for 'Drop directly' or 2 for 'Summarize as others'
 
 qmd_dataPreprocessing_cui.preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detection_num,
                                          control_label, treat_label,
-                                         group_label, permu_loops, minimum_taxa_abundance_control)
+                                         group_label, permu_loops, minimum_taxa_abundance_control,manner)
 
 qmd_optimization_cui.qmd_optimization(fileplace, data_preprocessing_place, control_label,
                                       treat_label, group_label, permu_loops, fdr, plot, confidence_level)

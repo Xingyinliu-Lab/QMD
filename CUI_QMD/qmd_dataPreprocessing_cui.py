@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 
 
-def preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detection_num, control_label, treat_label, group_label, permu_loops, minimum_taxa_abundance_control):
+def preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detection_num, control_label, treat_label, group_label, permu_loops, minimum_taxa_abundance_control, manner):
+    # print(manner)
     permu = int(permu_loops)
     lp = 5
     up = 95
@@ -68,17 +69,52 @@ def preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detectio
         mean_x = np.mean(x_bootstrap)
         return mean_x, lower_bound, upper_bound
 
+
+
+
     genuslist = res_detection_ratio.loc[(res_detection_ratio['controlDetectionNum'] > minimum_taxa_detection_num)
                                         & (res_detection_ratio['treatDetectionNum'] > minimum_taxa_detection_num)
                                         & (res_detection_ratio['controlAbundance'] >= minimum_taxa_abundance_control), ]
 
     genuslist = genuslist.reset_index(drop=True)
     genusIntoModel = list(genuslist['taxaId'])
+
+    filtered_genuslist=res_detection_ratio[~res_detection_ratio['taxaId'].isin(genusIntoModel)]
+
+    if manner=='1':
+        genusdata = genusdata[genusIntoModel+[group_label]]
+    if manner=='2':
+        if len(filtered_genuslist)>0:
+            filtered_genuslist=list(filtered_genuslist['taxaId'])
+            print(filtered_genuslist)
+            genusdata['others'] = genusdata[filtered_genuslist].apply(lambda x: x.sum(), axis=1)
+        genusIntoModel=genusIntoModel+['others']
+        genusdata = genusdata[genusIntoModel+[group_label]]
+        genuslist.loc[count,'taxaId']='others'
+        controlgdata = genusdata.loc[genusdata[group_label]== control, 'others']
+        treatgdata = genusdata.loc[genusdata[group_label] == treat, 'others']
+        controlobs = sum(controlgdata > 0)
+        treatobs = sum(treatgdata > 0)
+        genuslist.loc[count, 'controlDetectionNum'] = controlobs
+        genuslist.loc[count, 'treatDetectionNum'] = treatobs
+        genuslist.loc[count,
+                                'controlDetectionRate'] = controlobs/controllen
+        genuslist.loc[count,
+                                'treatDetectionRate'] = treatobs/treatlen
+        if controlobs > 1:
+            genuslist.loc[count, 'controlAbundance'] = np.median(
+                controlgdata)
+        else:
+            genuslist.loc[count, 'controlAbundance'] = 0
+
+    genusIntoModel = list(genuslist['taxaId'])
     genusdata = genusdata[genusIntoModel+[group_label]]
     sumabundance = genusdata[genusIntoModel].sum(axis=1)
     genusdata[genusIntoModel] = genusdata[genusIntoModel].div(
         sumabundance, axis='rows')
     genusdata.to_csv(data_preprocessing_place+'/taxa_abundance_Into_Model.csv')
+
+
 
     def xydiff_confidence_interval(x, y):
         x = x[~np.isnan(x)]
@@ -118,4 +154,6 @@ def preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detectio
         except:
             pass
     genuslist['ID'] = genuslist.index
+    genuslist = genuslist.reset_index(drop=True)
     genuslist.to_csv(data_preprocessing_place+'/taxa_Into_Model.csv')
+

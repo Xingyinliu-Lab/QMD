@@ -71,7 +71,7 @@ def qmd_optimization(fileplace, data_preprocessing_place, control_label, treat_l
         return mean_diff, lower_bound, upper_bound, differences
 
     genusdata = pd.read_csv(
-        data_preprocessing_place+'/taxa_abundance_Into_Model.csv', index_col=0, header=0)
+        data_preprocessing_place+'/abundance_data_intoModel.csv', index_col=0, header=0)
 
     taxalist = []
     for taxa in genusdata.columns:

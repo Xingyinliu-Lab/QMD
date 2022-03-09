@@ -25,7 +25,7 @@ The QMD_CUI.py is the entrance of the software. It takes following arguments.
 > 10. fdr. Whether turn FDR adjustment on. Benjamini/Hochberg FDR p value adjustment are provided in the software. One can choose turning it on or off. It is suggested if the sample size in each group are larger than 50, the FDR adjust is on. Valid values include "ON" and "OFF".
 > 11. plot. Whether plot the taxa changes bar chart. One can choose whether to plot the microbial density changes diverging bars chart. Valid values include "ON" and "OFF".
 > 12. confidence_level. The confidence interval for differentially abundant taxa identification. The value should be in (0.7,1). 
-> 
+> 13. manner.  1 for 'Drop directly' or 2 for 'Summarize as others'
 
 ### Outputs
 
@@ -40,18 +40,18 @@ QMD@XYL_Lab will output the analysis result in the specified folder. It includes
 A demo project can be found in this folder. To analysis the demo project, users can using following command.
 ### Using absolute path in linux platform
 ```python
-python QMD_CUI.py /mnt/d/project/CUI_QMD/demoProject /mnt/d/project/CUI_QMD/demoProject /mnt/d/project/CUI_QMD/demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
+python QMD_CUI.py /mnt/d/project/CUI_QMD/demoProject /mnt/d/project/CUI_QMD/demoProject /mnt/d/project/CUI_QMD/demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95 1
 ```
 ### Using relative path in linux platform
 ```python
-python QMD_CUI.py ./demoProject ./demoProject ./demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
+python QMD_CUI.py ./demoProject ./demoProject ./demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95 1
 ```
 ### Using absolute path in windows platform
 ```python
-python .\QMD_CUI.py D:\project\CUI_QMD\demoProject D:\project\CUI_QMD\demoProject D:\project\CUI_QMD\demoProject\dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
+python .\QMD_CUI.py D:\project\CUI_QMD\demoProject D:\project\CUI_QMD\demoProject D:\project\CUI_QMD\demoProject\dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95 1
 ```
 ### Using relative path in windows platform
 ```python
-python .\QMD_CUI.py ./demoProject ./demoProject ./demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95
+python .\QMD_CUI.py ./demoProject ./demoProject ./demoProject/dc_b2.csv 2 0 Healthy CD condition 500 ON ON 0.95 1
 ```
 

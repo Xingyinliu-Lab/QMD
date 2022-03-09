@@ -333,10 +333,10 @@ class query_window(QMainWindow):
         group_label = self.ui.lineEdit_5.text()
         permu_loops = self.ui.lineEdit_6.text()
         minimum_taxa_abundance_control = self.ui.lineEdit_9.text()
-
+        manner=self.ui.comboBox.currentText()
         try:
             qmd_dataPreprocessing_exe.preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detection_num, control_label, treat_label,
-                                                     group_label, permu_loops, minimum_taxa_abundance_control, os_p)
+                                                     group_label, permu_loops, minimum_taxa_abundance_control, os_p,manner)
             preprocessing_success = True
         except:
             pass
