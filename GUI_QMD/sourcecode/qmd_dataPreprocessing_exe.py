@@ -81,31 +81,31 @@ def preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detectio
 
     filtered_genuslist=res_detection_ratio[~res_detection_ratio['taxaId'].isin(genusIntoModel)]
 
-    if manner=='Drop directly':
+    if manner=='Drop directly' or len(filtered_genuslist)==0:
         genusdata = genusdata[genusIntoModel+[group_label]]
     if manner=='Summarize as others':
         if len(filtered_genuslist)>0:
             filtered_genuslist=list(filtered_genuslist['taxaId'])
             print(filtered_genuslist)
             genusdata['others'] = genusdata[filtered_genuslist].apply(lambda x: x.sum(), axis=1)
-        genusIntoModel=genusIntoModel+['others']
-        genusdata = genusdata[genusIntoModel+[group_label]]
-        genuslist.loc[count,'taxaId']='others'
-        controlgdata = genusdata.loc[genusdata[group_label]== control, 'others']
-        treatgdata = genusdata.loc[genusdata[group_label] == treat, 'others']
-        controlobs = sum(controlgdata > 0)
-        treatobs = sum(treatgdata > 0)
-        genuslist.loc[count, 'controlDetectionNum'] = controlobs
-        genuslist.loc[count, 'treatDetectionNum'] = treatobs
-        genuslist.loc[count,
-                                'controlDetectionRate'] = controlobs/controllen
-        genuslist.loc[count,
-                                'treatDetectionRate'] = treatobs/treatlen
-        if controlobs > 1:
-            genuslist.loc[count, 'controlAbundance'] = np.median(
-                controlgdata)
-        else:
-            genuslist.loc[count, 'controlAbundance'] = 0
+            genusIntoModel=genusIntoModel+['others']
+            genusdata = genusdata[genusIntoModel+[group_label]]
+            genuslist.loc[count,'taxaId']='others'
+            controlgdata = genusdata.loc[genusdata[group_label]== control, 'others']
+            treatgdata = genusdata.loc[genusdata[group_label] == treat, 'others']
+            controlobs = sum(controlgdata > 0)
+            treatobs = sum(treatgdata > 0)
+            genuslist.loc[count, 'controlDetectionNum'] = controlobs
+            genuslist.loc[count, 'treatDetectionNum'] = treatobs
+            genuslist.loc[count,
+                                    'controlDetectionRate'] = controlobs/controllen
+            genuslist.loc[count,
+                                    'treatDetectionRate'] = treatobs/treatlen
+            if controlobs > 1:
+                genuslist.loc[count, 'controlAbundance'] = np.median(
+                    controlgdata)
+            else:
+                genuslist.loc[count, 'controlAbundance'] = 0
 
     genusIntoModel = list(genuslist['taxaId'])
     genusdata = genusdata[genusIntoModel+[group_label]]
@@ -157,3 +157,6 @@ def preprocess_qmd(data_preprocessing_place, datafilename, minimum_taxa_detectio
     genuslist = genuslist.reset_index(drop=True)
     genuslist.to_csv(data_preprocessing_place+'/taxa_Into_Model.csv')
 
+#
+# preprocess_qmd('E:\\pyqt5\\QMD_v2\\Project\\af1\\datapreprocessing/', 'E:\\pyqt5\\QMD_v2\\demoData\\dc_b2.csv', 5, 'Healthy', 'CD', 'condition',
+#                500,0, '','Summarize as others')
