@@ -16,7 +16,7 @@ import pandas as pd
 # this para should be modified before start this script
 processors_num=20
 
-fileplace='simulationData/H2029/'
+fileplace='H2029/'
 permu=500
 lp=5
 up=95
@@ -44,7 +44,15 @@ def cal_optimization(cl):
             continue
         cmdStr='python qmd_ANCOM.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(predix)+' '+control+' '+treat
         os.system(cmdStr)
-
+def cal_permutation_on_phi(cl):
+    for oo in cl:
+        i=oo+1
+        print(i)
+        predix = 'H2029_'+str(i)
+        if os.path.exists(fileplace + predix + '_' + control + '_' + treat + '_total_abundance_change_permu_res.npy'):
+            continue
+        cmdStr='python qmd_permutation_on_total_abundance_change.py'+' '+fileplace+' '+str(permu)+' '+str(lp)+' '+str(up)+' '+str(minimum_taxa_detection_num)+' '+str(predix)+' '+control+' '+treat
+        os.system(cmdStr)
 
 
 if __name__ == '__main__':
@@ -64,5 +72,14 @@ if __name__ == '__main__':
     p = Pool(processor)
     for i in range(processor):
         reslist.append(p.apply_async(cal_optimization, args=(cl[i],)))
+    p.close()
+    p.join()
+    print('-------------------------------\n-------------------------------\n-------------------------------\n-------------------------------\n')
+    print('Start permutation analysis')
+    time.sleep(5)
+    reslist = []
+    p = Pool(processor)
+    for i in range(processor):
+        reslist.append(p.apply_async(cal_permutation_on_phi, args=(cl[i],)))
     p.close()
     p.join()
