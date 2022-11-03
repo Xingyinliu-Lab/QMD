@@ -3,9 +3,9 @@ from skbio.diversity.alpha import shannon
 import pandas as pd
 #skbio.diversity.alpha.shannon(counts, base=2)
 
-fileplace_list=['E:\\github\\xingyinliu_lab\\QMD\\QMD\\Simulation\\simulationData\\GPoriData/',
-                'E:\\github\\xingyinliu_lab\\QMD\\QMD\\Simulation\\simulationData\\H2029/',
-                'E:\\github\\xingyinliu_lab\\QMD\\QMD\\Simulation\\simulationData\\Obesity/']
+fileplace_list=['simulationData/GPoriData/',
+                'simulationData/H2029/',
+                'simulationData/Obesity/']
 prefix_list=['gp_','H2029_','Obesity_']
 for j in range(3):
     fileplace=fileplace_list[j]
